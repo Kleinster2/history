@@ -27,8 +27,8 @@ The largest economic zone of the early medieval period, connecting three contine
 
 - [[Islamic Economy]] - Trade, finance, agriculture
 - [[Baghdad]] - Abbasid capital, world's largest city
-- [[Cairo]] - Fatimid/Mamluk commerce *coming soon*
-- [[Córdoba]] - Al-Andalus prosperity *coming soon*
+- [[Cairo]] - Fatimid/Mamluk commerce, Red Sea trade
+- [[Cordoba|Córdoba]] - Al-Andalus prosperity, convivencia
 
 ### Song China (960-1279)
 
@@ -36,7 +36,7 @@ The most commercially advanced economy of the medieval world.
 
 - [[Song China Economy]] - Paper money, commerce, industry
 - [[Hangzhou]] - World's largest city (Southern Song)
-- [[Quanzhou]] - Maritime trade center *coming soon*
+- [[Quanzhou]] - World's greatest medieval port, cosmopolitan trade
 
 ### Medieval Europe (500-1500)
 
@@ -61,6 +61,7 @@ Unified Eurasia, enabling unprecedented trade.
 
 | Topic | Notes |
 |-------|-------|
+| Trade networks overview | [[Trade Networks]] |
 | Silk Road revival | [[Mongol Economy]] |
 | Indian Ocean trade | [[Islamic Economy]] |
 | Maritime revolution | [[Song China Economy]] |
@@ -69,11 +70,13 @@ Unified Eurasia, enabling unprecedented trade.
 
 ### Money and Finance
 
-| Development | Location |
-|-------------|----------|
+| Development | Notes |
+|-------------|-------|
+| Money history | [[Money]] |
 | Paper money | [[Song China Economy]] |
 | Islamic finance | [[Islamic Economy]] |
 | Banking | [[Florence]], [[Medieval Europe Economy]] |
+| Templar banking | [[Templars]] |
 | Bills of exchange | Islamic → European |
 
 ### Agriculture and Production
@@ -200,6 +203,9 @@ Unified Eurasia, enabling unprecedented trade.
 
 ### Economic Analysis
 - [[Origins of Economy]]
+- [[Medieval Wealth]] - Who was rich and how
+- [[Monastic Economy]] - How monasteries got rich
+- [[Templars]] - First international bank
 - [[Economic Convergence]]
 - [[Economic Collapse]]
 - [[Economic Persistence]]

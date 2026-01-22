@@ -38,6 +38,9 @@ The Early Modern period witnessed the creation of a truly global economy for the
 |---------|-------|
 | [[Atlantic Economy]] | Triangular trade, slavery |
 | Colonialism | European empires |
+| [[Timber Crisis]] | Wood scarcity → coal transition |
+| [[Steam Engine]] | Pumps → factories → railways |
+| [[Lunar Society]] | Science-industry network |
 | [[Industrial Revolution]] | British transformation |
 | [[Great Divergence]] | Why Europe? |
 
@@ -50,26 +53,32 @@ The Early Modern period witnessed the creation of a truly global economy for the
 The new center of global economy.
 
 - [[Atlantic Economy]] - Triangular trade, slavery, sugar
-- [[British Empire Economy]] - *coming soon*
-- [[Spanish Empire Economy]] - *coming soon*
-- [[Dutch Golden Age]] - *coming soon*
+- [[Dutch Golden Age]] - Financial innovations, VOC, trade dominance
+- [[Sugar Economy]] - Plantation system, slavery, Atlantic transformation
+- [[East India Companies]] - VOC, EIC, corporate colonialism
+- [[Spanish Empire Economy]] - Silver, decline, resource curse
+- [[British Empire Economy]] - Industrial empire, India, global trade
 
 ### Asia Under Pressure
 
 Still wealthy, increasingly pressured.
 
-- [[Qing China Economy]] - *coming soon*
-- [[Mughal India Economy]] - *coming soon*
-- [[Tokugawa Japan Economy]] - *coming soon*
-- [[Ottoman Economy]] - *coming soon*
+- [[Qing China Economy]] - World's largest economy, why no industrialization
+- [[Mughal India Economy]] - Textiles, deindustrialization, colonial impact
+- [[Tokugawa Japan Economy]] - Isolation and development, foundations for Meiji
+- [[Ottoman Economy]] - Timar system, transformation, decline
 
 ### The Americas
 
-Transformed by colonialism.
+Transformed by colonialism, then independent.
 
-- [[Colonial Americas Economy]] - *coming soon*
-- [[Sugar Economy]] - *coming soon*
-- [[Silver Economy]] - *coming soon*
+- [[Colonial Americas Economy]] - Spanish, Portuguese, British, French colonies
+- [[American Revolution]] - Economic causes, wartime finance, Constitutional solution
+- [[Hamilton's Financial System]] - Building credit from nothing, national bank
+- [[Cotton Economy]] - Slavery, British mills, King Cotton
+- [[Westward Expansion]] - Land policy, railroads, Indigenous dispossession
+- [[Sugar Economy]] - Plantation system, slavery, Caribbean
+- [[Silver Economy]] - American silver, global trade, Price Revolution
 
 ---
 
@@ -80,16 +89,18 @@ Transformed by colonialism.
 | Topic | Notes |
 |-------|-------|
 | Atlantic trade | [[Atlantic Economy]] |
-| Slave trade | [[Atlantic Economy]] |
-| East India Companies | *coming soon* |
+| Slave trade | [[Atlantic Economy]], [[Sugar Economy]] |
+| East India Companies | [[East India Companies]] |
+| Trade networks | [[Trade Networks]] |
 | Mercantilism | State-directed trade |
 | Free trade (emerging) | Adam Smith, 1776 |
 
 ### Money and Finance
 
-| Development | Location |
-|-------------|----------|
-| Amsterdam exchange | Dutch finance |
+| Development | Notes |
+|-------------|-------|
+| Money history | [[Money]] |
+| Amsterdam exchange | [[Dutch Golden Age]] |
 | Bank of England | 1694 |
 | Stock markets | Amsterdam, London |
 | Paper money | Spreading |
@@ -247,4 +258,4 @@ Transformed by colonialism.
 
 ### Other Periods
 - [[03 - Medieval/Medieval Index|Medieval History]]
-- [[05 - Modern/Modern Index|Modern History]] *coming soon*
+- [[05 - Modern/Modern Index|Modern History]]

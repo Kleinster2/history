@@ -5,8 +5,58 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Themes",
+      "color": {
+        "a": 1,
+        "rgb": 4360181
+      }
+    },
+    {
+      "query": "path:People  ",
+      "color": {
+        "a": 1,
+        "rgb": 4961375
+      }
+    },
+    {
+      "query": "path:\"01 - Prehistory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9136404
+      }
+    },
+    {
+      "query": "path:\"02 - Ancient\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12082232
+      }
+    },
+    {
+      "query": "path:\"03 - Medieval\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7031962
+      }
+    },
+    {
+      "query": "path:\"04 - Early Modern\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 185935
+      }
+    },
+    {
+      "query": "path:\"05 - Modern\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1914199
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.65734666217745,
-  "close": false
+  "scale": 0.38175369788203034,
+  "close": true
 }

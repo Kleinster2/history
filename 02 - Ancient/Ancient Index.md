@@ -13,10 +13,10 @@ The Ancient period spans from the emergence of writing and the first civilizatio
 
 | Period | Dates | Key Developments |
 |--------|-------|------------------|
-| Bronze Age | 3000-1200 BCE | First civilizations, writing |
-| Iron Age | 1200-500 BCE | New empires, alphabets |
-| Classical | 500 BCE-300 CE | Greece, Rome, philosophy |
-| Late Antiquity | 300-500 CE | Christianity, migrations |
+| [[Bronze Age]] | 3000-1200 BCE | First civilizations, writing |
+| [[Iron Age]] | 1200-500 BCE | New empires, alphabets |
+| [[Classical]] | 500 BCE-300 CE | Greece, Rome, philosophy |
+| [[Late Antiquity]] | 300-500 CE | Christianity, migrations |
 
 ---
 
@@ -73,6 +73,7 @@ The Ancient period spans from the emergence of writing and the first civilizatio
 - [[Mesoamerica Index]] - Overview and navigation
 - [[Pre-Columbian Economy]] - Alternative economic paths
 - [[Inca Empire]] - Economy without money or markets
+- [[Aztec Empire]] - Markets, currency, tribute
 
 ---
 
@@ -80,6 +81,9 @@ The Ancient period spans from the emergence of writing and the first civilizatio
 
 ### Economy
 - [[Origins of Economy]] - From prehistory
+- [[Ancient Wealth]] - Who was rich and how
+- [[Money]] - Invention of coinage, commodity money
+- [[Trade Networks]] - Silk Road, Indian Ocean, early trade
 - [[Indus Valley Economy]] - Standardization without kings
 - [[Mesopotamian Economy]] - Temples, palaces, markets
 - [[Egyptian Economy]] - State redistribution
@@ -93,23 +97,24 @@ The Ancient period spans from the emergence of writing and the first civilizatio
 - [[Cuneiform]] - Mesopotamian writing
 - [[Hieroglyphics]] - Egyptian sacred writing
 - [[Indus Script]] - Undeciphered trade script
-- [[Alphabets]] - *Coming soon*
+- [[Alphabets]] - From Phoenician to global scripts
 
 ### Technology
-- [[Bronze Age Technology]] - *Coming soon*
-- [[Iron Age Technology]] - *Coming soon*
+- [[Metallurgy and Economy]] - Bronze and Iron Ages, economic transformation
 
 ### Religion
 - [[Egyptian Religion]] - Gods, temples, afterlife
-- [[Mesopotamian Religion]] - *Coming soon*
-- [[Ancient Philosophy]] - *Coming soon*
+- [[Mesopotamian Religion]] - Gods, temples, ritual, temple economy
+
+### Thought
+- [[Ancient Philosophy]] - Pre-Socratics to Neoplatonism
 
 ### Architecture
 - [[Pyramids]] - Egyptian royal tombs
 
 ### Law and Society
-- [[Code of Hammurabi]] - *Coming soon*
-- [[Roman Law]] - *Coming soon*
+- [[Code of Hammurabi]] - Earliest complete law code, property and commerce
+- [[Roman Law]] - Property, contracts, enduring legal legacy
 
 ---
 

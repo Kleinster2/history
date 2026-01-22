@@ -5,10 +5,12 @@ period: Holocene
 location: Multiple centers worldwide
 tags: [neolithic, agriculture, domestication, prehistory, revolution]
 ---
-
+ 
 # Neolithic Revolution
 
 The Neolithic Revolution represents the transition from hunting and gathering to farming and settled life—one of the most consequential transformations in human history. Beginning around 12,000 years ago, this shift occurred independently in multiple centers worldwide, fundamentally altering human societies, population dynamics, and our relationship with the natural world.
+
+**From the economic progress perspective:** This was the first great economic transformation—the shift from immediate-return foraging to delayed-return agriculture. It created property, surplus, storage, specialization, trade, and inequality. Everything that followed (cities, writing, states, industry) built on this foundation. See [[Origins of Economy]] for how this fits the longer arc.
 
 ## Overview
 
@@ -418,6 +420,8 @@ Agriculture as "worst mistake in human history":
 
 ## Related Notes
 
+- [[Origins of Economy]]
+- [[Economic Persistence]]
 - [[Agricultural Revolution]]
 - [[Domestication]]
 - [[Fertile Crescent]]

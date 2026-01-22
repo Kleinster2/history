@@ -224,9 +224,9 @@ China in 1500 had:
 
 | Factor | Significance |
 |--------|--------------|
-| Wood shortage | 17th c. timber crisis |
+| Wood shortage | [[Timber Crisis\|17th c. timber crisis]] |
 | Coal substitution | Necessity driving innovation |
-| Steam engine | Originally for mine drainage |
+| [[Steam Engine]] | Originally for mine drainage |
 | Iron smelting | Coke process (Darby) |
 | Location | Near ports, rivers |
 
@@ -390,6 +390,9 @@ The Great Divergence resulted from:
 
 - [[Economic Convergence]]
 - [[Economic Collapse]]
+- [[Timber Crisis]]
+- [[Steam Engine]]
+- [[Industrial Revolution]]
 - [[Song China Economy]]
 - [[Islamic Economy]]
 - [[Medieval Europe Economy]]

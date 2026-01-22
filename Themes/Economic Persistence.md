@@ -313,8 +313,53 @@ From Oldowan to AI:
 
 ---
 
+## Wealth Persistence: The Florence Evidence
+
+The most striking evidence of economic persistence comes from Florence—where researchers matched surnames from the 1427 Catasto (tax census) to 2011 tax records.
+
+### The Barone-Mocetti Study (2016)
+
+| Finding | Detail |
+|---------|--------|
+| Time span | 584 years |
+| Method | Matched ~900 surnames |
+| Result | Significant correlation between 1427 and 2011 wealth |
+| Magnitude | Top 1427 earners' descendants earn ~5% more today |
+
+### What Survived
+
+| Event | Families Persisted Through |
+|-------|---------------------------|
+| Black Death (1348) | Population halved |
+| Political upheavals | Medici rise/fall, foreign rule |
+| Napoleonic period | Institutional disruption |
+| World Wars | 20th century disruption |
+
+### What Gets Transmitted
+
+| Mechanism | Description |
+|-----------|-------------|
+| Human capital | Education, skills, knowledge |
+| Social capital | Networks, connections |
+| Cultural capital | Values, aspirations |
+| Surname reputation | Recognition, trust |
+
+**"Shirtsleeves to shirtsleeves in three generations"? The Florence data suggests more like 10-15 generations—if ever.**
+
+### Implications
+
+| Insight | Description |
+|---------|-------------|
+| Mobility slower than thought | Small advantages compound over centuries |
+| Deep structure | Social position more inherited than assumed |
+| Long memory | Societies remember who's who |
+
+---
+
 ## Sources & Further Reading
 
+- Barone, G. & Mocetti, S. (2016). "Intergenerational Mobility in the Very Long Run: Florence 1427-2011"
+- Clark, G. (2014). *The Son Also Rises: Surnames and the History of Social Mobility*
 - Ofek, H. (2001). *Second Nature: Economic Origins of Human Evolution*
 - Bowles, S. & Gintis, H. (2011). *A Cooperative Species*
 - Henrich, J. et al. (2001). "In Search of Homo Economicus"
@@ -328,5 +373,6 @@ From Oldowan to AI:
 - [[Origins of Economy]]
 - [[Economic Convergence]]
 - [[Economic Collapse]]
+- [[Wealth Through History]]
 - [[Pre-Columbian Economy]]
 - [[Inca Empire]]

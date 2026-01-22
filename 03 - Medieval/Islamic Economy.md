@@ -383,6 +383,7 @@ The Islamic agricultural revolution introduced crops from India and elsewhere ac
 - [[Medieval Index]]
 - [[Song China Economy]]
 - [[Medieval Europe Economy]]
+- [[Jewish Diaspora Economy]]
 - [[Great Divergence]]
 - [[Economic Convergence]]
 - [[Persian Economy]]

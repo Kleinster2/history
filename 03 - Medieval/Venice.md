@@ -319,4 +319,5 @@ Venice was medieval Europe's most successful commercial city-state, dominating M
 - [[Florence]]
 - [[Hanseatic League]]
 - [[Islamic Economy]]
+- [[Jewish Diaspora Economy]]
 - [[Great Divergence]]

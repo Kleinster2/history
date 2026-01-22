@@ -180,7 +180,7 @@ Every ancient economic system eventually ended—some through gradual transforma
 
 **Lesson:** Even sophisticated systems can collapse without external conquest.
 
-### The Bronze Age Collapse (~1200 BCE)
+### The [[Bronze Age Collapse]] (~1200 BCE)
 
 | Factor | Evidence |
 |--------|----------|
@@ -345,6 +345,8 @@ Every ancient economic system eventually ended—some through gradual transforma
 
 **Not prediction—observation of patterns.**
 
+**Counterexample:** The [[Timber Crisis]] shows resource constraint can drive innovation rather than collapse—Britain's wood shortage pushed coal adoption, enabling industrialization.
+
 ---
 
 ## Sources & Further Reading
@@ -367,3 +369,5 @@ Every ancient economic system eventually ended—some through gradual transforma
 - [[Maya Civilization]]
 - [[Inca Empire]]
 - [[Bronze Age]]
+- [[Bronze Age Collapse]]
+- [[Timber Crisis]]

@@ -4,6 +4,7 @@ region: Egypt
 period: [Bronze Age, Iron Age, Classical]
 dates: 3100 BCE - 30 BCE
 tags: [egypt, ancient, civilization, index, pharaoh]
+aliases: [Egypt, Ancient Egypt]
 ---
 
 # Ancient Egypt

@@ -98,9 +98,13 @@ The Industrial Revolution was the most important economic transformation in huma
 | Output | Massive increase |
 | Significance | Energy foundation |
 
+**See:** [[Timber Crisis]] - Wood scarcity drove coal adoption, accidentally enabling industrialization.
+
 ---
 
 ## The Steam Engine
+
+**Main article:** [[Steam Engine]]
 
 ### Development
 
@@ -213,6 +217,10 @@ The Industrial Revolution was the most important economic transformation in huma
 | Sugar profits | Capital? |
 | Markets | Export demand |
 | Extraction | Wider debate |
+
+### Social Networks
+
+The [[Lunar Society]] of Birmingham exemplifies how personal networks of industrialists, scientists, and inventors drove innovation through collaboration and knowledge-sharing.
 
 ---
 
@@ -390,6 +398,9 @@ The Industrial Revolution was the most important economic transformation in huma
 
 - [[Early Modern Index]]
 - [[Atlantic Economy]]
+- [[Timber Crisis]]
+- [[Steam Engine]]
+- [[Lunar Society]]
 - [[Great Divergence]]
 - [[Economic Convergence]]
 - [[Song China Economy]]

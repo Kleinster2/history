@@ -2,7 +2,27 @@
   "permissions": {
     "allow": [
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: Human history Obsidian vault with economic emphasis\n\nComprehensive knowledge base spanning Prehistory to Early Modern era:\n\n- Prehistory: Miocene through Neolithic, tool industries, human evolution\n- Ancient: Mesopotamia, Egypt, Indus Valley, China, Greece, Rome, Persia, Americas\n- Medieval: Islamic world, Song China, Europe, Mongols, major cities\n- Early Modern: Atlantic economy, Industrial Revolution\n- Thematic: Economic origins, convergence, collapse, persistence, Great Divergence\n\nAll civilizations at consistent depth with economy notes, key sites, key figures.\nCross-linked for Obsidian graph navigation.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(gh repo create:*)",
+      "Bash(cat:*)",
+      "Bash(find:*)",
+      "Bash(comm:*)",
+      "Bash(while read count name)",
+      "Bash(do if ! find \"C:/Users/klein/obsidian/history\" -name \"$name.md\")",
+      "Bash(then echo \"$count $name\")",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(for name in \"Mesopotamia Index\" \"Egypt Index\" \"Pleistocene Epoch\" \"Venice\" \"Medieval Europe Economy\" \"Upper Paleolithic\" \"Sumer\" \"Inca Empire\" \"Uruk\" \"Hanseatic League\" \"Baghdad\" \"Neolithic Revolution\")",
+      "Bash(do)",
+      "Bash(if [ -f \"C:/Users/klein/obsidian/history\"/*/\"$name.md\" ])",
+      "Bash([ -f \"C:/Users/klein/obsidian/history\"/*/*/\"$name.md\" ])",
+      "Bash([ -f \"C:/Users/klein/obsidian/history\"/\"$name.md\" ])",
+      "Bash(then)",
+      "Bash(echo:*)",
+      "Bash(else)",
+      "Bash(dir:*)",
+      "Bash(git commit:*)"
     ]
   }
 }

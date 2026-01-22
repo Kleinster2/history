@@ -213,6 +213,10 @@ Florence revolutionized European finance, creating the banking system that funde
 | Records | Detailed wealth data |
 | Significance | First systematic wealth tax |
 
+Recent research using the 1427 Catasto shows remarkable wealth persistence—descendants of wealthy families in 1427 remain wealthier today, 600 years later.
+
+**See:** [[Economic Persistence]] for the Barone-Mocetti study.
+
 ---
 
 ## Florentine Society
@@ -320,4 +324,5 @@ Florence revolutionized European finance, creating the banking system that funde
 - [[Medieval Europe Economy]]
 - [[Venice]]
 - [[Hanseatic League]]
+- [[Wealth Through History]]
 - [[Great Divergence]]
