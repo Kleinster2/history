@@ -22,7 +22,12 @@
       "Bash(echo:*)",
       "Bash(else)",
       "Bash(dir:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(grep:*)",
+      "Bash(wc:*)",
+      "Bash(for dir in \"01 - Prehistory\" \"02 - Ancient\" \"03 - Medieval\" \"04 - Early Modern\" \"05 - Modern\" \"06 - Contemporary\" \"Themes\")",
+      "Bash(for file in \"Capitalism\" \"Communism\" \"Globalization\")",
+      "Bash(do find \"C:\\\\Users\\\\klein\\\\obsidian\\\\history\" -name \"$file.md\" -type f)"
     ]
   }
 }

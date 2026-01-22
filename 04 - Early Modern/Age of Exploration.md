@@ -35,7 +35,8 @@ The Age of Exploration (roughly 1400-1600)—when European navigators sailed to 
 
 | Innovation | Effect |
 |------------|--------|
-| Caravel | Ocean-going ship |
+| [[Maritime Technology\|Caravel]] | Ocean-going ship, sail against wind |
+| Carrack | Larger, armed cargo ships |
 | Navigation | Compass, astrolabe |
 | Cartography | Improved maps |
 | Gunpowder | Military advantage |
@@ -200,5 +201,6 @@ The Age of Exploration (roughly 1400-1600)—when European navigators sailed to 
 - [[Columbian Exchange]]
 - [[Spanish Empire]]
 - [[Portuguese Empire]]
+- [[Maritime Technology]]
 - [[Trade Networks]]
 - [[Silver Trade]]

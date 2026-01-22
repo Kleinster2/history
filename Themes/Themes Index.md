@@ -40,6 +40,11 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - How trade moved goods, ideas, technology, and disease
   - From land routes to sea routes
 
+- [[Maritime Technology]] - Ships that changed history
+  - Caravel, carrack, galleon, fluyt, steamship, container
+  - How ship technology enabled economic transformation
+  - From Mediterranean galleys to global supply chains
+
 ### Wealth and Development
 
 - [[Wealth Through History]] - Who was rich and how

@@ -121,14 +121,18 @@ Maritime trade—commerce by sea—has connected distant regions throughout hist
 
 ## Technology
 
+See [[Maritime Technology]] for detailed ship evolution.
+
 ### Ships
 
 | Era | Type |
 |-----|------|
 | Ancient | Galleys, sailing ships |
-| Medieval | Cog, carrack |
-| Early Modern | Galleon |
-| Modern | Steamship, container |
+| Medieval | Cog, junk, dhow |
+| Age of Exploration | Caravel, carrack |
+| Early Modern | Galleon, fluyt |
+| Industrial | Clipper, steamship |
+| Modern | Tanker, container ship |
 
 ### Navigation
 
@@ -218,6 +222,7 @@ Maritime trade—commerce by sea—has connected distant regions throughout hist
 ## Related Notes
 
 - [[Trade Networks]]
+- [[Maritime Technology]]
 - [[Phoenicians]]
 - [[Venetian Trade]]
 - [[Indian Ocean Trade]]
