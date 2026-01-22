@@ -53,6 +53,21 @@ Unified Eurasia, enabling unprecedented trade.
 
 - [[Mongol Economy]] - Pax Mongolica, Silk Road peak
 
+### Southeast Asia
+
+Maritime empires controlling crucial trade routes.
+
+- [[Khmer Empire]] - Angkor, hydraulic rice economy
+- [[Srivijaya]] - Malacca Strait maritime dominance
+
+### Sub-Saharan Africa
+
+Gold trade and Indian Ocean commerce.
+
+- [[Mali Empire]] - Trans-Saharan gold, Mansa Musa
+- [[Songhai Empire]] - Successor to Mali, Timbuktu
+- [[Swahili Trade]] - East African coast, Indian Ocean networks
+
 ---
 
 ## Themes
@@ -63,8 +78,10 @@ Unified Eurasia, enabling unprecedented trade.
 |-------|-------|
 | Trade networks overview | [[Trade Networks]] |
 | Silk Road revival | [[Mongol Economy]] |
-| Indian Ocean trade | [[Islamic Economy]] |
+| Indian Ocean trade | [[Islamic Economy]], [[Swahili Trade]] |
 | Maritime revolution | [[Song China Economy]] |
+| Southeast Asian trade | [[Srivijaya]], [[Khmer Empire]] |
+| Trans-Saharan trade | [[Mali Empire]], [[Songhai Empire]] |
 | Mediterranean commerce | [[Venice]], [[Medieval Europe Economy]] |
 | Hanseatic trade | [[Hanseatic League]] |
 

@@ -52,6 +52,34 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[American WWII Economy]] - War mobilization ends Depression
 - [[Postwar Boom]] - The Golden Age of growth
 
+### Japan
+
+- [[Meiji Restoration]] - State-led industrialization
+- [[Japanese Economic Miracle]] - Postwar transformation
+- [[Japanese Stagnation]] - Lost decades
+
+### China
+
+- [[China's Rise]] - From Mao to market
+
+### India
+
+- [[Colonial India]] - British extraction, deindustrialization
+- [[Modern India]] - From planning to liberalization
+
+### Southeast Asia
+
+- [[Vietnam Economy]] - War, division, Đổi Mới
+- [[ASEAN Economy]] - Regional integration
+
+### Africa
+
+- [[Modern Africa]] - Post-independence challenges
+
+### Latin America
+
+- [[Latin American Development]] - ISI, debt, inequality
+
 ---
 
 ## Economic Systems
@@ -139,15 +167,18 @@ The Modern period witnessed the most dramatic economic transformation in human h
 | World War II (1939-1945) | Destruction and reconstruction |
 | Bretton Woods (1944) | Postwar order |
 | Decolonization (1947-1970s) | End of empires |
-| Oil shocks (1973, 1979) | End of golden age |
+| [[Oil Crisis]] (1973, 1979) | End of golden age |
+| [[Neoliberalism]] (1980s) | Market revolution |
 | Fall of USSR (1991) | Capitalism triumphant? |
+| [[Asian Tigers]] | East Asian miracles |
 
 ### 21st Century
 
 | Event | Economic Impact |
 |-------|-----------------|
-| China's rise | New economic superpower |
-| 2008 Financial Crisis | System questioned |
+| [[China's Rise]] | New economic superpower |
+| [[2008 Financial Crisis]] | System questioned |
+| [[Financialization]] | Wall Street dominance |
 | COVID-19 (2020) | Supply chains, state role |
 | Climate challenge | Transformation required |
 
@@ -216,7 +247,6 @@ The Modern period witnessed the most dramatic economic transformation in human h
 
 This section is under development. Priority notes:
 
-- Chinese Economic Reforms
 - Development Economics
 - Climate and Economy
 

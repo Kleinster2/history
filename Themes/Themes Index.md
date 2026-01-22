@@ -20,6 +20,9 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
 | Persistence | What survives across systems? | [[Economic Persistence]] |
 | Collapse | What makes systems fail? | [[Economic Collapse]] |
 | Divergence | Why did Europe industrialize first? | [[Great Divergence]] |
+| Distribution | Who benefits from growth? | [[Inequality]] |
+| Integration | How is production organized globally? | [[Global Supply Chains]] |
+| Regionalism | How do trade blocs shape commerce? | [[Trade Blocs]] |
 
 ---
 
@@ -69,6 +72,23 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - Complexity, fragility, interdependence
   - What collapses teach us about stability
 
+### Modern Transformations
+
+- [[Inequality]] - The arc of inequality through history
+  - From forager equality to agrarian stratification
+  - Industrial rise, Great Compression, Great Divergence
+  - Piketty's r > g, global vs. within-country inequality
+
+- [[Global Supply Chains]] - How the world makes things
+  - From one-place production to fragmented manufacturing
+  - Containerization, just-in-time, vulnerability
+  - Reshoring, geopolitics, resilience
+
+- [[Trade Blocs]] - Regional trade arrangements
+  - EU, NAFTA, ASEAN, Mercosur, AfCFTA
+  - Building blocks or stumbling blocks?
+  - Geopolitics of trade
+
 ---
 
 ## Relationship to Periods
@@ -81,6 +101,7 @@ These thematic notes cut across the chronological structure:
 | [[Ancient Index]] | [[Money]], [[Trade Networks]], [[Ancient Wealth]] |
 | [[Medieval Index]] | [[Trade Networks]], [[Medieval Wealth]], [[Economic Collapse]] |
 | [[Early Modern Index]] | [[Great Divergence]], [[Trade Networks]], [[Money]] |
+| [[Modern Index]] | [[Inequality]], [[Global Supply Chains]], [[Trade Blocs]] |
 
 ---
 
