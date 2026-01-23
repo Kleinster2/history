@@ -59,19 +59,26 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[Japanese Economic Miracle]] - Postwar transformation
 - [[Japanese Stagnation]] - Lost decades
 
+### Korea
+
+- [[Korean Chaebol]] - Samsung, Hyundai, and state-directed development
+
 ### China
 
 - [[China's Rise]] - From Mao to market
+- [[Chinese Business]] - SOEs, tech giants, party-state capitalism
 
 ### India
 
 - [[Colonial India]] - British extraction, deindustrialization
 - [[Modern India]] - From planning to liberalization
+- [[Indian Business]] - Tata to Infosys, managing agency to IT
 
 ### Southeast Asia
 
 - [[Vietnam Economy]] - War, division, Đổi Mới
 - [[ASEAN Economy]] - Regional integration
+- [[Overseas Chinese Networks]] - The bamboo network
 
 ### Africa
 
@@ -84,6 +91,7 @@ The Modern period witnessed the most dramatic economic transformation in human h
 ### Europe
 
 - [[European Economic Miracle]] - Postwar recovery, social market
+- [[German Business Model]] - Mittelstand, codetermination, patient capital
 - [[Soviet Economy]] - Central planning, rise and fall
 
 ---
@@ -306,7 +314,15 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[Climate and Economy]]
 - [[Business Firm]]
 - [[Entrepreneurship]]
+- [[Foundational Firms]]
 - [[Proto-industrialization]]
+
+### Global Business Models
+- [[German Business Model]]
+- [[Korean Chaebol]]
+- [[Chinese Business]]
+- [[Indian Business]]
+- [[Overseas Chinese Networks]]
 
 ### Systems & Development
 - [[Soviet Economy]]
