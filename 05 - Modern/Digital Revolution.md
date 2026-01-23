@@ -81,6 +81,22 @@ Eight engineers left Shockley Semiconductor (whose founder had co-invented the t
 
 Fairchild's organizational DNA—VC funding, stock options, spin-off culture, engineer-founders—became the Silicon Valley model. Every tech startup today operates on the template these eight defectors created. The "Fairchildren" (companies spawned from Fairchild alumni) include Intel, AMD, and through them the entire semiconductor industry. See [[Foundational Firms]].
 
+### Why Silicon Valley Beat Route 128
+
+The East Coast had every advantage—yet lost. The contrast reveals how [[Institutions and Progress|institutional rules shape outcomes]]:
+
+| Feature | Route 128 (Boston) | Silicon Valley |
+|---------|-------------------|----------------|
+| Research | MIT, Bell Labs, Harvard | Stanford (weaker initially) |
+| Capital | Wall Street, defense contracts | Venture capital (newer, riskier) |
+| Firm structure | Large, vertically integrated (DEC, Wang, Raytheon) | Small, networked, constantly splitting |
+| Non-competes | Enforced—engineers locked in | California won't enforce—people move freely |
+| Knowledge flow | Stays inside firms | Flows between firms via job-hopping |
+| Failure | Career-ending stigma | Expected, tolerated, even valued |
+| Culture | Corporate loyalty, hierarchy | Meritocracy claims, flat(ter) |
+
+The decisive factor: California's refusal to enforce non-compete clauses meant that when Fairchild engineers left to start Intel (1968), no one could stop them. In Massachusetts, DEC and Wang kept talent trapped—and when those firms declined, the knowledge went down with them. Same talent, different legal rules, radically different innovation ecosystems.
+
 ---
 
 ## The Computer Industry
