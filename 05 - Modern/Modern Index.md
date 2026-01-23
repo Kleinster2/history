@@ -96,6 +96,8 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[Oil Economy]] - The commodity that shaped the century
 - [[Digital Revolution]] - Computing, internet, platforms, AI
 - [[Labor and Unions]] - Rise and decline of organized workers
+- [[Stock Markets]] - From Amsterdam to algorithmic trading
+- [[Consumer Culture]] - Advertising, branding, and the demand economy
 
 ---
 
@@ -157,9 +159,10 @@ The Modern period witnessed the most dramatic economic transformation in human h
 | Development | Significance |
 |-------------|--------------|
 | Central banking | Monetary management |
-| Stock markets | Capital allocation |
+| [[Stock Markets]] | Capital allocation |
 | International finance | Integration, crises |
 | Fiat money | Post-1971 |
+| [[Financialization]] | Wall Street dominance |
 
 ---
 
@@ -259,16 +262,8 @@ The Modern period witnessed the most dramatic economic transformation in human h
 |----------|---------------|
 | Continued growth? | Limits, sustainability |
 | Convergence? | Can all countries develop? |
-| Environment? | Can growth be green? |
+| [[Climate and Economy\|Environment?]] | Can growth be green? |
 | Institutions? | What enables development? |
-
----
-
-## Notes to Create
-
-This section is under development. Priority notes:
-
-- Climate and Economy
 
 ---
 
@@ -306,6 +301,9 @@ This section is under development. Priority notes:
 - [[Oil Economy]]
 - [[Digital Revolution]]
 - [[Labor and Unions]]
+- [[Stock Markets]]
+- [[Consumer Culture]]
+- [[Climate and Economy]]
 
 ### Systems & Development
 - [[Soviet Economy]]

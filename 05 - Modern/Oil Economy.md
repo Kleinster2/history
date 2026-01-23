@@ -345,6 +345,7 @@ Oil reshaped the 20th century more than any other commodity. Cheap petroleum pow
 ## Related Notes
 
 - [[Oil Crisis]]
+- [[Climate and Economy]]
 - [[Gilded Age]]
 - [[Postwar Boom]]
 - [[Neoliberalism]]
