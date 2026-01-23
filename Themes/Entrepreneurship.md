@@ -385,6 +385,7 @@ The entrepreneur—someone who sees an opportunity, takes a risk, and creates so
 
 ## Related Notes
 
+- [[Institutions and Progress]]
 - [[Great Divergence]]
 - [[Capitalism]]
 - [[Business Firm]]

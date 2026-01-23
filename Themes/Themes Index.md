@@ -14,6 +14,7 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
 
 | Theme | Question | Note |
 |-------|----------|------|
+| **Channeling** | **What makes ambition produce progress?** | **[[Institutions and Progress]]** |
 | Progress | How did we get rich? | [[Wealth Through History]] |
 | Mechanism | What enables exchange? | [[Money]], [[Trade Networks]] |
 | Convergence | Why does everyone end up similar? | [[Economic Convergence]] |
@@ -131,7 +132,8 @@ These thematic notes cut across the chronological structure:
 
 All these notes serve a single inquiry: **How did humanity go from universal poverty to unprecedented wealth?**
 
-The journey involved:
+The answer, traced through every period: [[Institutions and Progress|institutions that channel human ambition into production rather than extraction]]. The journey involved:
+
 1. **Origins** - Investment thinking, delayed returns
 2. **Agriculture** - Surplus, storage, specialization
 3. **Cities** - Division of labor, markets
@@ -141,6 +143,8 @@ The journey involved:
 7. **Industry** - Energy, machines, growth
 8. **Divergence** - Why some got rich first
 9. **Convergence** - Why others are catching up
+
+At every stage, the question is the same: what made the ambitious person build rather than take?
 
 ---
 

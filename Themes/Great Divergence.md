@@ -388,6 +388,7 @@ The Great Divergence resulted from:
 
 ## Related Notes
 
+- [[Institutions and Progress]]
 - [[Economic Convergence]]
 - [[Economic Collapse]]
 - [[Timber Crisis]]
