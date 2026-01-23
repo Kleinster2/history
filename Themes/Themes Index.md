@@ -85,6 +85,11 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - How pooling capital from strangers became possible
   - Corporate personhood, governance, Coase's question
 
+- [[Foundational Firms]] - The "stem cells" of modern business
+  - Specific firms whose organizational DNA became universal
+  - VOC, Arkwright, Ford, Toyota, Fairchild, and ten others
+  - The composite modern corporation as 400 years of accumulated innovation
+
 - [[Entrepreneurship]] - Who creates new enterprises, and why
   - Schumpeter's creative destruction, Baumol's productive vs. unproductive
   - Weber's Protestant ethic, status of commerce across cultures
