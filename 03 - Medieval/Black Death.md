@@ -178,7 +178,7 @@ The Black Death (1346-1353) was history's deadliest pandemic—killing 30-60% of
 ## Related Notes
 
 - [[Disease & Pandemics]]
-- [[Medieval Period]]
+- [[03 - Medieval/Medieval Index|Medieval Index]]
 - [[Feudalism]]
 - [[Trade Networks]]
 - [[Climate & History]]

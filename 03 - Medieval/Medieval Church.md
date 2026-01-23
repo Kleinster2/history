@@ -219,7 +219,7 @@ The medieval Catholic Church was Europe's dominant institution—a spiritual aut
 ## Related Notes
 
 - [[Feudalism]]
-- [[Medieval Period]]
+- [[03 - Medieval/Medieval Index|Medieval Index]]
 - [[Religion & Economy]]
 - [[Trade Networks]]
 - [[Universities]]

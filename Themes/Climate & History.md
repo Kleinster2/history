@@ -186,6 +186,6 @@ Climate has shaped human history more profoundly than most narratives acknowledg
 
 - [[Agriculture]]
 - [[Bronze Age Collapse]]
-- [[Medieval Period]]
+- [[03 - Medieval/Medieval Index|Medieval Index]]
 - [[Neolithic Revolution]]
 - [[Disease & Pandemics]]

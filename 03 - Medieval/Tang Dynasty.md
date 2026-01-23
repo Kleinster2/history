@@ -226,5 +226,5 @@ The Tang Dynasty (618-907 CE) was China's golden age—an era of territorial exp
 - [[Ancient China]]
 - [[Silk Road]]
 - [[Buddhism]]
-- [[Medieval Period]]
+- [[03 - Medieval/Medieval Index|Medieval Index]]
 - [[Trade Networks]]

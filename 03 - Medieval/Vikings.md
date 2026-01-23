@@ -212,7 +212,7 @@ The Vikings (793-1066 CE) transformed early medieval Europe through raiding, tra
 
 ## Related Notes
 
-- [[Medieval Period]]
+- [[03 - Medieval/Medieval Index|Medieval Index]]
 - [[Trade Networks]]
 - [[Khazaria]]
 - [[Slavery]]

@@ -228,4 +228,4 @@ The Ottoman Empire (c. 1299-1922) was one of history's longest-lived empires—s
 - [[Islamic Golden Age]]
 - [[Trade Networks]]
 - [[Empire Building]]
-- [[Medieval Period]]
+- [[03 - Medieval/Medieval Index|Medieval Index]]
