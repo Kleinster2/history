@@ -80,6 +80,22 @@ The Modern period witnessed the most dramatic economic transformation in human h
 
 - [[Latin American Development]] - ISI, debt, inequality
 
+### Europe
+
+- [[European Economic Miracle]] - Postwar recovery, social market
+- [[Soviet Economy]] - Central planning, rise and fall
+
+---
+
+## Business & Industry
+
+- [[Corporate Evolution]] - From managerial corporation to platforms
+- [[Mass Production]] - Ford, Toyota, and the factory revolution
+- [[Management Revolution]] - Taylorism to Agile
+- [[Oil Economy]] - The commodity that shaped the century
+- [[Digital Revolution]] - Computing, internet, platforms, AI
+- [[Labor and Unions]] - Rise and decline of organized workers
+
 ---
 
 ## Economic Systems
@@ -95,12 +111,12 @@ The Modern period witnessed the most dramatic economic transformation in human h
 
 ### Alternative Systems
 
-| System | Where | Duration |
-|--------|-------|----------|
-| Soviet planning | USSR, Eastern Europe | 1917-1991 |
-| Maoist economy | China | 1949-1978 |
-| Mixed economies | Western Europe | 1945-present |
-| Development states | Japan, Korea, Taiwan | 1950s-present |
+| System | Where | Duration | Notes |
+|--------|-------|----------|-------|
+| [[Soviet Economy\|Soviet planning]] | USSR, Eastern Europe | 1917-1991 | Command economy |
+| Maoist economy | China | 1949-1978 | Adapted Soviet model |
+| Mixed economies | Western Europe | 1945-present | [[European Economic Miracle]] |
+| Development states | Japan, Korea, Taiwan | 1950s-present | [[Asian Tigers]] |
 
 ---
 
@@ -111,7 +127,8 @@ The Modern period witnessed the most dramatic economic transformation in human h
 | Topic | Notes |
 |-------|-------|
 | Why growth? | [[Industrial Revolution]], [[Great Divergence]] |
-| Spread of growth | Industrialization patterns |
+| How to develop? | [[Development Economics]] |
+| Spread of growth | [[Asian Tigers]], [[European Economic Miracle]] |
 | Convergence | Some countries catching up |
 | Divergence | Others falling behind |
 
@@ -126,12 +143,13 @@ The Modern period witnessed the most dramatic economic transformation in human h
 
 ### Labor and Society
 
-| Development | Period |
-|-------------|--------|
-| Labor movements | 19th century onward |
-| Welfare states | 20th century |
-| Women's work | Transformed |
-| Service economy | Late 20th century |
+| Development | Period | Notes |
+|-------------|--------|-------|
+| Labor movements | 19th century onward | [[Labor and Unions]] |
+| Welfare states | 20th century | [[Welfare State]] |
+| Women's work | Transformed | |
+| Service economy | Late 20th century | |
+| Mass production | 1913-present | [[Mass Production]] |
 
 ### Finance
 
@@ -247,7 +265,6 @@ The Modern period witnessed the most dramatic economic transformation in human h
 
 This section is under development. Priority notes:
 
-- Development Economics
 - Climate and Economy
 
 ---
@@ -278,6 +295,19 @@ This section is under development. Priority notes:
 - [[Great Depression]]
 - [[American WWII Economy]]
 - [[Postwar Boom]]
+
+### Business & Industry
+- [[Corporate Evolution]]
+- [[Mass Production]]
+- [[Management Revolution]]
+- [[Oil Economy]]
+- [[Digital Revolution]]
+- [[Labor and Unions]]
+
+### Systems & Development
+- [[Soviet Economy]]
+- [[European Economic Miracle]]
+- [[Development Economics]]
 
 ### Other Periods
 - [[04 - Early Modern/Early Modern Index|Early Modern History]]
