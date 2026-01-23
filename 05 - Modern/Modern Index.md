@@ -37,7 +37,8 @@ The Modern period witnessed the most dramatic economic transformation in human h
 
 ### Key Notes
 
-- [[Industrial Revolution]] - The British transformation
+- [[Industrial Revolution]] - The British transformation (First)
+- [[Second Industrial Revolution]] - Electricity, steel, chemicals, oil (1870-1914)
 - [[Steam Engine]] - The key technology
 - [[Timber Crisis]] - Why coal mattered
 - [[Lunar Society]] - Science-industry networks
