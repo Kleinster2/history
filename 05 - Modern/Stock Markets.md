@@ -78,6 +78,20 @@ The stock market is capitalism's most visible institution—a real-time scoreboa
 | 1773 | London Stock Exchange formal |
 | 1801 | Membership system |
 
+### Lloyd's: Inventing the Risk Market (1688)
+
+While the Stock Exchange priced equity, Lloyd's Coffee House invented the market for *risk*. Merchants gathered to underwrite maritime voyages—pooling individual judgments about probability into collective risk-bearing. Lloyd's pioneered:
+
+| Innovation | Significance |
+|------------|--------------|
+| Individual underwriting | Personal liability, skin in the game |
+| Syndicated risk | Multiple underwriters share one policy |
+| Specialist information | Lloyd's List (1734)—shipping intelligence |
+| Market for uncertainty | Price anything with a probability |
+| Model | Insurance as capital market, not just mutual aid |
+
+Lloyd's proved that risk itself could be a tradeable commodity—the intellectual foundation for derivatives, options, and every financial instrument that prices uncertainty. See [[Foundational Firms]].
+
 ### The South Sea Bubble (1720)
 
 | Phase | Character |

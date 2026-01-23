@@ -66,6 +66,21 @@ The transistor (1947) began a transformation as profound as the Industrial Revol
 | Semiconductors | Defense demand funded early industry |
 | R&D | Government funded breakthrough research |
 
+### Fairchild Semiconductor: The Startup That Spawned Silicon Valley (1957)
+
+Eight engineers left Shockley Semiconductor (whose founder had co-invented the transistor) to start Fairchild—creating the template for everything Silicon Valley became:
+
+| Innovation | Legacy |
+|------------|--------|
+| Integrated circuit (1959) | Noyce's planar IC—foundation of all modern chips |
+| Venture-backed startup | Arthur Rock's investment model |
+| Spin-off culture | "Leaving to start your own" became legitimate |
+| Stock options | Engineers as equity owners |
+| Meritocracy claims | Technical talent over corporate hierarchy |
+| Spawn | Intel, AMD, National Semiconductor—65+ companies |
+
+Fairchild's organizational DNA—VC funding, stock options, spin-off culture, engineer-founders—became the Silicon Valley model. Every tech startup today operates on the template these eight defectors created. The "Fairchildren" (companies spawned from Fairchild alumni) include Intel, AMD, and through them the entire semiconductor industry. See [[Foundational Firms]].
+
 ---
 
 ## The Computer Industry

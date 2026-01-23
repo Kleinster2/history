@@ -141,6 +141,21 @@ Management—the coordination of other people's work—became the 20th century's
 | Big Four | Various | Audit + advisory |
 | Revenue (2023) | $300+ billion | Industry scale |
 
+### McKinsey's Innovation
+
+McKinsey (1926) didn't just advise firms—it invented the idea that management itself is a transferable, purchasable expertise:
+
+| Innovation | Significance |
+|------------|--------------|
+| "Top management" focus | Advised CEOs, not engineers |
+| Generalist model | Same methods across industries |
+| Up-or-out | Created alumni network in corporate leadership |
+| Legitimacy | Made restructuring/layoffs "objective" |
+| Talent pipeline | McKinsey alumni became Fortune 500 CEOs |
+| Spread | Model copied globally—BCG, Bain, 1000+ firms |
+
+The deeper innovation: McKinsey made management *separable from the firm*—a portable technology that consultants could carry between industries. This reinforced the idea that professional managers, not industry-specific expertise, drive business success. See [[Foundational Firms]].
+
 ### Rise of the MBA
 
 | Development | Date |

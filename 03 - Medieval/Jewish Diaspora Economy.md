@@ -175,6 +175,20 @@ The Jewish diaspora developed distinctive economic roles across medieval Europe 
 | Joseph Süß Oppenheimer | Württemberg finance        |
 | Rothschilds            | Banking dynasty (later)    |
 
+### The Rothschild Model
+
+The Rothschilds (from 1798) represent the culmination of Jewish financial networks—and the bridge from court finance to modern international banking:
+
+| Innovation | Significance |
+|------------|--------------|
+| Five sons, five cities | London, Paris, Frankfurt, Vienna, Naples |
+| Information speed | Private couriers faster than governments |
+| Cross-border coordination | Family trust substitutes for institutions |
+| Sovereign lending | Funded wars, railroads, canals across Europe |
+| Scale | Largest bank in the world by 1820s |
+
+The Rothschild system worked because family trust solved the problem that no international legal framework yet existed for cross-border finance. Their network was both a product of Jewish exclusion (no other career channels) and a demonstration of [[Institutions and Progress|how constraints channel talent into commerce]]. See [[Foundational Firms]].
+
 ### Economic Function
 
 | Function | Description |

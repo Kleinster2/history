@@ -77,6 +77,21 @@ Before the 20th century, businesses made things and waited for customers. Then a
 | Women | First public commercial space for women |
 | Examples | Macy's (1858), Selfridges (1909), Bon Marche (1852) |
 
+### Sears: The Mail-Order Revolution (1886)
+
+While department stores served cities, Sears Roebuck brought consumer culture to rural America—by catalog:
+
+| Innovation | Significance |
+|------------|--------------|
+| Catalog as store | 500+ pages, everything from pins to houses |
+| Fixed prices | Same price regardless of location or haggling skill |
+| Money-back guarantee | Trust at distance (revolutionary for 1890s) |
+| Logistics | Warehouse → railroad → post office → farm |
+| Scale | Largest retailer in America by 1900s |
+| Audience | 70% of Americans were rural—Sears served them all |
+
+Sears solved the fundamental problem of retail at distance: how do you sell to someone who can't see or touch the product? The answer—catalogs, guarantees, efficient logistics, brand trust—is exactly the playbook Amazon would reinvent a century later. See [[Foundational Firms]].
+
 ---
 
 ## The Psychology of Selling (1920s-1950s)

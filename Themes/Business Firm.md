@@ -125,6 +125,10 @@ The modern corporation—a legal entity with perpetual life, limited liability, 
 | Limited Liability Act | UK (1855) | Shareholders risk only investment |
 | Companies Act | UK (1862) | Combined: registration + limited liability |
 | General incorporation | US (various states, 1811+) | Anyone can form a corporation |
+| Aktiengesetz | Germany (1870) | Joint-stock corporation (AG) for large firms |
+| GmbH law | Germany (1892) | Limited liability for small firms—enabled [[German Business Model\|Mittelstand]] |
+| Commercial Code | Japan (1893) | Meiji-era wholesale import of Western corporate law |
+| Colonial company law | British Empire (1860s+) | UK Companies Act extended to India, Hong Kong, etc. |
 
 ### Why Limited Liability Mattered
 
@@ -156,6 +160,21 @@ The modern corporation—a legal entity with perpetual life, limited liability, 
 | Result | Delaware = 65% of Fortune 500 |
 | Logic | Corporate-friendly courts, flexible law |
 
+### Global Variations
+
+Different countries created different forms for different purposes—revealing what each economy valued:
+
+| Country | Form | Character |
+|---------|------|-----------|
+| UK/US | Public corporation | Dispersed shareholders, stock market funding |
+| Germany | AG + GmbH | Large firms (AG) with codetermination; small firms (GmbH) with flexibility |
+| France | SA + SARL | State-influenced, elite-managed |
+| Japan | KK (kabushiki kaisha) | Imported Western law (1893), but cross-shareholding made it function differently |
+| British colonies | UK Companies Act copies | India, Hong Kong, Singapore inherited Anglo corporate law |
+| Latin America | SA (sociedad anónima) | French/Spanish civil law tradition |
+
+The legal form was portable; the social reality was not. The same "corporation" means something different when embedded in German codetermination, Japanese keiretsu, or Korean chaebol family control.
+
 ---
 
 ## The Managerial Revolution (1900s)
@@ -170,6 +189,8 @@ The modern corporation—a legal entity with perpetual life, limited liability, 
 | Power shift | Managers have effective control |
 | Problem | Who do managers serve? |
 
+This is also when wealth accumulation shifted from families to firms. Before Berle and Means, a company's wealth was functionally the owner's wealth—Carnegie's steel profits were Carnegie's money. After the managerial revolution, retained earnings became *the corporation's* wealth, allocated by professional managers with no controlling stake. The legal groundwork (limited liability, corporate personhood) had separated firm and family on paper since the 1850s; the managerial corporation made it real. But this Anglo-American path is the exception: in Japan, family zaibatsu were dissolved by political force (1945-47); in Germany, wealth accumulated for stakeholders via codetermination; in Korea and Southeast Asia, [[Korean Chaebol|chaebol]] and [[Overseas Chinese Networks|family conglomerates]] never fully separated; in China, firms accumulate at the party-state's pleasure. Dispersed-shareholder capitalism is one solution, not *the* solution.
+
 ### The M-Form (Chandler)
 
 | Structure | Description |
@@ -182,6 +203,8 @@ The modern corporation—a legal entity with perpetual life, limited liability, 
 
 ### The Corporate Person
 
+The US developed corporate personhood through constitutional case law—a uniquely American path:
+
 | Right | Gained |
 |-------|--------|
 | Contract | Always (fundamental) |
@@ -190,6 +213,17 @@ The modern corporation—a legal entity with perpetual life, limited liability, 
 | Free speech | Citizens United (2010) |
 | Religious freedom | Hobby Lobby (2014) |
 | Controversy | Are corporations people? |
+
+Civil law countries reached similar results through statute, not courts:
+
+| Tradition | Mechanism | Character |
+|-----------|-----------|-----------|
+| French | *Personne morale* | Legal personality granted by code |
+| German | *Juristische Person* | Statutory entity with rights/duties |
+| Japanese | *Hōjin* | Imported from German legal theory (1890s) |
+| Common law (US/UK) | Case law + statute | Gradual, judge-made, contested |
+
+The practical result is similar—firms can own property, sue, and persist beyond their founders. But the American version is uniquely expansive (speech rights, religious freedom), while civil law systems treat corporate personality as a functional convenience rather than a constitutional identity.
 
 ---
 

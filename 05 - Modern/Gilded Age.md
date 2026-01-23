@@ -72,6 +72,21 @@ The Gilded Age transformed the United States from an agricultural republic into 
 | James J. Hill | Great Northern | Efficiency |
 | E.H. Harriman | Union Pacific | Morgan-backed |
 
+### Pennsylvania Railroad: The First Modern Corporation
+
+The Pennsylvania Railroad (1846) wasn't just a transportation company—it was the first organization to face the management problems that define modern business:
+
+| Innovation | Significance |
+|------------|--------------|
+| Line-and-staff hierarchy | First formal org chart (1850s) |
+| Divisional structure | Geographic divisions with local autonomy |
+| Cost accounting | First systematic unit-cost tracking |
+| Professional managers | Salaried executives, not owner-operators |
+| Standard operating procedures | Written rules, not personal judgment |
+| Scale | 30,000+ employees by 1880s—largest private organization |
+
+The railroad's problem was unprecedented: how do you coordinate thousands of workers across hundreds of miles, moving objects at speed, where mistakes kill people? The answer—hierarchy, written rules, professional management, cost data—became the template for every large corporation. Carnegie, Rockefeller, and the industrial titans all borrowed railroad management techniques. See [[Foundational Firms]] and [[Corporate Evolution]].
+
 ---
 
 ## The Second Industrial Revolution
