@@ -181,7 +181,9 @@ The Modern period witnessed the most dramatic economic transformation in human h
 |-------|-----------------|
 | World War I (1914-1918) | End of first globalization |
 | Russian Revolution (1917) | Alternative system |
+| [[Interwar Economy]] (1918-1939) | Instability, gold standard collapse |
 | [[Great Depression]] (1929-1939) | System crisis |
+| [[Keynesian Revolution]] (1936+) | Birth of macroeconomics |
 | World War II (1939-1945) | Destruction and reconstruction |
 | Bretton Woods (1944) | Postwar order |
 | Decolonization (1947-1970s) | End of empires |
@@ -308,6 +310,8 @@ This section is under development. Priority notes:
 - [[Soviet Economy]]
 - [[European Economic Miracle]]
 - [[Development Economics]]
+- [[Interwar Economy]]
+- [[Keynesian Revolution]]
 
 ### Other Periods
 - [[04 - Early Modern/Early Modern Index|Early Modern History]]
