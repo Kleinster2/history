@@ -323,6 +323,8 @@ The corporation is the dominant institution of modern capitalism. From the manag
 ## Related Notes
 
 - [[Gilded Age]]
+- [[Business Firm]]
+- [[Entrepreneurship]]
 - [[Financialization]]
 - [[Stock Markets]]
 - [[Consumer Culture]]

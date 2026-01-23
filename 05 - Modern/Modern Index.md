@@ -304,6 +304,9 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[Stock Markets]]
 - [[Consumer Culture]]
 - [[Climate and Economy]]
+- [[Business Firm]]
+- [[Entrepreneurship]]
+- [[Proto-industrialization]]
 
 ### Systems & Development
 - [[Soviet Economy]]

@@ -374,6 +374,8 @@ The East India Companies were the most powerful corporations in history—charte
 ## Related Notes
 
 - [[Dutch Golden Age]]
+- [[Business Firm]]
+- [[Stock Markets]]
 - [[Atlantic Economy]]
 - [[Industrial Revolution]]
 - [[Great Divergence]]

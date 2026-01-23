@@ -77,6 +77,23 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - Complexity, fragility, interdependence
   - What collapses teach us about stability
 
+### Business and Organization
+
+- [[Business Firm]] - The legal invention of the corporation
+  - Partnership → joint-stock → limited liability → modern corp
+  - How pooling capital from strangers became possible
+  - Corporate personhood, governance, Coase's question
+
+- [[Entrepreneurship]] - Who creates new enterprises, and why
+  - Schumpeter's creative destruction, Baumol's productive vs. unproductive
+  - Weber's Protestant ethic, status of commerce across cultures
+  - From medieval merchants to Silicon Valley
+
+- [[Proto-industrialization]] - The step before the factory
+  - Putting-out system, merchant-capitalists, cottage industry
+  - Why factories replaced home production
+  - Global parallels (India, China, Japan)
+
 ### Modern Transformations
 
 - [[Inequality]] - The arc of inequality through history

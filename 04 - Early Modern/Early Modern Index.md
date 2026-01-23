@@ -119,9 +119,9 @@ Transformed by colonialism, then independent.
 
 | Development | Impact |
 |-------------|--------|
-| Putting-out system | Proto-industry |
+| [[Proto-industrialization\|Putting-out system]] | Proto-industry, road to factory |
 | Plantations | Colonial agriculture |
-| Factory system | Industrial Revolution |
+| Factory system | [[Industrial Revolution]] |
 | Coal/iron | Energy transition |
 
 ---
@@ -255,6 +255,12 @@ Transformed by colonialism, then independent.
 - [[Economic Collapse]]
 - [[Economic Persistence]]
 - [[Great Divergence]]
+
+### Business and Organization
+- [[Proto-industrialization]]
+- [[Business Firm]]
+- [[Entrepreneurship]]
+- [[East India Companies]]
 
 ### Other Periods
 - [[03 - Medieval/Medieval Index|Medieval History]]

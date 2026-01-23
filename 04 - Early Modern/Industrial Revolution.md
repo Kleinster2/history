@@ -397,10 +397,12 @@ The [[Lunar Society]] of Birmingham exemplifies how personal networks of industr
 ## Related Notes
 
 - [[Early Modern Index]]
+- [[Proto-industrialization]]
 - [[Atlantic Economy]]
 - [[Timber Crisis]]
 - [[Steam Engine]]
 - [[Lunar Society]]
 - [[Great Divergence]]
+- [[Entrepreneurship]]
 - [[Economic Convergence]]
 - [[Song China Economy]]
