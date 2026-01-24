@@ -393,6 +393,12 @@ Lloyd's proved that risk itself could be a tradeable commodity—the intellectua
 
 ---
 
+## The Deeper Point
+
+Stock markets are the purest institutional mechanism for channeling ambition into production rather than rent-seeking—Baumol's thesis made liquid. They convert illiquid ownership into tradeable claims, enabling strangers to pool capital for ventures none could fund alone. The VOC shareholders of 1602, the railroad investors of the 1850s, the venture capitalists of Sand Hill Road—all are using the same institutional technology to fund enterprise at scales beyond any individual fortune. But this very liquidity creates a tension the market has never resolved: when trading paper becomes more profitable than funding enterprise, the mechanism becomes extractive rather than productive. The recurring bubble pattern (South Sea, 1929, dot-com, 2008) isn't a bug to be patched with better regulation—it's the inevitable consequence of an institution that works precisely because it makes exit easy. The question each era re-asks: how do you keep [[Innovation Economics|innovation]]-funding dominant over speculation without destroying the liquidity that makes funding possible? No one has solved it. Every generation's answer becomes the next generation's crisis.
+
+---
+
 ## Sources & Further Reading
 
 - Bernstein, P. (1992). *Capital Ideas*
@@ -416,4 +422,9 @@ Lloyd's proved that risk itself could be a tradeable commodity—the intellectua
 - [[Interwar Economy]]
 - [[Digital Revolution]]
 - [[Neoliberalism]]
+- [[Financial Crises]]
+- [[Medieval Financial Innovation]]
+- [[Institutions and Progress]]
+- [[Innovation Economics]]
+- [[Property Rights]]
 - [[Modern Index]]

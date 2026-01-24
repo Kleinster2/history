@@ -354,6 +354,12 @@ The interwar period (1918-1939) was the hinge of modern economic history. In two
 
 ---
 
+## The Deeper Point
+
+The interwar is the counter-example that proves the institutional thesis. Remove the framework—no lender of last resort, no international coordination, rigid monetary rules that prevent adjustment—and markets destroy themselves. Kindleberger's argument is devastating: the global economy needs someone providing public goods (open markets in downturns, stable currency, emergency lending). Britain could no longer; America would not yet. The result was a coordination failure of civilizational proportions. Every country pursued individually rational policies (protect your own workers, hoard your own gold, devalue your own currency) that were collectively catastrophic. The interwar didn't just produce economic misery—it produced fascism, world war, and the Holocaust. Which is why the postwar planners built [[Institutions and Progress|institutions]] (Bretton Woods, GATT, Marshall Plan) specifically designed to prevent its recurrence. The interwar proves that markets without institutional architecture aren't free—they're fragile.
+
+---
+
 ## Sources & Further Reading
 
 - Eichengreen, B. (1992). *Golden Fetters: The Gold Standard and the Great Depression*
@@ -372,4 +378,9 @@ The interwar period (1918-1939) was the hinge of modern economic history. In two
 - [[Oil Economy]]
 - [[Gilded Age]]
 - [[European Economic Miracle]]
+- [[Financial Crises]]
+- [[Globalization]]
+- [[Institutions and Progress]]
+- [[Property Rights]]
+- [[Taxation]]
 - [[Modern Index]]
