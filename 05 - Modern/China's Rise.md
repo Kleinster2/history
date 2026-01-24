@@ -450,4 +450,6 @@ China's rise is the greatest [[Institutions and Progress|institutional]] experim
 - [[Institutions and Progress]]
 - [[Property Rights]]
 - [[Innovation Economics]]
+- [[Demographic Transition]]
+- [[State Capacity]]
 - [[Modern Index]]

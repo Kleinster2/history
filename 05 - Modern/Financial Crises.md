@@ -231,4 +231,5 @@ Financial crises are the recurring cost of the institutional arrangement that en
 - [[Ancient Credit]]
 - [[Institutions and Progress]]
 - [[Neoliberalism]]
+- [[Debt History]]
 - [[Modern Index]]

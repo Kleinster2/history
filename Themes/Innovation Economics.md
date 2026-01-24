@@ -234,3 +234,5 @@ Innovation is not a natural state—it's an institutional achievement. For most 
 - [[Entrepreneurship]]
 - [[Foundational Firms]]
 - [[Medieval Financial Innovation]]
+- [[Creative Destruction]]
+- [[Human Capital]]

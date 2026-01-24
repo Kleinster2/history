@@ -405,3 +405,5 @@ The question isn't "why did Europe industrialize first?" but "why did sustained 
 - [[Medieval Europe Economy]]
 - [[Pre-Columbian Economy]]
 - [[Origins of Economy]]
+- [[Demographic Transition]]
+- [[Human Capital]]

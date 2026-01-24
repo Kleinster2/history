@@ -236,3 +236,4 @@ Property rights are what make the future predictable enough to invest in. Withou
 - [[Business Firm]]
 - [[Taxation]]
 - [[Entrepreneurship]]
+- [[State Capacity]]

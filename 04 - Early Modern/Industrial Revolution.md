@@ -416,3 +416,5 @@ The Industrial Revolution is the event this entire vault orbits: the moment econ
 - [[Institutions and Progress]]
 - [[Innovation Economics]]
 - [[Property Rights]]
+- [[Creative Destruction]]
+- [[Demographic Transition]]

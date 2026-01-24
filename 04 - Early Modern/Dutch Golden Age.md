@@ -412,4 +412,6 @@ The Dutch Republic was the world's first modern economy—pioneering the joint-s
 - [[Institutions and Progress]]
 - [[Property Rights]]
 - [[Innovation Economics]]
+- [[Debt History]]
+- [[Creative Destruction]]
 - [[Early Modern Index]]

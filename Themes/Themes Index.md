@@ -123,6 +123,33 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - Why China and Islam innovated but didn't sustain
   - From guild stasis to continuous improvement
 
+- [[Creative Destruction]] - Schumpeter's "perennial gale"
+  - New displaces old: temporary monopoly → imitation → next disruption
+  - When societies permit vs. block it
+  - The institutional choice that determines long-run performance
+
+### Development Foundations
+
+- [[State Capacity]] - The ability to implement policy decisions
+  - Fiscal, legal, administrative, coercive dimensions
+  - The missing variable: good institutions require enforcement
+  - Tilly's thesis: war made the state
+
+- [[Human Capital]] - Knowledge, skills, and health embodied in people
+  - From guild apprenticeship to modern education
+  - The mechanism through which institutional quality compounds
+  - Becker's framework, endogenous growth theory
+
+- [[Demographic Transition]] - Breaking the Malthusian trap
+  - High birth/death rates to low birth/death rates
+  - The demographic dividend: one-time window for growth
+  - Hidden precondition for per-capita income growth
+
+- [[Debt History]] - From Mesopotamian grain loans to sovereign debt
+  - Debt before money, clean slates, jubilees
+  - Productive (investment) vs. extractive (dispossession)
+  - The institutional design problem across all eras
+
 ### Labor and Society
 
 - [[Slavery Economics]] - The oldest labor exploitation, from Mesopotamia to abolition

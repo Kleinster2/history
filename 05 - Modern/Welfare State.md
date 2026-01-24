@@ -218,4 +218,5 @@ The welfare state is often framed as a trade-off—equality vs. efficiency, secu
 - [[Institutions and Progress]]
 - [[Innovation Economics]]
 - [[Property Rights]]
+- [[Human Capital]]
 - [[Modern Index]]

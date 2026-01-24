@@ -388,3 +388,4 @@ The [[Florence]] surname study (Barone & Mocetti) and Clark's surname research r
 - [[Pre-Columbian Economy]]
 - [[Inca Empire]]
 - [[Neolithic Revolution]]
+- [[Human Capital]]

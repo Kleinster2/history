@@ -399,6 +399,12 @@ The Progressive Era was America's response to the Gilded Age's excesses. Between
 
 ---
 
+## The Deeper Point
+
+The Progressive Era was America's first institutional recalibration—the recognition that Baumol's channels are not self-maintaining, that the rules channeling ambition into production require continuous adjustment as the economy evolves. The [[Gilded Age]] had demonstrated the problem: remove constraints and you get both unprecedented [[Innovation Economics|innovation]] (railroads, steel, electricity) AND unprecedented [[Entrepreneurship|extraction]] (monopoly pricing, political corruption, worker exploitation)—simultaneously, from the same people. Progressivism's insight was that [[Creative Destruction|creative destruction]] requires *institutional maintenance*: antitrust to keep entry open, regulation to prevent incumbents from rigging the game, labor law to ensure workers share gains, and financial reform to prevent panics from destroying confidence. The template it created—expert regulatory agencies preserving competition rather than replacing it—became the DNA of all subsequent American reform: New Deal, Great Society, post-2008. But Kolko's critique reveals the deeper pattern: the regulated often capture the regulators, turning [[State Capacity|state capacity]] from a tool of competition into a tool of incumbency protection. The Progressive achievement wasn't permanent reform—it was the *recognition* that reform is permanent work, that [[Institutions and Progress|institutions]] enabling growth must be continuously recalibrated as new forms of extraction emerge. Every generation's monopolists find the loopholes in the previous generation's reforms. The question isn't whether to regulate or deregulate—it's whether institutional maintenance can keep pace with [[Creative Destruction|institutional decay]].
+
+---
+
 ## Sources & Further Reading
 
 - Hofstadter, R. (1955). *The Age of Reform*
@@ -414,4 +420,11 @@ The Progressive Era was America's response to the Gilded Age's excesses. Between
 - [[Gilded Age]]
 - [[Great Depression]]
 - [[Industrial Revolution]]
+- [[Institutions and Progress]]
+- [[State Capacity]]
+- [[Creative Destruction]]
+- [[Corporate Evolution]]
+- [[Innovation Economics]]
+- [[Entrepreneurship]]
+- [[Property Rights]]
 - [[Modern Index]]

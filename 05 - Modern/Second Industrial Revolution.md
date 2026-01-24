@@ -425,6 +425,12 @@ The First [[Industrial Revolution]] ran on steam, iron, and textiles. The Second
 
 ---
 
+## The Deeper Point
+
+The Second Industrial Revolution's deepest innovation wasn't any single technology—it was the institutionalization of [[Innovation Economics|innovation]] itself. Edison's Menlo Park (1876), the German dye company laboratories, Bell Labs (1925): these represent the moment when [[Creative Destruction|creative destruction]] ceased to be accidental and became *organized*. The lone inventor responding to market signals—Schumpeter's Mark I entrepreneur—gave way to corporate R&D departments systematically searching for the next breakthrough. This transforms Baumol's framework: it's no longer just about channeling individual [[Entrepreneurship|entrepreneurial]] talent into production, but about building *organizations* designed to produce innovation routinely. The German chemical industry didn't wait for genius; it hired thousands of trained chemists and set them problems. Edison didn't rely on inspiration; he tested 3,000 filament materials. The institutional innovation of the R&D laboratory—science deliberately applied to commercial problems—may matter more than any technology it produced, because it made technological progress *systematic* rather than sporadic. This is why Gordon's "one big wave" thesis is so provocative: if the 1870-1970 cluster was unrepeatable, it may be because the *institutional* conditions (university-industry linkage, patent protection, scale economies in research) produced a one-time harvest of low-hanging fruit that no organizational form can replicate at the same rate.
+
+---
+
 ## Sources & Further Reading
 
 - Chandler, A. (1977). *The Visible Hand*
@@ -444,4 +450,8 @@ The First [[Industrial Revolution]] ran on steam, iron, and textiles. The Second
 - [[Corporate Evolution]]
 - [[Management Revolution]]
 - [[Steam Engine]]
+- [[Innovation Economics]]
+- [[Creative Destruction]]
+- [[Entrepreneurship]]
+- [[Human Capital]]
 - [[Modern Index]]

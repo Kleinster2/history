@@ -328,3 +328,6 @@ Recent research using the 1427 Catasto shows remarkable wealth persistence—des
 - [[Hanseatic League]]
 - [[Wealth Through History]]
 - [[Great Divergence]]
+- [[Debt History]]
+- [[Human Capital]]
+- [[Economic Persistence]]

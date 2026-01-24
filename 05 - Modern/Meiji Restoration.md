@@ -351,4 +351,6 @@ The Meiji Restoration proved that a non-Western country could industrialize—bu
 - [[Japanese Economic Miracle]]
 - [[Asian Tigers]]
 - [[Industrial Revolution]]
+- [[State Capacity]]
+- [[Human Capital]]
 - [[Modern Index]]

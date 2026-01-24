@@ -341,6 +341,12 @@ In 1936, John Maynard Keynes published *The General Theory of Employment, Intere
 
 ---
 
+## The Deeper Point
+
+Keynes discovered that economies are institutionally constructed, not naturally self-organizing—that markets can get stuck in stable but suboptimal equilibria where involuntary unemployment persists indefinitely because no individual actor has the incentive or ability to restart the system. This is the macroeconomic parallel to Baumol's microeconomic insight: just as individual [[Entrepreneurship|entrepreneurial]] talent requires [[Institutions and Progress|institutional]] channeling to become productive, aggregate demand requires institutional management to prevent catastrophic coordination failures. The [[Great Depression]] proved it empirically: millions of willing workers, idle factories, unmet needs—and no market mechanism to reconnect them. The [[2008 Financial Crisis]] confirmed it when every government on earth, regardless of ideology, reached for Keynesian tools (stimulus, bailouts, central bank intervention) because the alternative was systemic collapse. The deeper implication challenges the vault's institutional thesis at its foundation: if getting the microeconomic institutions right ([[Property Rights|property rights]], [[Creative Destruction|competition]], open entry) isn't sufficient to prevent macroeconomic disaster, then [[State Capacity|state capacity]] for demand management is itself a prerequisite for sustained growth—not a supplement to good institutions but a *component* of them. The Keynesian Revolution's lasting contribution isn't any specific policy tool; it's the recognition that the economy is an institutional artifact requiring active maintenance, not a natural system requiring only non-interference. The cycle—crisis validates Keynes, recovery forgets him—isn't irony; it's the institutional version of [[Debt History|Minsky's]] instability hypothesis: successful stabilization breeds the complacency that undoes it.
+
+---
+
 ## Sources & Further Reading
 
 - Keynes, J.M. (1936). *The General Theory of Employment, Interest, and Money*
@@ -360,4 +366,7 @@ In 1936, John Maynard Keynes published *The General Theory of Employment, Intere
 - [[2008 Financial Crisis]]
 - [[European Economic Miracle]]
 - [[Development Economics]]
+- [[Institutions and Progress]]
+- [[State Capacity]]
+- [[Debt History]]
 - [[Modern Index]]

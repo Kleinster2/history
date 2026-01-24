@@ -252,4 +252,5 @@ Ancient credit reveals finance's fundamental tension: it enables investment and 
 - [[Jewish Diaspora Economy]]
 - [[Stock Markets]]
 - [[Institutions and Progress]]
+- [[Debt History]]
 - [[Ancient Index]]

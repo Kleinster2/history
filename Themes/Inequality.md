@@ -391,3 +391,4 @@ Scheidel's devastating finding: across all recorded history, only four forces ha
 - [[Development Economics]]
 - [[Property Rights]]
 - [[Institutions and Progress]]
+- [[Human Capital]]

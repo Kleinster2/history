@@ -460,4 +460,5 @@ The Gilded Age is Baumol's natural experiment: remove institutional constraints 
 - [[Institutions and Progress]]
 - [[Innovation Economics]]
 - [[Property Rights]]
+- [[Creative Destruction]]
 - [[Modern Index]]

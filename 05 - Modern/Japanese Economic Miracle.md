@@ -363,4 +363,6 @@ Japan's miracle refuted the assumption that Western [[Institutions and Progress|
 - [[Institutions and Progress]]
 - [[Innovation Economics]]
 - [[Property Rights]]
+- [[Creative Destruction]]
+- [[Demographic Transition]]
 - [[Modern Index]]

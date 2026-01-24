@@ -255,3 +255,4 @@ Banking is the [[Institutions and Progress|institutional]] technology that conve
 - [[Institutions and Progress]]
 - [[Innovation Economics]]
 - [[Property Rights]]
+- [[Debt History]]

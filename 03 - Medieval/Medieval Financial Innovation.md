@@ -266,4 +266,5 @@ Medieval finance was built on a contradiction: religious prohibition of interest
 - [[East India Companies]]
 - [[Business Firm]]
 - [[Institutions and Progress]]
+- [[Debt History]]
 - [[Medieval Index]]
