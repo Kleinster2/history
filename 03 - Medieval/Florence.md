@@ -322,6 +322,8 @@ Recent research using the 1427 Catasto shows remarkable wealth persistence—des
 
 - [[Medieval Index]]
 - [[Medieval Europe Economy]]
+- [[Medieval Financial Innovation]]
+- [[Guild Economics]]
 - [[Venice]]
 - [[Hanseatic League]]
 - [[Wealth Through History]]

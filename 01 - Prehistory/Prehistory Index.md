@@ -110,6 +110,11 @@ The shift from foraging to farming that transformed human societies.
 
 ### Economy
 - [[Origins of Economy]] - Birth of investment thinking (2.6 Ma)
+- [[Neolithic Revolution]] - From foraging to farming, birth of property
+- [[Domestication]] - Plant and animal domestication
+- [[Rise of Civilization]] - Surplus → cities → states → writing
+- [[Property Rights]] - From group territory to individual ownership
+- [[Innovation Economics]] - Why innovation accelerated after Oldowan
 
 ---
 

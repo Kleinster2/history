@@ -28,12 +28,14 @@ The Ancient period spans from the emergence of writing and the first civilizatio
 - [[Akkadian Empire]] - First world empire
 - [[Babylon]] - Hammurabi, Nebuchadnezzar
 - [[Assyria]] - Military superpower
+- [[Enheduanna]] - First author, temple economy management
 
 ### Egypt
 - [[Egypt Index]] - Overview and navigation
 - [[Old Kingdom]] - Pyramid Age
 - [[Middle Kingdom]] - Classical age
 - [[New Kingdom]] - Egyptian Empire
+- [[Khufu]] - Great Pyramid, first mega-project economics
 
 ### Indus Valley
 - [[Indus Valley Index]] - Overview and navigation
@@ -54,12 +56,15 @@ The Ancient period spans from the emergence of writing and the first civilizatio
 ### Greece
 - [[Greece Index]] - Overview and navigation
 - [[Greek Economy]] - Coinage, slavery, agora
+- [[Greek Coinage]] - Lydian origins, monetization of society
+- [[Greek Economic Thought]] - Aristotle, value theory, anti-commerce
 - [[Athens]] - Commerce, silver, democracy
 - [[Sparta]] - Military autarky, helots
 
 ### Rome
 - [[Rome Index]] - Overview and navigation
 - [[Roman Economy]] - Slavery, trade, taxation
+- [[Roman Currency]] - Denarius, debasement, solidus
 - [[Augustus]] - Currency reform, Pax Romana
 - [[Pompeii]] - Economic snapshot
 
@@ -72,6 +77,7 @@ The Ancient period spans from the emergence of writing and the first civilizatio
 ### Americas
 - [[Mesoamerica Index]] - Overview and navigation
 - [[Pre-Columbian Economy]] - Alternative economic paths
+- [[Maya Civilization]] - Cacao currency, obsidian trade
 - [[Inca Empire]] - Economy without money or markets
 - [[Aztec Empire]] - Markets, currency, tribute
 
@@ -82,6 +88,7 @@ The Ancient period spans from the emergence of writing and the first civilizatio
 ### Economy
 - [[Origins of Economy]] - From prehistory
 - [[Ancient Wealth]] - Who was rich and how
+- [[Ancient Credit]] - Debt, interest, temple lending, jubilee
 - [[Money]] - Invention of coinage, commodity money
 - [[Trade Networks]] - Silk Road, Indian Ocean, early trade
 - [[Indus Valley Economy]] - Standardization without kings
@@ -108,6 +115,7 @@ The Ancient period spans from the emergence of writing and the first civilizatio
 
 ### Thought
 - [[Ancient Philosophy]] - Pre-Socratics to Neoplatonism
+- [[Greek Economic Thought]] - Aristotle on value, exchange, money
 
 ### Architecture
 - [[Pyramids]] - Egyptian royal tombs

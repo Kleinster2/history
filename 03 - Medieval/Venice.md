@@ -316,6 +316,8 @@ Venice was medieval Europe's most successful commercial city-state, dominating M
 
 - [[Medieval Index]]
 - [[Medieval Europe Economy]]
+- [[Medieval Financial Innovation]]
+- [[Guild Economics]]
 - [[Florence]]
 - [[Hanseatic League]]
 - [[Islamic Economy]]

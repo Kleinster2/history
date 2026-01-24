@@ -398,6 +398,7 @@ The [[Lunar Society]] of Birmingham exemplifies how personal networks of industr
 
 - [[Early Modern Index]]
 - [[Proto-industrialization]]
+- [[Guild Economics]]
 - [[Atlantic Economy]]
 - [[Timber Crisis]]
 - [[Steam Engine]]

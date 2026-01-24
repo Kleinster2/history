@@ -218,10 +218,21 @@ Property rights—the legally and socially enforced claims to resources—underp
 - Ostrom, E. (1990). *Governing the Commons*
 - De Soto, H. (2000). *The Mystery of Capital*
 
+### The Deeper Point
+
+Property rights are what make the future predictable enough to invest in. Without them, the rational strategy is extraction: take what you can before someone takes it from you. With secure property, the rational strategy shifts to investment: improve what you own, because you'll keep the returns. This is why [[Institutions and Progress|Douglass North]] placed property rights at the center of economic development—and why the vault's throughline (how ambition was channeled from taking to making) depends on understanding how property regimes evolved from communal to individual, from feudal to commercial, from physical to intellectual.
+
+---
+
 ## Related Notes
 
-- [[Capitalism]]
-- [[Feudalism]]
-- [[Law & Economy]]
-- [[Agriculture]]
-- [[Economic Thought]]
+- [[Institutions and Progress]]
+- [[Ancient Credit]]
+- [[Code of Hammurabi]]
+- [[Roman Law]]
+- [[Guild Economics]]
+- [[Industrial Revolution]]
+- [[Great Divergence]]
+- [[Business Firm]]
+- [[Taxation]]
+- [[Entrepreneurship]]

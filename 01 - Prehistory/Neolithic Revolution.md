@@ -421,6 +421,10 @@ Agriculture as "worst mistake in human history":
 ## Related Notes
 
 - [[Origins of Economy]]
+- [[Property Rights]]
+- [[Innovation Economics]]
+- [[Ancient Credit]]
+- [[Taxation]]
 - [[Economic Persistence]]
 - [[Agricultural Revolution]]
 - [[Domestication]]

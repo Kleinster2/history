@@ -94,6 +94,7 @@ Gold trade and Indian Ocean commerce.
 | Islamic finance | [[Islamic Economy]] |
 | Banking | [[Florence]], [[Medieval Europe Economy]] |
 | Templar banking | [[Templars]] |
+| Financial innovation | [[Medieval Financial Innovation]] |
 | Bills of exchange | Islamic → European |
 
 ### Agriculture and Production
@@ -111,7 +112,7 @@ Gold trade and Indian Ocean commerce.
 | Serfdom | Europe |
 | Slavery (various forms) | Islamic world, others |
 | Free labor | Towns, commerce |
-| Guild restrictions | Europe, Islamic world |
+| [[Guild Economics]] | Craft regulation, entry, innovation debate |
 
 ---
 
@@ -221,8 +222,12 @@ Gold trade and Indian Ocean commerce.
 ### Economic Analysis
 - [[Origins of Economy]]
 - [[Medieval Wealth]] - Who was rich and how
+- [[Ancient Credit]] - Debt systems inherited from antiquity
+- [[Medieval Financial Innovation]] - Bills, bookkeeping, insurance, banking
+- [[Guild Economics]] - Craft regulation and the help-or-hindrance debate
 - [[Monastic Economy]] - How monasteries got rich
 - [[Templars]] - First international bank
+- [[Slavery Economics]] - Unfree labor across periods
 - [[Economic Convergence]]
 - [[Economic Collapse]]
 - [[Economic Persistence]]

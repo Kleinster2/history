@@ -41,6 +41,21 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - How trade moved goods, ideas, technology, and disease
   - From land routes to sea routes
 
+- [[Indian Ocean Trade]] - 4,500 years of polycentric maritime commerce
+  - Monsoon-driven networks, trading diasporas
+  - Multi-civilizational exchange without single hegemon
+  - Portuguese disruption and the shift to Atlantic
+
+- [[Ancient Credit]] - The origin of finance
+  - Debt before money, temple lending, compound interest
+  - Debt slavery, jubilee, clean slates
+  - Why interest was banned (and survived anyway)
+
+- [[Medieval Financial Innovation]] - Bridge from ancient debt to modern finance
+  - Bills of exchange, double-entry bookkeeping, insurance
+  - Usury workarounds becoming innovations
+  - Islamic parallel development
+
 - [[Maritime Technology]] - Ships that changed history
   - Caravel, carrack, galleon, fluyt, steamship, container
   - How ship technology enabled economic transformation
@@ -99,6 +114,26 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - Putting-out system, merchant-capitalists, cottage industry
   - Why factories replaced home production
   - Global parallels (India, China, Japan)
+
+### Innovation and Institutions
+
+- [[Innovation Economics]] - Why sustained innovation is rare (and what enables it)
+  - Institutional conditions: patents, competition, open entry
+  - Constraints as drivers (timber crisis → coal → steam)
+  - Why China and Islam innovated but didn't sustain
+  - From guild stasis to continuous improvement
+
+### Labor and Society
+
+- [[Slavery Economics]] - The oldest labor exploitation, from Mesopotamia to abolition
+  - Debt slavery, chattel slavery, serfdom, indentured labor
+  - Atlantic system: triangle trade, plantation economics
+  - Why slavery ended (economics vs. morals debate)
+
+- [[Guild Economics]] - Self-governing labor institutions (1100-1800)
+  - Craft regulation, apprenticeship, quality control
+  - Help or hindrance? Epstein vs. Ogilvie
+  - Legacy: professional licensing, vocational training
 
 ### Modern Transformations
 

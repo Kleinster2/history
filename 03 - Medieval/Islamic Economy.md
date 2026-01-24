@@ -381,6 +381,8 @@ The Islamic agricultural revolution introduced crops from India and elsewhere ac
 ## Related Notes
 
 - [[Medieval Index]]
+- [[Medieval Financial Innovation]]
+- [[Indian Ocean Trade]]
 - [[Song China Economy]]
 - [[Medieval Europe Economy]]
 - [[Jewish Diaspora Economy]]

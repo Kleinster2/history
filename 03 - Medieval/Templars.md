@@ -397,6 +397,8 @@ Each commandery was:
 
 - [[Monastic Economy]]
 - [[Medieval Wealth]]
+- [[Medieval Financial Innovation]]
+- [[Ancient Credit]]
 - [[Florence]] (later banking)
 - [[Jewish Diaspora Economy]]
 - [[Medieval Europe Economy]]

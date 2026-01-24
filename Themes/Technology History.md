@@ -212,8 +212,10 @@ Technology—the application of knowledge to practical purposes—has driven eco
 
 ## Related Notes
 
+- [[Innovation Economics]]
 - [[Stone Tools]]
 - [[Agriculture]]
 - [[Industrial Revolution]]
-- [[Energy History]]
-- [[Capitalism]]
+- [[Great Divergence]]
+- [[Guild Economics]]
+- [[Institutions and Progress]]

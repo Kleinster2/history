@@ -608,6 +608,11 @@ Every modern economic institution has roots extending millions of years.
 - [[Ancient Index]]
 
 ### Thematic Follow-ups
+- [[Property Rights]] - From group territory to individual ownership
+- [[Ancient Credit]] - How debt emerged from these origins
+- [[Innovation Economics]] - Why innovation accelerated (and sometimes didn't)
+- [[Slavery Economics]] - Unfree labor across history
+- [[Taxation]] - State extraction from surplus
 - [[Economic Convergence]] - Why did one system become universal?
 - [[Economic Collapse]] - What makes systems fail?
 - [[Economic Persistence]] - What persists across all systems?

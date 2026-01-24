@@ -200,10 +200,21 @@ Taxation—the extraction of resources by states from their subjects—is fundam
 - Bonney, R. (1999). *The Rise of the Fiscal State in Europe*
 - Daunton, M. (2001). *Trusting Leviathan*
 
+### The Deeper Point
+
+Taxation is the price of state capacity—and state capacity is the price of economic complexity. The societies that developed the most sophisticated tax systems (Persia's standardized tribute, Rome's provincial taxes, Song China's commercial levies, England's parliamentary taxation) were also those that provided the most reliable property rights, infrastructure, and legal enforcement. The causation runs both ways: states need revenue to provide public goods, but economic actors only tolerate taxation when they see returns. This bargain—taxation in exchange for services—is what distinguishes productive states from extractive ones. See [[Institutions and Progress]] for why this matters to the vault's central question.
+
+---
+
 ## Related Notes
 
-- [[State Formation]]
-- [[Empire Building]]
-- [[Agriculture]]
-- [[Warfare & Economy]]
-- [[Capitalism]]
+- [[Institutions and Progress]]
+- [[Ancient Credit]]
+- [[Medieval Financial Innovation]]
+- [[Property Rights]]
+- [[Roman Economy]]
+- [[Persian Economy]]
+- [[Industrial Revolution]]
+- [[Slavery Economics]]
+- [[Khufu]]
+- [[Business Firm]]
