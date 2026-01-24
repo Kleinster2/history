@@ -21,6 +21,15 @@ Globalization—the intensifying interconnection of economies, societies, and cu
 
 ## Historical Waves
 
+### Ancient Integration (pre-1500)
+
+| System | Character |
+|--------|-----------|
+| [[Roman Economy\|Pax Romana]] | Integration through empire—common currency, law, roads |
+| [[Indian Ocean Trade]] | Integration through merchants—no single political authority |
+| [[Trade Networks\|Silk Road]] | Loose networks, intermediaries, no central control |
+| Contrast | Empire is effective but fragile; institutional networks survive political collapse |
+
 ### Early Globalization (1500-1800)
 
 | Feature | Character |
@@ -196,7 +205,7 @@ Globalization—the intensifying interconnection of economies, societies, and cu
 
 ### The Deeper Point
 
-Globalization is not new—[[Indian Ocean Trade|the Indian Ocean]], [[Trade Networks|the Silk Road]], and the [[Atlantic Slave Trade|Atlantic system]] were all earlier globalizations. What distinguishes the modern version is its *institutional infrastructure*: international organizations (WTO, IMF, World Bank), standardized commercial law, container shipping, and digital communications that make trade nearly frictionless. Yet Rodrik's "trilemma" reveals the fundamental tension: you can have globalization, democracy, and national sovereignty—but not all three simultaneously. Each wave of globalization has been followed by political backlash when its costs (job displacement, inequality, cultural disruption) overwhelm its benefits for enough people. The pattern is as old as the [[Guild Economics|guilds]]: integration creates losers who organize politically.
+Globalization is not new—[[Roman Economy|Rome]], [[Indian Ocean Trade|the Indian Ocean]], [[Trade Networks|the Silk Road]], and the [[Atlantic Slave Trade|Atlantic system]] were all earlier integrations. Rome is the revealing contrast: it achieved Mediterranean-wide free trade through *empire* (one sovereign, one currency, one law), but when the political center collapsed, the economic integration collapsed with it. What distinguishes the modern version is its *institutional infrastructure*: international organizations (WTO, IMF, World Bank), standardized commercial law, container shipping, and digital communications that make trade nearly frictionless. Yet Rodrik's "trilemma" reveals the fundamental tension: you can have globalization, democracy, and national sovereignty—but not all three simultaneously. Each wave of globalization has been followed by political backlash when its costs (job displacement, inequality, cultural disruption) overwhelm its benefits for enough people. The pattern is as old as the [[Guild Economics|guilds]]: integration creates losers who organize politically.
 
 ---
 
