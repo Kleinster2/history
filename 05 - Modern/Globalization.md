@@ -25,10 +25,11 @@ Globalization—the intensifying interconnection of economies, societies, and cu
 
 | System | Character |
 |--------|-----------|
-| [[Roman Economy\|Pax Romana]] | Integration through empire—common currency, law, roads |
-| [[Indian Ocean Trade]] | Integration through merchants—no single political authority |
+| [[Bronze Age Collapse\|Late Bronze Age]] (1500-1200 BCE) | First systemic integration—interdependent supply chains (copper + tin = bronze); collapse cascaded across all participants |
+| [[Roman Economy\|Pax Romana]] (27 BCE-476 CE) | Integration through empire—common currency, law, roads; collapsed with political center |
+| [[Indian Ocean Trade]] (ancient-1500) | Integration through merchants—no single political authority; survived empires rising and falling |
 | [[Trade Networks\|Silk Road]] | Loose networks, intermediaries, no central control |
-| Contrast | Empire is effective but fragile; institutional networks survive political collapse |
+| Lesson | Empire-based integration is efficient but fragile; merchant networks are resilient but thin; modern institutions attempt both depth and durability |
 
 ### Early Globalization (1500-1800)
 
@@ -205,7 +206,7 @@ Globalization—the intensifying interconnection of economies, societies, and cu
 
 ### The Deeper Point
 
-Globalization is not new—[[Roman Economy|Rome]], [[Indian Ocean Trade|the Indian Ocean]], [[Trade Networks|the Silk Road]], and the [[Atlantic Slave Trade|Atlantic system]] were all earlier integrations. Rome is the revealing contrast: it achieved Mediterranean-wide free trade through *empire* (one sovereign, one currency, one law), but when the political center collapsed, the economic integration collapsed with it. What distinguishes the modern version is its *institutional infrastructure*: international organizations (WTO, IMF, World Bank), standardized commercial law, container shipping, and digital communications that make trade nearly frictionless. Yet Rodrik's "trilemma" reveals the fundamental tension: you can have globalization, democracy, and national sovereignty—but not all three simultaneously. Each wave of globalization has been followed by political backlash when its costs (job displacement, inequality, cultural disruption) overwhelm its benefits for enough people. The pattern is as old as the [[Guild Economics|guilds]]: integration creates losers who organize politically.
+Globalization is not new—the [[Bronze Age Collapse|Late Bronze Age]] trading system (1500-1200 BCE) was the first: interdependent supply chains where bronze itself required copper from Cyprus and tin from Afghanistan, making the technology impossible without long-distance trade. Its collapse around 1200 BCE is the earliest "deglobalization"—and the most instructive, because it shows that integrated systems can fail *systemically*, each node's collapse cascading to the next. [[Roman Economy|Rome]] achieved integration through empire; the [[Indian Ocean Trade|Indian Ocean]] achieved it through merchants; the [[Atlantic Slave Trade|Atlantic system]] through coercion. What distinguishes the modern version is its *institutional infrastructure*: international organizations (WTO, IMF, World Bank), standardized commercial law, container shipping, and digital communications that make trade nearly frictionless. Yet Rodrik's "trilemma" reveals the fundamental tension: you can have globalization, democracy, and national sovereignty—but not all three simultaneously. Each wave of globalization has been followed by political backlash when its costs (job displacement, inequality, cultural disruption) overwhelm its benefits for enough people. The pattern is as old as the [[Guild Economics|guilds]]: integration creates losers who organize politically.
 
 ---
 
@@ -217,13 +218,17 @@ Globalization is not new—[[Roman Economy|Rome]], [[Indian Ocean Trade|the Indi
 
 ## Related Notes
 
+- [[Bronze Age Collapse]]
+- [[Roman Economy]]
 - [[Trade Networks]]
 - [[Indian Ocean Trade]]
+- [[Mediterranean Trade]]
 - [[Global Supply Chains]]
 - [[Trade Blocs]]
 - [[Neoliberalism]]
 - [[Financial Crises]]
 - [[Asian Tigers]]
 - [[China's Rise]]
+- [[Guild Economics]]
 - [[Institutions and Progress]]
 - [[Modern Index]]
