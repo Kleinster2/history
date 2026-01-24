@@ -362,6 +362,12 @@ Inequality is not natural—it has a history. For most of human existence, there
 
 ---
 
+## The Deeper Point
+
+Scheidel's devastating finding: across all recorded history, only four forces have substantially reduced inequality—mass-mobilization warfare, revolution, state collapse, and plague. Peaceful redistribution through [[Institutions and Progress|institutional]] reform has never achieved leveling at the same scale. The postwar compression (1945-1975) was the product of all four (two world wars, communist threat, Depression trauma). Once those pressures faded, inequality returned to pre-war levels within a generation—Piketty's r > g operating without political constraint. This suggests that the institutional channels which reduce inequality ([[Taxation|progressive taxation]], [[Labor and Unions|unions]], [[Welfare State|welfare states]]) require existential political pressure to create and maintain. The [[Gilded Age]] compressed into the [[Postwar Boom]] only through catastrophic violence; the postwar equality decompressed into neoliberal inequality through nothing more than the fading of wartime memory. The question for the 21st century: can institutional design reduce inequality without catastrophe, or is Scheidel's pattern permanent? The answer matters because extreme inequality doesn't just offend justice—it undermines the broad-based demand and political stability that [[Innovation Economics|productive economies]] require.
+
+---
+
 ## Sources & Further Reading
 
 - Piketty, T. (2014). *Capital in the Twenty-First Century*

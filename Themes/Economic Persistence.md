@@ -368,6 +368,12 @@ The most striking evidence of economic persistence comes from Florence—where r
 
 ---
 
+## The Deeper Point
+
+The [[Florence]] surname study (Barone & Mocetti) and Clark's surname research reveal an uncomfortable truth: economic status persists across 20+ generations, far longer than any specific institution, policy, or technology. Wealth begets education begets networks begets wealth, regardless of the prevailing economic system—feudal, capitalist, communist, social democratic. This challenges the [[Institutions and Progress|institutional]] thesis at its core: if outcomes persist regardless of institutional change, do institutions matter? The resolution: institutions determine the *overall* growth rate and the *width* of mobility channels, but within any system, families with cultural and social capital find ways to stay at the top. [[Property Rights]], human capital, and social networks compound across generations in ways that no policy has fully disrupted—not Swedish social democracy, not Chinese revolution, not American meritocratic ideology. Economic persistence isn't a contradiction of the institutional thesis—it's its most sobering implication: the [[Institutions and Progress|institutions]] that channel ambition into production also channel the *rewards* of production to those positioned to capture them. [[Inequality]] isn't a bug in the system; it's the compound interest of initial advantage operating through whatever institutional framework exists.
+
+---
+
 ## Related Notes
 
 - [[Origins of Economy]]

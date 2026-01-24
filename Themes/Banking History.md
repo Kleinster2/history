@@ -224,11 +224,19 @@ Banking—the business of receiving deposits and making loans—developed to sol
 | Mobile | Global access |
 | Fintech | Disruption |
 
-## Sources
+## The Deeper Point
+
+Banking is the [[Institutions and Progress|institutional]] technology that converts idle savings into productive investment—the bridge between savers who won't take risks and entrepreneurs who will. Every banking innovation ([[Ancient Credit|temple deposits]] → [[Medieval Financial Innovation|letters of credit]] → fractional reserves → [[Stock Markets|central banking]] → [[Financialization|securitization]]) expanded this bridge, enabling larger-scale enterprise. But every expansion also created new fragility: fractional reserves create bank runs, securitization creates opacity, derivatives create interconnection. The recurring [[Financial Crises|crisis]] pattern isn't a failure of banking—it's the cost of banking's success at mobilizing ever-larger pools of capital. Each post-crisis regulation (lender of last resort, deposit insurance, capital requirements) patches one fragility while the system innovates around it to create the next. The question isn't whether banking is dangerous (it obviously is) but whether the productive investment it enables outweighs the crises it periodically produces. History's answer: overwhelmingly yes—but only when [[Property Rights|institutional frameworks]] prevent banking from serving itself rather than the real economy.
+
+---
+
+## Sources & Further Reading
 
 - Ferguson, N. (2008). *The Ascent of Money*
 - Kindleberger, C. (1978). *Manias, Panics, and Crashes*
 - De Roover, R. (1963). *The Rise and Decline of the Medici Bank*
+
+---
 
 ## Related Notes
 
@@ -237,3 +245,13 @@ Banking—the business of receiving deposits and making loans—developed to sol
 - [[Capitalism]]
 - [[Medieval Economy]]
 - [[Financial Crises]]
+- [[Financialization]]
+- [[Stock Markets]]
+- [[2008 Financial Crisis]]
+- [[Medieval Financial Innovation]]
+- [[Ancient Credit]]
+- [[Florence]]
+- [[Templars]]
+- [[Institutions and Progress]]
+- [[Innovation Economics]]
+- [[Property Rights]]

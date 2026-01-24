@@ -201,16 +201,31 @@ Energy—the capacity to do work—underlies all economic activity. Human histor
 | Hydroelectric | Mature |
 | Nuclear | Debated |
 
-## Sources
+## The Deeper Point
+
+The transition from organic to mineral energy is the material foundation of everything else in this vault. Before coal, all economic activity was limited by annual solar flow (muscle, wind, water, wood)—Wrigley's "organic economy" where land was the binding constraint. After coal, accumulated solar stock (fossil fuels stored over millions of years) unlocked energy at scales that made [[Industrial Revolution|industrial production]], urbanization, and population growth possible. Every ton of coal replaced acres of timber; every [[Steam Engine|steam engine]] replaced teams of horses. This wasn't just more power—it was liberation from the land constraint that had imposed Malthusian ceilings on every previous civilization. But this created a temporal paradox: fossil fuel-powered progress is unsustainable by definition, consuming millions of years of stored energy in centuries. The [[Oil Economy|oil]] era amplified both the growth and the unsustainability. The next energy transition (to renewables) will be the first that isn't driven by scarcity ([[Timber Crisis]]) but by externality (climate). Whether existing [[Institutions and Progress|institutional]] frameworks can manage a transition driven by choice rather than necessity—when the incumbent system still works profitably—is the defining [[Innovation Economics|innovation]] challenge of the 21st century.
+
+---
+
+## Sources & Further Reading
 
 - Smil, V. (2017). *Energy and Civilization: A History*
 - Crosby, A. (2006). *Children of the Sun*
 - Wrigley, E.A. (2010). *Energy and the English Industrial Revolution*
 
+---
+
 ## Related Notes
 
 - [[Fire Use]]
 - [[Industrial Revolution]]
+- [[Steam Engine]]
+- [[Timber Crisis]]
+- [[Oil Economy]]
+- [[Oil Crisis]]
+- [[Climate and Economy]]
 - [[Agriculture]]
 - [[Technology History]]
-- [[Climate & History]]
+- [[Great Divergence]]
+- [[Institutions and Progress]]
+- [[Innovation Economics]]

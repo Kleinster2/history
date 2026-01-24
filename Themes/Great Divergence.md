@@ -386,6 +386,12 @@ The Great Divergence resulted from:
 
 ---
 
+## The Deeper Point
+
+The question isn't "why did Europe industrialize first?" but "why did sustained growth happen only once?" Every earlier efflorescence ([[Song China Economy|Song China]], [[Islamic Economy|Abbasid Baghdad]], [[Roman Economy|Rome]]) produced growth that was cyclical, not self-sustaining—eventually hitting Malthusian ceilings that returned per-capita income to subsistence. The [[Institutions and Progress|institutional]] thesis argues that Britain's specific combination (IP protection, capital markets, low entry barriers, competitive political fragmentation, scientific culture) crossed a threshold where [[Innovation Economics|innovating]] was permanently more profitable than renting. Pomeranz's challenge (coal access, New World resources) shows this wasn't inevitable—it required contingent geographic advantages too. The deepest lesson: the Great Divergence wasn't one country getting ahead in a race all countries were running. It was one country breaking the ceiling that had limited *all* previous societies. Every subsequent industrialization—Germany, Japan, Korea, China—is catch-up to that single breakout, made possible because the institutional formula was now visible and copiable. The question for our era is whether the formula requires updating: the institutions that enabled the first transition (fossil fuel-powered growth) may be inadequate for the next one (sustainable growth within planetary limits).
+
+---
+
 ## Related Notes
 
 - [[Institutions and Progress]]

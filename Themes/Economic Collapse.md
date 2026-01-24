@@ -349,6 +349,12 @@ Every ancient economic system eventually ended—some through gradual transforma
 
 ---
 
+## The Deeper Point
+
+Tainter's thesis—that collapse is the rational response to declining returns on complexity—reframes collapse from failure to adaptation. Societies don't collapse because they're poorly run; they collapse because the [[Institutions and Progress|institutional]] complexity that once solved problems starts costing more than it provides. [[Roman Economy|Rome]] didn't fall because of barbarians; it fell because maintaining the legions, the roads, the bureaucracy, and the borders cost more than the tax base could sustain—and simpler alternatives (local warlords) provided adequate security more cheaply. The [[Bronze Age Collapse]] didn't happen because of Sea Peoples; it happened because the palace-economy networks connecting Egypt, Hatti, Mycenae, and Ugarit were fragile to *any* disruption of the trade that sustained them. The pattern across all collapses: complex institutions enable growth but create systemic risk. The more interconnected the system, the more a local failure cascades into system-wide breakdown. This is exactly the [[2008 Financial Crisis|2008]] lesson applied to antiquity—and it suggests that our own institutional complexity, while enabling unprecedented [[Innovation Economics|prosperity]], may be approaching similar thresholds of fragility. The question isn't whether complex systems can collapse—they always can—but whether our institutions are adaptive enough to simplify before they shatter.
+
+---
+
 ## Sources & Further Reading
 
 - Tainter, J. (1988). *The Collapse of Complex Societies*

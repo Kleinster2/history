@@ -383,6 +383,12 @@ The entrepreneur—someone who sees an opportunity, takes a risk, and creates so
 
 ---
 
+## The Deeper Point
+
+Baumol's 1990 thesis—the vault's central insight—is that the supply of entrepreneurial talent is roughly constant across societies and eras; what varies is the direction [[Institutions and Progress|institutions]] channel it. Roman entrepreneurs captured slaves and tax-farming contracts; medieval Venetians built trade networks and crusade financing; [[Gilded Age]] Americans built railroads *and* political machines simultaneously. The entrepreneur isn't inherently productive or destructive—they're responsive to the incentive structure. This reframes [[Development Economics|development]]: the question isn't "how do we create entrepreneurs?" (they exist everywhere, from Lagos market traders to Shenzhen factory founders) but "how do we make productive [[Innovation Economics|entrepreneurship]] more rewarding than predatory, rent-seeking, or criminal entrepreneurship?" The answer is always institutional: [[Property Rights|property rights]] that protect investment, legal systems that enforce contracts, entry barriers low enough to permit competition, and financial systems that fund startups over incumbents. Silicon Valley didn't produce more talented people than Soviet Russia—it produced an institutional environment where talent flowed into garages and code rather than into bureaucracy and black markets.
+
+---
+
 ## Related Notes
 
 - [[Institutions and Progress]]
@@ -400,4 +406,7 @@ The entrepreneur—someone who sees an opportunity, takes a risk, and creates so
 - [[Second Industrial Revolution]]
 - [[Proto-industrialization]]
 - [[Management Revolution]]
+- [[Innovation Economics]]
+- [[Property Rights]]
+- [[Development Economics]]
 - [[Modern Index]]

@@ -212,6 +212,12 @@ Slavery is the oldest form of labor exploitation—and one of the most economica
 
 ---
 
+## The Deeper Point
+
+Slavery is the limiting case of extractive [[Institutions and Progress|institutions]]: one group captures 100% of another group's productive output. The economic puzzle is why slavery persisted so long despite free labor's apparent efficiency advantages (motivated workers innovate and self-manage). The answer: slavery is individually rational for slaveholders (who capture surplus without paying wages) even when it's collectively irrational for society (which loses the [[Innovation Economics|innovation]] and effort that only motivated, rewarded workers provide). The antebellum South grew rich on [[Cotton Economy|cotton]] precisely because slavery worked *for the slaveholders*—Baptist's "whipping machine" increased productivity through brutality that free labor markets would never tolerate. Williams's thesis—that slave profits funded British industrialization—is debated on scale but illuminating on mechanism: extractive institutions in one sphere (Caribbean plantations) can fund productive investment in another (Lancashire mills). The deepest lesson: economic progress and human exploitation aren't opposites that cancel each other—they coexisted for millennia, and the institutions that ended slavery (abolition movements, free-labor ideology, industrial alternatives to coerced labor) were themselves products of economic change as much as moral awakening. [[Property Rights]] in human beings were abolished only when alternative property rights proved more productive.
+
+---
+
 ## Sources & Further Reading
 
 - Williams, E. (1944). *Capitalism and Slavery*
@@ -233,5 +239,10 @@ Slavery is the oldest form of labor exploitation—and one of the most economica
 - [[Roman Economy]]
 - [[Greek Economy]]
 - [[Colonial Americas Economy]]
+- [[Industrial Revolution]]
+- [[Inequality]]
+- [[Labor and Unions]]
 - [[Institutions and Progress]]
+- [[Property Rights]]
+- [[Innovation Economics]]
 - [[Great Divergence]]
