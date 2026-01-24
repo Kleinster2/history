@@ -324,6 +324,12 @@ Mass production transformed economic life more than any innovation since agricul
 
 ---
 
+## The Deeper Point
+
+Ford's genius wasn't the assembly line—it was understanding that workers are also consumers. The $5 day (1914) wasn't charity; it was the institutional foundation of mass consumption. Pay workers enough to buy what they make, and demand sustains production at scales that drive costs down further. This virtuous circle—what regulationists call the "Fordist bargain"—produced the 20th century's broad prosperity. But it only works when productivity gains are shared. When they stopped being shared (1970s onward, as [[Neoliberalism|neoliberal]] policy weakened [[Labor and Unions|unions]] and globalized supply chains), the system's political foundation cracked even as its technical efficiency improved. Toyota's lean production solved Ford's rigidity problem but not his political one: how do you sustain mass consumption when production no longer requires mass employment? The [[Innovation Economics|automation]] question isn't technical—it's institutional.
+
+---
+
 ## Sources & Further Reading
 
 - Hounshell, D. (1984). *From the American System to Mass Production*

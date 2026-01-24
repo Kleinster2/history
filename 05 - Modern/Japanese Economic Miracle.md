@@ -334,6 +334,12 @@ The Japanese miracle showed that rapid industrialization was possible after Worl
 
 ---
 
+## The Deeper Point
+
+Japan's miracle refuted the assumption that Western [[Institutions and Progress|institutions]] were prerequisite for industrial development. Lifetime employment, enterprise unions, keiretsu cross-shareholding, MITI's administrative guidance—all violated Anglo-American orthodoxy, all worked spectacularly for 40 years. The system was optimized for catch-up growth: patient capital enabled long-term investment, lifetime employment enabled firm-specific skill accumulation, administrative guidance enabled coordinated industrial upgrading. But the miracle's end (1990) revealed the model's fatal flaw: institutions optimized for imitation become traps when the frontier is reached and [[Innovation Economics|innovation]] requires the creative destruction that the system was explicitly designed to prevent. Cross-shareholding blocked hostile takeovers that would restructure failing firms; lifetime employment prevented labor reallocation; administrative guidance couldn't identify frontier technologies. Japan proves both halves of the institutional thesis: the right framework can produce extraordinary growth, and the wrong framework—even one that previously succeeded—can produce extraordinary stagnation.
+
+---
+
 ## Sources & Further Reading
 
 - Johnson, C. (1982). *MITI and the Japanese Miracle*
@@ -352,4 +358,9 @@ The Japanese miracle showed that rapid industrialization was possible after Worl
 - [[German Business Model]]
 - [[Mass Production]]
 - [[Postwar Boom]]
+- [[Corporate Evolution]]
+- [[Development Economics]]
+- [[Institutions and Progress]]
+- [[Innovation Economics]]
+- [[Property Rights]]
 - [[Modern Index]]

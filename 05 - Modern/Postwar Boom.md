@@ -344,6 +344,12 @@ The postwar boom set expectations—for rising wages, expanding homeownership, u
 
 ---
 
+## The Deeper Point
+
+The postwar boom wasn't natural—it was institutionally constructed. Bretton Woods, GATT, the GI Bill, union contracts, the welfare state: all were deliberate responses to the interwar catastrophe. The result was the only sustained period in capitalist history when median wages rose as fast as productivity—not because markets naturally distribute gains broadly, but because [[Institutions and Progress|institutions]] forced them to. When those institutions eroded (floating exchange rates after 1971, deregulation after 1980, union decline, globalization of supply chains), growth continued but gains concentrated at the top. The boom proves that growth and equality aren't inherent trade-offs—they're both products of institutional design. The era's end also proves that institutional frameworks don't persist automatically; they require the political conditions (labor power, Cold War competition, Depression memory) that created them. Remove those conditions and the institutions unravel, no matter how well they performed.
+
+---
+
 ## Sources & Further Reading
 
 - Gordon, R. (2016). *The Rise and Fall of American Growth*
@@ -361,4 +367,11 @@ The postwar boom set expectations—for rising wages, expanding homeownership, u
 - [[World Wars Economic Impact]]
 - [[Welfare State]]
 - [[Globalization]]
+- [[Oil Crisis]]
+- [[Neoliberalism]]
+- [[European Economic Miracle]]
+- [[Labor and Unions]]
+- [[Mass Production]]
+- [[Institutions and Progress]]
+- [[Innovation Economics]]
 - [[Modern Index]]

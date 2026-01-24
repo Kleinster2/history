@@ -428,6 +428,12 @@ The railroad's problem was unprecedented: how do you coordinate thousands of wor
 
 ---
 
+## The Deeper Point
+
+The Gilded Age is Baumol's natural experiment: remove institutional constraints (weak regulation, no antitrust, corrupt politics) and entrepreneurial energy produces extraordinary innovation and extraordinary extraction simultaneously. Carnegie built an industry and crushed Homestead. Rockefeller rationalized oil distribution and eliminated competitors through predatory pricing. The era proves that [[Innovation Economics|innovation]] and rent-seeking aren't opposites—they're both expressions of ambition, channeled by the prevailing rules of the game. The Progressive Era response (antitrust, regulation, labor law, the income tax) wasn't anti-capitalist—it was the [[Institutions and Progress|institutional]] correction that redirected that same energy more productively. The Gilded Age echoes in every subsequent era of deregulation: whenever constraints are removed, the same dual pattern emerges. The question isn't whether to have entrepreneurs—it's whether the institutional framework ensures their ambition creates value rather than merely captures it.
+
+---
+
 ## Sources & Further Reading
 
 - Chandler, A. (1977). *The Visible Hand*
@@ -448,4 +454,10 @@ The railroad's problem was unprecedented: how do you coordinate thousands of wor
 - [[Progressive Era]]
 - [[Westward Expansion]]
 - [[Corporate Evolution]]
+- [[Mass Production]]
+- [[Labor and Unions]]
+- [[Financialization]]
+- [[Institutions and Progress]]
+- [[Innovation Economics]]
+- [[Property Rights]]
 - [[Modern Index]]

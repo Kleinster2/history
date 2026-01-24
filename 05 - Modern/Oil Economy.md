@@ -333,6 +333,12 @@ Oil reshaped the 20th century more than any other commodity. Cheap petroleum pow
 
 ---
 
+## The Deeper Point
+
+Oil is the ultimate resource-curse laboratory. Countries with identical geology—abundant hydrocarbons—diverge radically based on [[Institutions and Progress|institutions]]: Norway's sovereign wealth fund vs. Nigeria's kleptocracy, Botswana's managed diamonds vs. Venezuela's petrostate collapse. The resource doesn't determine the outcome; institutions do. Karl's "paradox of plenty" and Ross's "oil curse" both describe the same mechanism: windfall revenue weakens the social contract (no taxation, no representation), concentrates power, and removes the pressure to build productive capacity. The exceptions (Norway, Canada, the early American oil industry) all had strong [[Property Rights|property rights]] and institutional constraints *before* oil was found. The lesson for economic progress: natural resources are neither a blessing nor a curse—they're an institutional stress test. Countries with frameworks that channel rents into investment pass; those without frameworks that prevent capture fail.
+
+---
+
 ## Sources & Further Reading
 
 - Yergin, D. (2011). *The Quest* (and 1991, *The Prize*)

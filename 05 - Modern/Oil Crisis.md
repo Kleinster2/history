@@ -333,6 +333,12 @@ The oil crisis didn't just raise prices—it ended an era. The confident, manage
 
 ---
 
+## The Deeper Point
+
+The oil crisis revealed that the [[Postwar Boom|postwar boom]] rested on a hidden institutional foundation: cheap, abundant energy controlled by Western companies operating under arrangements that kept producer-country governments weak. When OPEC nationalized that resource, the entire growth model—Fordist [[Mass Production|mass production]], suburban sprawl, consumer abundance—hit a wall it wasn't designed to handle. Keynesian demand management couldn't solve a supply shock; the Phillips curve broke down; stagflation was impossible under existing theory. The crisis didn't just raise prices—it exposed how much of "free market" prosperity depended on a geopolitical arrangement that kept raw materials cheap. The [[Neoliberalism|neoliberal]] turn that followed wasn't inevitable but it was logical: if the old [[Institutions and Progress|institutional]] framework couldn't handle the new reality, try a different one. The tragedy is that the baby (demand management, labor power, social insurance) went out with the bathwater (rigidity, inflation tolerance, energy complacency).
+
+---
+
 ## Sources & Further Reading
 
 - Yergin, D. (1991). *The Prize: The Epic Quest for Oil*
@@ -348,4 +354,9 @@ The oil crisis didn't just raise prices—it ended an era. The confident, manage
 - [[Neoliberalism]]
 - [[Financialization]]
 - [[Great Depression]]
+- [[Oil Economy]]
+- [[Mass Production]]
+- [[Labor and Unions]]
+- [[Welfare State]]
+- [[Institutions and Progress]]
 - [[Modern Index]]

@@ -427,6 +427,12 @@ The era of pure neoliberal confidence ended in 2008. What replaces it remains un
 
 ---
 
+## The Deeper Point
+
+Neoliberalism's core insight—that prices coordinate information better than bureaucrats—is correct and was vindicated by the Soviet collapse. Its core error—that all [[Institutions and Progress|institutions]] beyond [[Property Rights|property rights]] and contract enforcement are obstacles to efficiency—proved catastrophic. The 2008 crisis showed that deregulated finance doesn't self-correct; rising inequality showed that labor markets don't self-balance; climate change showed that externalities don't self-internalize. The Scandinavian countries that maintained strong institutions through the neoliberal era outperform on growth, equality, and innovation simultaneously—disproving the claim that institutional constraints necessarily sacrifice efficiency. The project of the 21st century is keeping neoliberalism's informational insight (markets process information that planning cannot) while rebuilding the institutional guardrails it dismantled (financial regulation, labor standards, environmental rules). Whether this synthesis is possible—or whether the political damage neoliberalism inflicted makes institutional reconstruction impossible—remains the open question.
+
+---
+
 ## Sources & Further Reading
 
 - Harvey, D. (2005). *A Brief History of Neoliberalism*
@@ -445,4 +451,10 @@ The era of pure neoliberal confidence ended in 2008. What replaces it remains un
 - [[Globalization]]
 - [[2008 Financial Crisis]]
 - [[Asian Tigers]]
+- [[Welfare State]]
+- [[Labor and Unions]]
+- [[Development Economics]]
+- [[Institutions and Progress]]
+- [[Property Rights]]
+- [[Innovation Economics]]
 - [[Modern Index]]

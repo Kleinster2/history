@@ -334,6 +334,12 @@ The deeper innovation: McKinsey made management *separable from the firm*—a po
 
 ---
 
+## The Deeper Point
+
+Management is the technology for coordinating strangers at scale—the organizational equivalent of the steam engine. But unlike engineering, management is reflexive: the theories change the reality they describe. Taylor's scientific management made workers into machine components and productivity soared; human relations made them into motivated stakeholders and satisfaction rose; shareholder value theory made them into costs to be minimized and inequality exploded. Each framework reveals something true while hiding something else. Bloom and Van Reenen's finding—that management quality varies enormously and explains much of the productivity gap between countries—suggests this is where [[Innovation Economics|institutional innovation]] matters most. The countries and firms that figure out how to coordinate human effort productively without either crushing initiative (Taylor) or ignoring efficiency (human relations) or extracting value ([[Financialization|shareholder primacy]]) will lead the next era of [[Institutions and Progress|economic progress]].
+
+---
+
 ## Sources & Further Reading
 
 - Drucker, P. (1954). *The Practice of Management*

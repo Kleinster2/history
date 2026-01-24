@@ -300,6 +300,12 @@ After 1945, Western Europe rebuilt from rubble into the world's largest integrat
 
 ---
 
+## The Deeper Point
+
+The European miracle's deepest lesson is that there is no single institutional formula for growth. Germany's codetermination and social market economy, France's indicative planning, Italy's family-firm industrial districts—all achieved rapid convergence through radically different mechanisms. The common thread wasn't a specific policy but an institutional orientation: channeling Marshall Plan capital and Cold War urgency into productive investment rather than rent-seeking. Hall and Soskice's "varieties of capitalism" framework captures this: liberal market economies (Anglo-Saxon) and coordinated market economies (Continental) are equally capable of growth, but through different institutional complementarities. The European integration project then added a meta-institutional layer—creating competition between national systems while providing a common market that rewarded [[Innovation Economics|innovation]] over protection. The result proved that [[Institutions and Progress|institutional diversity]], not convergence on a single model, is the engine of progress.
+
+---
+
 ## Sources & Further Reading
 
 - Eichengreen, B. (2007). *The European Economy Since 1945*

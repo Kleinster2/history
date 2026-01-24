@@ -322,6 +322,12 @@ Organized labor shaped 20th-century capitalism. When workers bargained collectiv
 
 ---
 
+## The Deeper Point
+
+Unions are the institutional counterweight that makes industrial capitalism politically sustainable. The pattern is remarkably consistent: every period of high inequality and weak labor ([[Gilded Age]], post-1980) generates political instability and populist backlash; every period of strong labor (1945-1975) generates broadly shared growth and democratic stability. This isn't coincidence—it's institutional mechanics. Unions solve a collective action problem: individual workers can't bargain against concentrated capital, but organized workers can ensure productivity gains are shared. The medieval [[Guild Economics|guilds]] regulated craft markets; modern unions regulate labor markets. Both face the same tension: protecting members while not blocking the [[Innovation Economics|innovation]] that generates growth. The decline of unions since 1980 correlates almost perfectly with the rise of inequality—Western and Rosenfeld estimate that deunionization explains a third of the increase in US wage inequality. The question for the 21st century isn't whether labor needs institutional voice (history answers yes) but what form that voice takes when the factory floor—where industrial unionism was born—employs an ever-shrinking share of workers.
+
+---
+
 ## Sources & Further Reading
 
 - Freeman, R. & Medoff, J. (1984). *What Do Unions Do?*

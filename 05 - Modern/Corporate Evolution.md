@@ -311,6 +311,12 @@ The corporation is the dominant institution of modern capitalism. From the manag
 
 ---
 
+## The Deeper Point
+
+The corporation is the institutional technology that enabled economic complexity beyond what markets of individuals could achieve. Chandler's "visible hand" showed that managerial coordination outperformed market coordination for complex production. But each era's corporate form generates its own pathology: managerial empire-building (1960s conglomerates), financial engineering (1980s LBOs), platform monopoly (2020s tech giants). This is Baumol's thesis applied to organizational design: the rules of the game determine whether corporate ambition flows into [[Innovation Economics|productive innovation]] or [[Financialization|financial extraction]]. The global variation in corporate governance—Anglo-Saxon shareholder primacy, German codetermination, Japanese keiretsu, Korean chaebol, Chinese state capitalism—proves that [[Institutions and Progress|institutional context]] shapes the corporation as much as the corporation shapes its market. There is no natural form of the firm, only the one that the surrounding rules reward.
+
+---
+
 ## Sources & Further Reading
 
 - Berle, A. & Means, G. (1932). *The Modern Corporation and Private Property*

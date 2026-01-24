@@ -406,6 +406,12 @@ Pumps need power
 
 ---
 
+## The Deeper Point
+
+The steam engine is the single technology that best illustrates the [[Institutions and Progress|institutional]] theory of progress. Hero of Alexandria described steam power in the 1st century; China had piston bellows for centuries; Newcomen built a working engine in 1712. But only Boulton & Watt's partnership—enabled by patents that rewarded improvement, capital markets that funded development, skilled metalworkers trained in Birmingham's trades, and customer demand from mines already commercialized—turned a pump into a revolution. The engine didn't cause the [[Industrial Revolution]]; the institutional environment that made it *profitable to improve continuously* did. Allen's "induced innovation" thesis captures this: British labor was expensive and coal was cheap, so a technology that substituted coal-energy for human-energy was worth perfecting. In China, where labor was cheap, the same technology wasn't worth the investment. The steam engine proves that [[Innovation Economics|invention]] without institutions is a curiosity; invention within the right institutional framework is a transformation. Watt's separate condenser was genius—but genius without Wilkinson's boring mill, Boulton's capital, and patent law's protection would have remained a sketch in a notebook.
+
+---
+
 ## Sources & Further Reading
 
 - Hills, R. (1989). *Power from Steam: A History of the Stationary Steam Engine*
@@ -424,3 +430,6 @@ Pumps need power
 - [[Great Divergence]]
 - [[Early Modern Index]]
 - [[Economic Persistence]]
+- [[Institutions and Progress]]
+- [[Innovation Economics]]
+- [[Property Rights]]

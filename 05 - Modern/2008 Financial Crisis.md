@@ -396,6 +396,12 @@ Policy mattered. The response, however imperfect, prevented a second Depression.
 
 ---
 
+## The Deeper Point
+
+2008 proved Minsky's thesis: stability breeds instability. The very success of post-Depression regulation—no major financial crisis for 60 years—created the political confidence to dismantle it. Deregulation didn't fail despite working; it failed *because* it initially worked, breeding the complacency that permitted ever-greater leverage. When the crisis came, policymakers correctly applied the Depression's economic lessons (lend freely, stimulate, don't let banks fail) but not its political lessons (restructure the system, hold actors accountable, reform fundamentally). The result: economic recovery without institutional legitimacy. Banks were saved but not reformed; executives were bailed out but not prosecuted; the system was stabilized but not changed. This gap between economic rescue and political justice produced the populist backlash (Tea Party, Occupy, Trump, Brexit) that still shapes politics—proving that [[Institutions and Progress|institutional]] frameworks require not just technical effectiveness but perceived fairness to maintain the social consent on which [[Property Rights|property rights]] themselves ultimately rest.
+
+---
+
 ## Sources & Further Reading
 
 - Blinder, A. (2013). *After the Music Stopped*
@@ -413,4 +419,9 @@ Policy mattered. The response, however imperfect, prevented a second Depression.
 - [[Great Depression]]
 - [[Oil Crisis]]
 - [[Financial Crises]]
+- [[Stock Markets]]
+- [[Welfare State]]
+- [[Institutions and Progress]]
+- [[Property Rights]]
+- [[Innovation Economics]]
 - [[Modern Index]]

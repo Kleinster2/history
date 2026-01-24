@@ -368,6 +368,12 @@ The Tigers showed that poor countries could become rich in a single generation. 
 
 ---
 
+## The Deeper Point
+
+The Tigers disproved both extremes: markets alone don't develop countries (much of Africa has markets), and states alone can't either (the USSR proved that). What worked was a specific [[Institutions and Progress|institutional]] combination: state direction of investment into export industries that faced international competition (preventing the inefficiency of import substitution), [[Property Rights|property rights]] secure enough to motivate effort but not so absolute as to prevent land reform, education systems that created human capital without creating expectations the economy couldn't meet. The developmental state wasn't "picking winners"—it was creating the institutional conditions where market competition could produce industrial upgrading. The 1997 crisis revealed the model's vulnerability (crony capitalism, premature financial liberalization), but the rapid recovery confirmed its resilience. The formula isn't "free markets" or "state planning"—it's getting the institutional balance right for each stage of development, then having the flexibility to adjust when conditions change. Whether this can be replicated elsewhere depends on state capacity that most developing countries lack—which is itself an [[Innovation Economics|institutional]] challenge, not a policy one.
+
+---
+
 ## Sources & Further Reading
 
 - Amsden, A. (1989). *Asia's Next Giant: South Korea and Late Industrialization*
@@ -388,4 +394,7 @@ The Tigers showed that poor countries could become rich in a single generation. 
 - [[Globalization]]
 - [[Great Divergence]]
 - [[Development Economics]]
+- [[Institutions and Progress]]
+- [[Property Rights]]
+- [[Innovation Economics]]
 - [[Modern Index]]

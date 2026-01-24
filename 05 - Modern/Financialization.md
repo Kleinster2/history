@@ -400,6 +400,12 @@ Finance was supposed to be the handmaiden of industry. Instead, it became the ma
 
 ---
 
+## The Deeper Point
+
+Financialization is what happens when the rules of the game reward paper over production. When financial returns exceed industrial returns for decades—as they have since the 1980s—rational actors shift from making things to trading claims on things. This isn't a market failure; it's markets working exactly as designed, responding to incentives set by [[Neoliberalism|policy]] (deregulation, low capital gains taxes, shareholder primacy doctrine). Philippon's finding that the finance industry has become *less* efficient over time—taking a larger share of GDP while providing no better capital allocation—confirms that financialization is extraction, not [[Innovation Economics|innovation]]. The medieval [[Medieval Financial Innovation|bill of exchange]] channeled finance into enabling trade; the modern CDO-squared channeled finance into enabling itself. The distinction between productive finance (funding enterprise) and extractive finance (trading existing claims) maps directly onto Baumol's framework: [[Institutions and Progress|institutional]] rules determine which kind dominates. Financialization is an institutional choice disguised as a market outcome.
+
+---
+
 ## Sources & Further Reading
 
 - Krippner, G. (2011). *Capitalizing on Crisis*
@@ -419,4 +425,10 @@ Finance was supposed to be the handmaiden of industry. Instead, it became the ma
 - [[Gilded Age]]
 - [[Banking History]]
 - [[Corporate Evolution]]
+- [[Financial Crises]]
+- [[Labor and Unions]]
+- [[Medieval Financial Innovation]]
+- [[Institutions and Progress]]
+- [[Innovation Economics]]
+- [[Property Rights]]
 - [[Modern Index]]

@@ -371,6 +371,12 @@ The Great Depression was the worst economic crisis in modern history. Beginning 
 
 ---
 
+## The Deeper Point
+
+The Depression's deepest lesson isn't about monetary policy or fiscal stimulus—it's about institutional legitimacy. When capitalism visibly fails to provide employment for a quarter of the workforce, the political system faces an existential challenge: fascism and communism both presented themselves as solutions. The New Deal wasn't just economic policy—it was institutional preservation through adaptation. Roosevelt saved capitalism by reforming it (deposit insurance, Social Security, securities regulation, labor rights), proving that [[Institutions and Progress|institutions]] survive not through rigidity but through responsiveness to crisis. The contrast with Germany—where Weimar's failure to address mass unemployment delivered the population to Hitler—shows that institutional collapse has consequences far beyond economics. The Depression also settled the gold standard debate: fixed monetary rules that prevent adjustment to shocks don't provide stability—they transmit catastrophe. Every subsequent [[Financial Crises|financial crisis]] replays the question: can existing institutions adapt fast enough to prevent the political radicalization that economic failure produces?
+
+---
+
 ## Sources & Further Reading
 
 - Friedman, M. & Schwartz, A. (1963). *A Monetary History of the United States*
@@ -390,4 +396,8 @@ The Great Depression was the worst economic crisis in modern history. Beginning 
 - [[World Wars Economic Impact]]
 - [[American WWII Economy]]
 - [[Postwar Boom]]
+- [[Interwar Economy]]
+- [[Keynesian Revolution]]
+- [[Institutions and Progress]]
+- [[Innovation Economics]]
 - [[Modern Index]]

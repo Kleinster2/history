@@ -383,6 +383,12 @@ The [[Lunar Society]] of Birmingham exemplifies how personal networks of industr
 
 ---
 
+## The Deeper Point
+
+The Industrial Revolution is the event this entire vault orbits: the moment economic growth became self-sustaining rather than cyclical. Every earlier society hit Malthusian ceilings—more people, eventually less per capita. Britain broke through because its [[Institutions and Progress|institutional]] framework made [[Innovation Economics|innovation]] more profitable than rent-seeking for the first time in history. Patents rewarded inventors; [[Property Rights|property rights]] secured investment; low barriers to entry prevented guilds from blocking new methods; scientific culture valorized practical knowledge; capital markets funded experimentation. None of these were uniquely British—the Dutch had most, Song China had some—but Britain had all of them simultaneously, in a society where coal was cheap, labor was expensive, and Atlantic trade provided both demand and raw materials. The question isn't simply "why did it happen?" but "why only once, and why there?" The answer isn't geography or culture or resources—it's the institutional configuration that made the sustained application of knowledge to production individually rational. Once that threshold was crossed, growth became self-reinforcing: innovation raised incomes, raised demand, funded more innovation. The Malthusian trap was an institutional prison, and the Industrial Revolution was the key.
+
+---
+
 ## Sources & Further Reading
 
 - Allen, R. (2009). *The British Industrial Revolution in Global Perspective*
@@ -407,3 +413,6 @@ The [[Lunar Society]] of Birmingham exemplifies how personal networks of industr
 - [[Entrepreneurship]]
 - [[Economic Convergence]]
 - [[Song China Economy]]
+- [[Institutions and Progress]]
+- [[Innovation Economics]]
+- [[Property Rights]]

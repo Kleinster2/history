@@ -367,6 +367,12 @@ The decisive factor: California's refusal to enforce non-compete clauses meant t
 
 ---
 
+## The Deeper Point
+
+The digital revolution is the first technological transition where winner-take-all dynamics are features, not bugs. Network effects mean first-movers capture entire markets; data moats mean incumbents can't easily be displaced; zero marginal costs mean platforms extract rents from both sides of their markets. This creates an [[Institutions and Progress|institutional]] challenge previous revolutions didn't face: the steam engine and electricity created competitive industries with many firms; digital technology tends toward natural monopoly. The semiconductor chokepoint (TSMC, ASML) concentrates geopolitical risk in ways that coal mines never did. And AI threatens to separate [[Innovation Economics|productivity growth]] from employment growth entirely—a break from every previous technological era where new industries eventually absorbed displaced workers. The question isn't whether digital technology produces progress (it obviously does) but whether existing institutional frameworks—antitrust law designed for oil companies, [[Property Rights|IP law]] designed for physical goods, labor law designed for factories—can govern a technology whose economics are fundamentally different from everything that came before.
+
+---
+
 ## Sources & Further Reading
 
 - Isaacson, W. (2014). *The Innovators*

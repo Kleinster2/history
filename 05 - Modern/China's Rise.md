@@ -420,6 +420,12 @@ China's rise reversed the Great Divergence—for the first time in 200 years, As
 
 ---
 
+## The Deeper Point
+
+China's rise is the greatest [[Institutions and Progress|institutional]] experiment of the 21st century: can a country sustain growth without the rule of law, independent courts, free press, or democratic accountability that institutional economics considers essential? The record so far is a qualified yes—but with a crucial caveat. China's [[Property Rights|property rights]] are insecure by Western standards, yet investment flows because the Party credibly commits to not expropriating *productive* assets (while freely seizing unproductive ones). This selective enforcement creates powerful incentives for investment over rent-seeking—Baumol's thesis achieved through authoritarian discretion rather than legal constraint. Every previous authoritarian development miracle (Japan, Korea, Taiwan) eventually required political liberalization to sustain [[Innovation Economics|innovation]] at the technological frontier, where creative destruction threatens incumbent interests that authoritarian systems protect. Whether China breaks this pattern—achieving frontier innovation without institutional liberalization—or confirms it, is the defining question of our era. The answer will determine whether the Great Divergence was a one-time Western accident or whether certain institutional features are genuinely prerequisite for sustained progress.
+
+---
+
 ## Sources & Further Reading
 
 - Naughton, B. (2018). *The Chinese Economy*
@@ -438,4 +444,10 @@ China's rise reversed the Great Divergence—for the first time in 200 years, As
 - [[Great Divergence]]
 - [[Song Dynasty]]
 - [[Qing China Economy]]
+- [[Soviet Economy]]
+- [[Development Economics]]
+- [[Digital Revolution]]
+- [[Institutions and Progress]]
+- [[Property Rights]]
+- [[Innovation Economics]]
 - [[Modern Index]]
