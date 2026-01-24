@@ -305,6 +305,12 @@ The same process that created modern prosperity—burning fossil fuels to power 
 
 ---
 
+## The Deeper Point
+
+Climate change is the ultimate test of whether [[Institutions and Progress|institutional]] frameworks designed for a fossil-fuel era can manage a transition driven by *choice* rather than *constraint*. Every previous [[Energy History|energy transition]] was demand-driven: wood scarcity pushed coal ([[Timber Crisis]]), coal's immobility pushed oil, kerosene's obsolescence for lighting pushed gasoline for transport. In each case, the new source was *better* for users—cheaper, more convenient, more powerful. The renewable transition is unprecedented because the incumbent system still works profitably for those using it; the costs are externalized to the future and to others. This means the transition requires institutional force—carbon pricing, regulation, subsidy—rather than market pull. The [[Innovation Economics|innovation]] challenge is real (storage, grid, industrial heat, aviation), but the deeper problem is political: fossil fuel incumbents have concentrated interests in blocking [[Creative Destruction|creative destruction]], while the beneficiaries of decarbonization are diffuse and future. This is Olson's collective action problem at civilizational scale. The question isn't whether renewables can work (they can) but whether existing [[State Capacity|state capacity]] and international institutions can impose costs on the present for the benefit of the future—something no political system has ever done at this scale without the pressure of immediate crisis.
+
+---
+
 ## Sources & Further Reading
 
 - Stern, N. (2006). *The Economics of Climate Change*
@@ -327,4 +333,8 @@ The same process that created modern prosperity—burning fossil fuels to power 
 - [[Digital Revolution]]
 - [[Development Economics]]
 - [[Globalization]]
+- [[Institutions and Progress]]
+- [[Creative Destruction]]
+- [[State Capacity]]
+- [[Innovation Economics]]
 - [[Modern Index]]

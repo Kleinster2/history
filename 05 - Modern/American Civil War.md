@@ -279,6 +279,12 @@ The war demonstrated industrial power and created institutions—national bankin
 
 ---
 
+## The Deeper Point
+
+The Civil War was an institutional revolution disguised as a military conflict—the violent resolution of which [[Institutions and Progress|institutional]] framework would govern American capitalism. The antebellum South had built an enormously productive economy on [[Slavery Economics|slave labor]]: cotton exports funded imports, enriched planters, and fed the Lancashire mills that drove British industrialization. It *worked* for the slaveholders—which is precisely why it took a war rather than market forces to end it. The North's victory installed a different institutional package: free labor, high tariffs, railroad subsidies, homestead acts, land-grant universities, and national banking—the institutional foundation for [[Gilded Age]] industrialization. Bensel's "Yankee Leviathan" thesis captures the deeper point: the war built American [[State Capacity|state capacity]] (income tax, conscription, national currency, bureaucracy) in ways that peacetime politics never would have. The tragedy of Reconstruction reveals the institutional thesis's limits: even military victory couldn't sustain institutional change against determined local resistance. The South's post-war economy—sharecropping, convict leasing, Jim Crow—proved that formal abolition without genuine [[Property Rights|property rights]] for the freed (the failure of land redistribution) recreated extractive institutions under new legal forms. The war changed the *form* of Southern extraction; it took another century to change the *substance*.
+
+---
+
 ## Sources & Further Reading
 
 - Foner, E. (1988). *Reconstruction: America's Unfinished Revolution*
@@ -296,4 +302,9 @@ The war demonstrated industrial power and created institutions—national bankin
 - [[Hamilton's Financial System]]
 - [[Industrial Revolution]]
 - [[Westward Expansion]]
+- [[Slavery Economics]]
+- [[Institutions and Progress]]
+- [[State Capacity]]
+- [[Property Rights]]
+- [[Gilded Age]]
 - [[Modern Index]]

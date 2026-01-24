@@ -353,6 +353,12 @@ Latin America's economic history is a puzzle: rich in resources, independent sin
 
 ---
 
+## The Deeper Point
+
+Latin America is the great counter-example to the institutional optimists: independent for 200 years, rich in resources, with formal constitutions modeled on the US and France—yet persistently unequal, commodity-dependent, and unable to sustain growth. Engerman and Sokoloff's thesis explains why: colonial institutions created for sugar/mining extraction (extreme inequality, coerced labor, concentrated land) persisted through independence because the elites who led independence movements had no incentive to dismantle the structures that benefited them. [[Institutions and Progress|Institutional]] path dependence meant that formal political change (republic replaces colony) left economic structures intact—[[Property Rights|property rights]] protected *existing* holdings rather than enabling *new* entry, legal systems served elites rather than enforcing contracts for all, and [[State Capacity|state capacity]] remained oriented toward extraction rather than service. Import substitution (1930s-1980s) was a genuine attempt to build industrial institutions, but without [[Creative Destruction|creative destruction]] (protected industries never faced competition) it produced inefficiency and rent-seeking rather than innovation. The region's oscillation between statism and [[Neoliberalism|neoliberalism]] reflects the absence of a stable institutional settlement: neither protecting incumbents nor removing all protections produces sustained, broadly shared growth. The [[Inequality|inequality]] that colonial institutions created reproduces itself through [[Human Capital|human capital]] deprivation—unequal education → unequal opportunity → unequal political power → policies that perpetuate inequality. Breaking this cycle requires precisely the kind of institutional revolution that existing elites resist.
+
+---
+
 ## Sources & Further Reading
 
 - Bulmer-Thomas, V. (2003). *The Economic History of Latin America Since Independence*
@@ -369,4 +375,11 @@ Latin America's economic history is a puzzle: rich in resources, independent sin
 - [[Neoliberalism]]
 - [[2008 Financial Crisis]]
 - [[Colonialism]]
+- [[Institutions and Progress]]
+- [[State Capacity]]
+- [[Human Capital]]
+- [[Inequality]]
+- [[Creative Destruction]]
+- [[Property Rights]]
+- [[Development Economics]]
 - [[Modern Index]]

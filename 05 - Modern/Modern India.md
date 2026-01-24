@@ -319,6 +319,12 @@ India's post-independence economic journey moved from socialist planning to mark
 
 ---
 
+## The Deeper Point
+
+India's post-1991 liberalization is the vault's best example of what happens when [[Institutions and Progress|institutional]] reform is *partial*—opening some Baumol channels while leaving others blocked. The "License Raj" (1947-1991) was a classic case of [[Entrepreneurship|entrepreneurial]] talent flowing into unproductive channels: the most capable businessmen spent energy securing permits rather than serving customers, and India's best minds entered government or emigrated rather than building firms. Liberalization redirected some of that talent into IT services, pharmaceuticals, and automotive—sectors where reduced regulation permitted [[Creative Destruction|creative destruction]]. But India's reform was deliberately incomplete: labor law remains rigid (firms can't fire), land acquisition is near-impossible, courts take decades, and infrastructure gaps persist. This creates a dual economy: globally competitive formal firms coexisting with a vast informal sector that employs 90% of workers but operates outside institutional protection. India proves that [[State Capacity|state capacity]] for service delivery (education, health, infrastructure) matters as much as getting prices right—a lesson the 1991 reformers, focused on deregulation, initially missed. The country's democratic constraint is both strength (legitimacy, correction mechanism) and weakness (reform requires consensus among those who benefit from the status quo). India's trajectory—faster than Africa, slower than China—reflects precisely this: enough institutional reform to enable growth, not enough to enable convergence. The [[Human Capital|human capital]] deficit (poor primary education despite excellent universities) is the binding constraint that no amount of IT-sector brilliance can overcome at scale.
+
+---
+
 ## Sources & Further Reading
 
 - Joshi, V. (2017). *India's Long Road*
@@ -334,4 +340,10 @@ India's post-independence economic journey moved from socialist planning to mark
 - [[Asian Tigers]]
 - [[China's Rise]]
 - [[Mughal India Economy]]
+- [[Institutions and Progress]]
+- [[State Capacity]]
+- [[Human Capital]]
+- [[Creative Destruction]]
+- [[Entrepreneurship]]
+- [[Development Economics]]
 - [[Modern Index]]

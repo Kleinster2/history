@@ -311,6 +311,12 @@ Japan's "Lost Decades" began when the bubble burst in 1990 and continue in some 
 
 ---
 
+## The Deeper Point
+
+Japan's Lost Decades are the mirror image of the [[Japanese Economic Miracle]]—and together they prove that [[Institutions and Progress|institutional]] fitness is context-dependent, not absolute. The same institutions that enabled miracle growth (patient capital, lifetime employment, guided competition, bank-centered finance) became the institutions of stagnation once Japan reached the technological frontier. Lifetime employment prevented [[Creative Destruction|creative destruction]] by making firm failure socially unacceptable; bank-centered finance kept zombie firms alive rather than reallocating capital; the bureaucracy that once guided catch-up investment now protected incumbents from disruption. Koo's "balance sheet recession" diagnosis is correct mechanically (firms deleveraging rather than investing), but the deeper question is why Japan couldn't restart [[Innovation Economics|innovation]]-driven growth the way the US did after its own financial crises. The answer is institutional: Japan optimized for incremental improvement within established industries, not for the entrepreneurial entry and exit that drives frontier innovation. The [[Demographic Transition|demographic]] dimension compounds everything—an aging, shrinking population reduces both demand and dynamism. Japan isn't a failure; it's a warning that institutional success creates institutional lock-in, and that the institutions of catch-up are not the institutions of frontier growth. Every developmental [[State Capacity|state]] faces this transition; most haven't solved it.
+
+---
+
 ## Sources & Further Reading
 
 - Koo, R. (2008). *The Holy Grail of Macroeconomics: Lessons from Japan's Great Recession*
@@ -326,4 +332,9 @@ Japan's "Lost Decades" began when the bubble burst in 1990 and continue in some 
 - [[Meiji Restoration]]
 - [[2008 Financial Crisis]]
 - [[Financialization]]
+- [[Creative Destruction]]
+- [[Demographic Transition]]
+- [[State Capacity]]
+- [[Institutions and Progress]]
+- [[Innovation Economics]]
 - [[Modern Index]]

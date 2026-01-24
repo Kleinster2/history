@@ -278,6 +278,12 @@ The overseas Chinese—50 million people scattered across Southeast Asia and bey
 
 ---
 
+## The Deeper Point
+
+The overseas Chinese "bamboo network" is the purest demonstration that [[Entrepreneurship|entrepreneurial]] institutions don't require a state—trust, kinship, and reputation can substitute for courts, contracts, and [[Property Rights|property rights]] enforcement when formal institutions are absent or hostile. Greif's framework applies perfectly: clan-based enforcement mechanisms (reputation, ostracism, family honor) enabled long-distance trade and credit among Chinese merchants across Southeast Asia centuries before the legal infrastructure that Western institutional economics considers necessary. But the network also proves the *limits* of informal institutions: overseas Chinese business remains concentrated in trade, real estate, and finance—sectors where relationship-based trust works—rather than manufacturing or technology, where scale requires formal governance, outside capital, and professional management beyond the family. The precariousness is the deeper lesson: [[Institutions and Progress|institutional]] success without political power invites expropriation (1965 Indonesia, Malaysian bumiputera policies, periodic anti-Chinese violence throughout the region). The bamboo network is entrepreneurial *despite* institutions, not *because* of them—and that means it's always one political crisis away from destruction. Baumol's thesis requires amendment: informal trust networks can channel ambition productively, but only formal institutional protection makes that channeling durable. The Chinese diaspora's commercial success is remarkable; its vulnerability to political backlash proves why [[State Capacity|state-enforced]] property rights, not just social trust, are necessary for sustained development.
+
+---
+
 ## Sources & Further Reading
 
 - Redding, G. (1990). *The Spirit of Chinese Capitalism*
@@ -299,4 +305,6 @@ The overseas Chinese—50 million people scattered across Southeast Asia and bey
 - [[Institutions and Progress]]
 - [[Business Firm]]
 - [[Foundational Firms]]
+- [[Property Rights]]
+- [[State Capacity]]
 - [[Modern Index]]

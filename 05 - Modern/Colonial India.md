@@ -317,6 +317,12 @@ British rule transformed India from one of the world's largest economies into a 
 
 ---
 
+## The Deeper Point
+
+Colonial India is the clearest case study of [[Institutions and Progress|institutions]] designed for extraction rather than production—and their long-term consequences for [[Development Economics|development]]. Pre-colonial India wasn't poor: Mughal India had sophisticated textile manufacturing, extensive trade networks, and a large share of world output. British rule didn't develop India; it *de-developed* it—deliberately destroying Indian textile manufacturing to create markets for Lancashire, extracting revenue through land taxation that broke peasant incentives, and building infrastructure (railways, ports) oriented toward export extraction rather than internal integration. The institutional package—property rights for *British* investors, courts enforcing *British* contracts, [[State Capacity|state capacity]] for *tax collection* but not *service delivery*—was a masterclass in extractive institutional design. Drain theory (Naoroji, Dutt) quantified the transfer; modern estimates suggest 2-5% of Indian GDP annually extracted over 190 years. The developmental implications persist: colonial land systems created the rural inequality that post-independence land reform only partially addressed; colonial education created a thin English-speaking elite disconnected from mass [[Human Capital|human capital]] development; colonial deindustrialization meant independence began from a manufacturing deficit rather than a base. India's post-independence "Hindu rate of growth" wasn't cultural—it was the institutional hangover of 190 years of extractive rule.
+
+---
+
 ## Sources & Further Reading
 
 - Naoroji, D. (1901). *Poverty and Un-British Rule in India*
@@ -334,4 +340,8 @@ British rule transformed India from one of the world's largest economies into a 
 - [[Modern India]]
 - [[Industrial Revolution]]
 - [[Colonialism]]
+- [[Institutions and Progress]]
+- [[State Capacity]]
+- [[Human Capital]]
+- [[Development Economics]]
 - [[Modern Index]]

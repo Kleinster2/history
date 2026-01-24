@@ -300,6 +300,12 @@ Africa's post-independence economic history defies simple narratives. After deco
 
 ---
 
+## The Deeper Point
+
+Africa's development challenge is the purest test case for the vault's institutional thesis—and its hardest case. Colonial powers built [[State Capacity|state capacity]] for extraction (tax collection, border enforcement, export infrastructure) while leaving capacity for service delivery (education, health, courts) deliberately undeveloped. Post-independence leaders inherited states that could coerce but couldn't provide—extraction machinery without the developmental capability that the [[Asian Tigers]] inherited from Japanese colonialism. The result: formal [[Institutions and Progress|institutions]] (constitutions, property codes, court systems) existed on paper while real governance operated through patronage, ethnicity, and personal rule. Baumol's framework applies perfectly: entrepreneurial talent flows into politics and rent-seeking because those are the rewarding channels, while productive entrepreneurship faces predatory taxation, unreliable courts, and infrastructure that doesn't reach producers. Africa's post-2000 growth—real but fragile—depends heavily on commodity prices rather than institutional improvement. The continent's [[Demographic Transition|demographic]] trajectory (population doubling before 2050) makes the stakes existential: either [[Human Capital|human capital]] investment triggers fertility decline and a demographic dividend, or a youth bulge without employment generates instability at continental scale. The lesson isn't that Africans lack entrepreneurial talent (the informal sector proves otherwise) but that extractive institutional legacies take generations to overcome.
+
+---
+
 ## Sources & Further Reading
 
 - Jerven, M. (2015). *Africa: Why Economists Get It Wrong*
@@ -316,4 +322,9 @@ Africa's post-independence economic history defies simple narratives. After deco
 - [[Mali Empire]]
 - [[Swahili Trade]]
 - [[China's Rise]]
+- [[Development Economics]]
+- [[State Capacity]]
+- [[Demographic Transition]]
+- [[Human Capital]]
+- [[Institutions and Progress]]
 - [[Modern Index]]
