@@ -461,12 +461,17 @@ Janet Abu-Lughod's thesis: Before European dominance, an interconnected system l
 
 ## Related Notes
 
-- [[Mongol Economy]]
+- [[Bronze Age Collapse]]
+- [[Mediterranean Trade]]
+- [[Indian Ocean Trade]]
+- [[Mongol Empire]]
 - [[Islamic Economy]]
-- [[Jewish Diaspora Economy]]
 - [[Venice]]
-- [[Hanseatic League]]
-- [[Song China Economy]]
-- [[Atlantic Economy]]
+- [[Phoenicians]]
+- [[Columbian Exchange]]
+- [[Atlantic Slave Trade]]
+- [[Globalization]]
+- [[Ancient Credit]]
 - [[Great Divergence]]
 - [[Economic Collapse]]
+- [[Institutions and Progress]]

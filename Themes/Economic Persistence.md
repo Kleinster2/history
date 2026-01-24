@@ -371,8 +371,14 @@ The most striking evidence of economic persistence comes from Florence—where r
 ## Related Notes
 
 - [[Origins of Economy]]
+- [[Florence]]
+- [[Temple Economy]]
+- [[Guild Economics]]
+- [[Property Rights]]
+- [[Institutions and Progress]]
 - [[Economic Convergence]]
 - [[Economic Collapse]]
 - [[Wealth Through History]]
 - [[Pre-Columbian Economy]]
 - [[Inca Empire]]
+- [[Neolithic Revolution]]

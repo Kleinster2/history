@@ -1,58 +1,66 @@
 # People MOC
 
-Notable figures throughout history.
+Notable figures throughout history—with emphasis on those who shaped economic systems.
 
 ---
 
 ## All People
 ```dataview
-TABLE occupation, period, nationality
-FROM "People"
+TABLE period, region
+FROM ""
 WHERE type = "person"
 SORT period ASC
 ```
 
 ---
 
-## By Category
+## By Period
 
-### Rulers & Leaders
-- Political leaders
-- Military commanders
-- Religious leaders
+### Prehistory
+- [[Lucy]] — Australopithecus afarensis
+- [[Ardi]] — Ardipithecus ramidus
+- [[Turkana Boy]] — Homo erectus
+- [[Taung Child]] — Australopithecus africanus
+- [[Toumai]] — Sahelanthropus tchadensis
 
-### Thinkers & Scholars
-- Philosophers
-- Scientists
-- Historians
+### Ancient: Builders & Rulers
 
-### Artists & Writers
-- Writers & poets
-- Artists & architects
-- Musicians
+| Figure | Significance | Economy Link |
+|--------|-------------|--------------|
+| [[Enheduanna]] | First named author | [[Temple Economy]] |
+| [[Khufu]] | Great Pyramid builder | [[Egypt Index\|Egyptian state economy]] |
+| [[Sargon of Akkad]] | First empire builder | [[Akkadian Empire]] |
+| [[Hammurabi]] | Law codifier | [[Ancient Credit\|Debt regulation]], [[Babylon]] |
+| [[Hatshepsut]] | Trade expedition pharaoh | [[New Kingdom\|Egyptian trade]] |
+| [[Thutmose III]] | Empire builder | [[New Kingdom]] |
+| [[Seti I]] | Temple economy | [[New Kingdom]] |
+| [[Ramesses II]] | Monument economy | [[New Kingdom]] |
+| [[Ashurbanipal]] | Library builder | [[Assyria]] |
+| [[Ashoka]] | Mauryan emperor | [[Maurya Empire]] |
 
-### Explorers & Adventurers
-- Explorers
-- Navigators
-- Discoverers
+### Ancient: Thinkers & Conquerors
 
-### Religious Figures
-- Founders of religions
-- Saints & mystics
-- Religious reformers
+| Figure | Significance | Economy Link |
+|--------|-------------|--------------|
+| [[Aristotle]] | Economic thought | [[Greek Economic Thought]] |
+| [[Alexander the Great]] | Hellenistic economy | [[Hellenistic Period]] |
+| [[Qin Shi Huang]] | Chinese unification | [[Chinese Economy\|Unified currency/measures]] |
+| [[Darius I]] | Persian administration | [[Persian Economy]] |
+| [[Julius Caesar]] | Roman transformation | [[Roman Economy]] |
+| [[Augustus]] | Pax Romana | [[Roman Economy\|Augustan prosperity]] |
+| [[Cleopatra VII]] | Last pharaoh | [[Ptolemaic Egypt]] |
+| [[Tutankhamun]] | New Kingdom | [[New Kingdom]] |
 
 ---
 
-## By Period
+## Economic Significance
 
-### Ancient World
-*Figures from prehistory to 500 CE*
+The vault emphasizes figures who changed *how economies work*, not just who ruled:
 
-### Medieval Period
-*Figures from 500 to 1500*
-
-### Early Modern
-*Figures from 1500 to 1800*
-
-### Modern Era
-*Figures from 1800 to present*
+| Type | Examples | Why They Matter |
+|------|----------|-----------------|
+| Law-givers | [[Hammurabi]], [[Augustus]] | Created institutional frameworks |
+| Trade builders | [[Hatshepsut]], [[Darius I]] | Expanded exchange networks |
+| System creators | [[Qin Shi Huang]], [[Ashoka]] | Unified economic spaces |
+| Thinkers | [[Aristotle]], [[Enheduanna]] | Articulated economic ideas |
+| Conquerors | [[Alexander the Great]], [[Julius Caesar]] | Created/destroyed economic zones |

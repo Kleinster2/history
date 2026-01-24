@@ -190,6 +190,12 @@ The medieval European economy evolved from the fragmented, agrarian world of the
 | Transport | Shippers |
 | Professional | Lawyers, notaries |
 
+### The Deeper Point
+
+The medieval economy is the vault's great puzzle: how did Europe go from post-Roman fragmentation to the cusp of industrialization? The answer isn't any single innovation but *institutional competition*. Europe's political fragmentation—hundreds of competing jurisdictions—created a market for institutions: merchants could leave oppressive cities for welcoming ones, forcing rulers to offer better terms ([[Property Rights|property protection]], [[Guild Economics|guild charters]], legal predictability). This is [[Institutions and Progress|the vault's thesis]] in its purest form: not that medieval Europeans were smarter or richer, but that their *political disunity* accidentally created the competitive institutional environment that channeled ambition into commerce rather than conquest. China was richer, the Islamic world more learned, but both were unified enough that rulers could extract without competing for mobile capital.
+
+---
+
 ## Sources
 
 - Postan, M.M. (1972). *The Medieval Economy and Society*
@@ -199,7 +205,15 @@ The medieval European economy evolved from the fragmented, agrarian world of the
 ## Related Notes
 
 - [[Feudalism]]
-- [[Agriculture]]
+- [[Manorialism]]
+- [[Florence]]
+- [[Venice]]
+- [[Guild Economics]]
+- [[Medieval Financial Innovation]]
 - [[Trade Networks]]
-- [[Guilds]]
 - [[Black Death]]
+- [[Islamic Economy]]
+- [[Property Rights]]
+- [[Institutions and Progress]]
+- [[Innovation Economics]]
+- [[Medieval Index]]

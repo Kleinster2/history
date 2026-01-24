@@ -200,6 +200,12 @@ Venice was medieval Europe's greatest trading power—a city of canals that domi
 | Insurance | Developed |
 | Model | Republic, merchant state |
 
+### The Deeper Point
+
+Venice demonstrates what happens when a state *is* a business. The Republic's constitution was designed by and for merchants: the Doge was a CEO constrained by shareholders (the Great Council), commercial law was the primary law, and foreign policy served trade routes. This alignment of political power with productive enterprise—rather than with landed aristocracy or military conquest—is why Venice innovated continuously in commercial techniques (insurance, banking, contract law, the Arsenal's proto-factory). But Venice also shows the limits: when the Great Council closed membership in 1297 (the *Serrata*), it gradually shifted from [[Institutions and Progress|inclusive to extractive institutions]]. The same elite that had built the system began protecting its position rather than enabling competition. Venice's arc from commercial republic to oligarchic stagnation is the vault's institutional thesis as biography.
+
+---
+
 ## Sources
 
 - Lane, F. (1973). *Venice: A Maritime Republic*
@@ -208,8 +214,14 @@ Venice was medieval Europe's greatest trading power—a city of canals that domi
 
 ## Related Notes
 
+- [[Florence]]
+- [[Mediterranean Trade]]
+- [[Medieval Financial Innovation]]
+- [[Medieval Economy]]
 - [[Trade Networks]]
 - [[Maritime Trade]]
-- [[Medieval Economy]]
-- [[Banking History]]
-- [[Crusades]]
+- [[Guild Economics]]
+- [[Property Rights]]
+- [[Institutions and Progress]]
+- [[Globalization]]
+- [[Medieval Index]]

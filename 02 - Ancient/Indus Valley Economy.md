@@ -367,6 +367,11 @@ The Indus Valley Civilization presents one of the great puzzles of economic hist
 - [[Mohenjo-daro]]
 - [[Harappa]]
 - [[Lothal]]
-- [[Mesopotamia Index]] - Trading partner
+- [[Mesopotamia Index]]
+- [[Sumer]]
 - [[Origins of Economy]]
-- [[Sumer]] - Contemporary
+- [[Trade Networks]]
+- [[Property Rights]]
+- [[Economic Collapse]]
+- [[Institutions and Progress]]
+- [[Indian Ocean Trade]]

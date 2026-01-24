@@ -403,5 +403,10 @@ The Persian empires pioneered large-scale imperial economy—the systematic extr
 - [[Persepolis]]
 - [[Darius I]]
 - [[Silk Road]]
-- [[Greek Economy]] - Rival
-- [[Roman Economy]] - Rival
+- [[Greek Economy]]
+- [[Roman Economy]]
+- [[Trade Networks]]
+- [[Taxation]]
+- [[Property Rights]]
+- [[Institutions and Progress]]
+- [[Ancient Credit]]

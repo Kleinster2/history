@@ -373,9 +373,15 @@ Inequality is not natural—it has a history. For most of human existence, there
 
 ## Related Notes
 
+- [[Wealth Through History]]
 - [[Great Divergence]]
+- [[Industrial Revolution]]
 - [[Neoliberalism]]
 - [[Postwar Boom]]
 - [[Gilded Age]]
 - [[Black Death]]
-- [[Themes Index]]
+- [[Slavery Economics]]
+- [[Labor and Unions]]
+- [[Development Economics]]
+- [[Property Rights]]
+- [[Institutions and Progress]]

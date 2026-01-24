@@ -1,6 +1,6 @@
 # Timeline MOC
 
-A chronological overview of human history.
+A chronological overview of human history, emphasizing economic turning points.
 
 ---
 
@@ -28,28 +28,43 @@ LIST FROM "04 - Early Modern"
 SORT file.name ASC
 ```
 
-## Modern (1800 - 1945)
+## Modern (1800 - Present)
 ```dataview
 LIST FROM "05 - Modern"
 SORT file.name ASC
 ```
 
-## Contemporary (1945 - Present)
-```dataview
-LIST FROM "06 - Contemporary"
-SORT file.name ASC
-```
+---
+
+## Economic Turning Points
+
+| Date | Event | Why It Matters |
+|------|-------|----------------|
+| ~10,000 BCE | [[Neolithic Revolution]] | Agriculture enables surplus, hierarchy, specialization |
+| ~3500 BCE | [[Writing Systems\|Writing invented]] | Records, contracts, accounting |
+| ~3000 BCE | [[Bronze Age\|Bronze Age begins]] | First interdependent supply chains (copper + tin) |
+| ~1200 BCE | [[Bronze Age Collapse]] | First systemic deglobalization |
+| ~600 BCE | [[Greek Coinage\|Coinage invented]] | Standardized exchange medium |
+| ~450 BCE | [[Greek Economy\|Athenian peak]] | First market economy with property rights |
+| 27 BCE | [[Augustus\|Pax Romana begins]] | Mediterranean integrated economy |
+| 476 CE | Fall of Western Rome | Trade networks collapse |
+| ~1000 CE | [[Medieval Economy\|Commercial revival]] | European markets reawaken |
+| 1202 | [[Medieval Financial Innovation\|Fibonacci's Liber Abaci]] | Hindu-Arabic numerals reach Europe |
+| 1397 | [[Florence\|Medici Bank founded]] | Modern banking emerges |
+| 1492 | [[Columbian Exchange\|Columbus]] | Atlantic economy begins |
+| 1602 | [[East India Companies\|VOC founded]] | First joint-stock company |
+| 1694 | Bank of England | Central banking begins |
+| 1760s | [[Industrial Revolution]] | Sustained growth begins |
+| 1776 | [[Economic Thought\|Wealth of Nations]] | Economics as discipline |
+| 1913 | [[Mass Production\|Ford assembly line]] | Mass production/consumption |
+| 1929 | [[Great Depression\|Wall Street crash]] | System crisis |
+| 1944 | [[Postwar Boom\|Bretton Woods]] | International monetary order |
+| 1971 | Nixon shock | Fiat money era |
+| 1978 | [[China's Rise\|Deng's reforms]] | Largest poverty reduction in history |
+| 2008 | [[2008 Financial Crisis]] | Financialization questioned |
 
 ---
 
-## Key Dates
-| Date | Event |
-|------|-------|
-| ~3000 BCE | Invention of writing |
-| 476 CE | Fall of Western Roman Empire |
-| 1453 | Fall of Constantinople |
-| 1492 | Columbus reaches Americas |
-| 1789 | French Revolution begins |
-| 1914 | World War I begins |
-| 1945 | World War II ends |
-| 1991 | Soviet Union dissolves |
+## Patterns
+
+Each major disruption (collapse, war, revolution) was followed by institutional innovation. See [[Institutions and Progress]] and [[Economic Collapse]] for the recurring pattern.

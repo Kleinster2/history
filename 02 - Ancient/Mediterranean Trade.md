@@ -193,8 +193,11 @@ The Mediterranean Sea—the center of ancient world commerce—connected three c
 
 ## Related Notes
 
-- [[Roman Empire]]
+- [[Roman Economy]]
+- [[Bronze Age Collapse]]
 - [[Trade Networks]]
 - [[Venetian Trade]]
 - [[Phoenicians]]
 - [[Maritime Trade]]
+- [[Globalization]]
+- [[Indian Ocean Trade]]
