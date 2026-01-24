@@ -392,4 +392,8 @@ The colonization of the Americas created new economic systems built on conquest,
 - [[Silver Economy]]
 - [[Atlantic Economy]]
 - [[British Empire Economy]]
+- [[Slavery Economics]]
+- [[Institutions and Progress]]
+- [[Property Rights]]
+- [[Taxation]]
 - [[Early Modern Index]]

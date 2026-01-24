@@ -352,4 +352,6 @@ Oil reshaped the 20th century more than any other commodity. Cheap petroleum pow
 - [[Energy History]]
 - [[Mass Production]]
 - [[Imperialism]]
+- [[Institutions and Progress]]
+- [[Property Rights]]
 - [[Modern Index]]

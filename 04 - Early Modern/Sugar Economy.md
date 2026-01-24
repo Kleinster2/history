@@ -395,9 +395,13 @@ Eric Williams, *Capitalism and Slavery* (1944):
 
 ## Related Notes
 
+- [[Atlantic Slave Trade]]
 - [[Atlantic Economy]]
 - [[Industrial Revolution]]
 - [[Great Divergence]]
 - [[Dutch Golden Age]]
-- [[East India Companies]]
+- [[Cotton Economy]]
+- [[Slavery Economics]]
+- [[Property Rights]]
+- [[Institutions and Progress]]
 - [[Early Modern Index]]

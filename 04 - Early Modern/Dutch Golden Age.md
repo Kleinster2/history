@@ -403,8 +403,13 @@ The Dutch Republic was the world's first modern economy—pioneering the joint-s
 
 - [[East India Companies]]
 - [[Industrial Revolution]]
-- [[Early Modern Index]]
 - [[Atlantic Economy]]
 - [[Great Divergence]]
-- [[Venice]] (earlier trading republic)
-- [[Florence]] (earlier financial center)
+- [[Venice]]
+- [[Florence]]
+- [[Medieval Financial Innovation]]
+- [[Stock Markets]]
+- [[Institutions and Progress]]
+- [[Property Rights]]
+- [[Innovation Economics]]
+- [[Early Modern Index]]

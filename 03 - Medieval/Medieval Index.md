@@ -82,8 +82,10 @@ Gold trade and Indian Ocean commerce.
 | Maritime revolution | [[Song China Economy]] |
 | Southeast Asian trade | [[Srivijaya]], [[Khmer Empire]] |
 | Trans-Saharan trade | [[Mali Empire]], [[Songhai Empire]] |
-| Mediterranean commerce | [[Venice]], [[Medieval Europe Economy]] |
+| Mediterranean commerce | [[Venice]], [[Venetian Trade]] |
 | Hanseatic trade | [[Hanseatic League]] |
+| Jewish trade networks | [[Radhanites]], [[Jewish Diaspora Economy]] |
+| Crusade commerce | [[Crusades]], [[Templars]] |
 
 ### Money and Finance
 
@@ -102,7 +104,8 @@ Gold trade and Indian Ocean commerce.
 | Development | Location |
 |-------------|----------|
 | Agricultural revolution | [[Islamic Economy]] |
-| Manorial system | [[Medieval Europe Economy]] |
+| [[Feudalism]] | Political-economic structure |
+| [[Manorialism]] | Manorial production system |
 | Rice intensification | [[Song China Economy]] |
 
 ### Labor Systems

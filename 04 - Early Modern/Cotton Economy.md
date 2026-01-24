@@ -306,4 +306,7 @@ Cotton transformed the American South, fueled British industrialization, and ent
 - [[Hamilton's Financial System]]
 - [[American Civil War]]
 - [[Reconstruction]]
+- [[Slavery Economics]]
+- [[Institutions and Progress]]
+- [[Property Rights]]
 - [[Early Modern Index]]

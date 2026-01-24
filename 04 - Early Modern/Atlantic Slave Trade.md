@@ -206,8 +206,11 @@ The Atlantic slave trade was history's largest forced migration—the transporta
 
 ## Related Notes
 
-- [[Slavery]]
-- [[Colonialism]]
-- [[Columbian Exchange]]
 - [[Sugar Economy]]
-- [[Capitalism]]
+- [[Cotton Economy]]
+- [[Columbian Exchange]]
+- [[Slavery Economics]]
+- [[Institutions and Progress]]
+- [[Property Rights]]
+- [[Globalization]]
+- [[Early Modern Index]]
