@@ -221,6 +221,12 @@ Decolonization—the process by which colonial territories gained independence�
 | Dependency | Continued patterns |
 | Divergence | East Asian success |
 
+### The Deeper Point
+
+Decolonization revealed the cruelest legacy of [[Imperialism|empire]]: colonial powers built [[Institutions and Progress|extractive institutions]]—export monocultures, coerced labor, racial hierarchies, arbitrary borders—that were designed to transfer wealth outward, not generate it locally. Independence changed the flag but rarely the institutions. New states inherited economies structured to produce raw materials for distant factories, education systems designed to create clerks not entrepreneurs, and borders that divided economic communities while uniting rivals. The countries that escaped this trap (the [[Asian Tigers]], Botswana) did so by *replacing* colonial institutions with developmental ones—state capacity directed toward production rather than extraction. Those that failed ([[Modern Africa|much of Africa]], parts of Latin America) often saw colonial extraction simply replaced by domestic elite extraction. Decolonization's lesson for [[Development Economics]] is that political independence is necessary but not sufficient: the institutional inheritance determines whether sovereignty enables development or merely transfers the beneficiaries of extraction.
+
+---
+
 ## Sources
 
 - Springhall, J. (2001). *Decolonization Since 1945*
@@ -229,8 +235,13 @@ Decolonization—the process by which colonial territories gained independence�
 
 ## Related Notes
 
-- [[Colonialism]]
+- [[Imperialism]]
 - [[Cold War]]
 - [[World Wars Economic Impact]]
-- [[Africa]]
-- [[Imperialism]]
+- [[Modern Africa]]
+- [[Development Economics]]
+- [[Asian Tigers]]
+- [[Institutions and Progress]]
+- [[Property Rights]]
+- [[British Empire Economy]]
+- [[Modern Index]]

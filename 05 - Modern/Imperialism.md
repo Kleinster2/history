@@ -204,6 +204,12 @@ The New Imperialism (roughly 1870-1914) saw European powers, the United States, 
 | WWII | Empire weakened |
 | Decolonization | Post-1945 |
 
+### The Deeper Point
+
+Imperialism was the global application of [[Institutions and Progress|extractive institutions]]—the opposite of what made Europe rich domestically. The same property rights, rule of law, and competitive markets that enabled industrialization at home were systematically denied to colonial subjects. The result was deindustrialization (India's textiles destroyed by Manchester), resource extraction without reinvestment, and institutional legacies that persist today. This is why [[Development Economics]] after 1945 struggled: the colonial inheritance wasn't just poverty but *institutions designed to extract rather than produce*. The contrast between European domestic institutions and colonial ones is the vault's thesis in reverse.
+
+---
+
 ## Sources
 
 - Hobsbawm, E. (1987). *The Age of Empire*
@@ -212,8 +218,14 @@ The New Imperialism (roughly 1870-1914) saw European powers, the United States, 
 
 ## Related Notes
 
-- [[Colonialism]]
-- [[British Empire]]
+- [[British Empire Economy]]
+- [[Colonial India]]
+- [[Atlantic Slave Trade]]
+- [[Decolonization]]
+- [[Development Economics]]
+- [[Modern Africa]]
 - [[Industrial Revolution]]
-- [[World Wars Economic Impact]]
-- [[Scramble for Africa]]
+- [[Slavery Economics]]
+- [[Institutions and Progress]]
+- [[Property Rights]]
+- [[Modern Index]]

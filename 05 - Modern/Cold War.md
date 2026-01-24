@@ -205,6 +205,12 @@ The Cold War (1947-1991)—the ideological, political, and economic struggle bet
 | Development | Changed approaches |
 | Integration | Former rivals |
 
+### The Deeper Point
+
+The Cold War was the 20th century's great natural experiment in institutional economics. Two systems—one based on private property, prices, and profit; the other on state ownership, planning, and quotas—competed for 45 years across similar populations. The result was decisive: market economies outperformed command economies in consumer goods, innovation, and adaptability (though not in heavy industry mobilization or equality). The [[Soviet Economy]]'s failure wasn't effort—it invested enormously—but *information*: without prices, planners couldn't know what to produce, in what quantities, at what cost. This is [[Innovation Economics|Hayek's knowledge problem]] made continental-scale. The Cold War's economic lesson is the vault's thesis stated as competition: [[Institutions and Progress|institutions that channel ambition into production]] outperform those that channel it into plan-fulfillment.
+
+---
+
 ## Sources
 
 - Gaddis, J.L. (2005). *The Cold War: A New History*
@@ -213,8 +219,14 @@ The Cold War (1947-1991)—the ideological, political, and economic struggle bet
 
 ## Related Notes
 
-- [[World Wars Economic Impact]]
-- [[Capitalism]]
-- [[Communism]]
-- [[Globalization]]
-- [[Great Depression]]
+- [[Soviet Economy]]
+- [[Postwar Boom]]
+- [[European Economic Miracle]]
+- [[Development Economics]]
+- [[Asian Tigers]]
+- [[China's Rise]]
+- [[Decolonization]]
+- [[Neoliberalism]]
+- [[Institutions and Progress]]
+- [[Innovation Economics]]
+- [[Modern Index]]

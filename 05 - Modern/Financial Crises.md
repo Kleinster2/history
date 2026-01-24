@@ -208,6 +208,12 @@ Financial crises—episodes of banking panics, asset price collapses, and econom
 | Moral hazard | Too big to fail |
 | Future | Next crisis? |
 
+### The Deeper Point
+
+Financial crises are the recurring cost of the institutional arrangement that enables growth. Markets that allocate capital efficiently in normal times periodically allocate it catastrophically—because the same optimism that drives investment drives bubbles, and the same leverage that funds innovation amplifies collapse. Kindleberger's pattern (displacement → boom → euphoria → profit-taking → panic) has repeated from the [[South Sea Company|South Sea Bubble]] to [[2008 Financial Crisis|2008]] because it's not a market failure but a *market feature*: the price of having decentralized capital allocation is that no one coordinates the exit. Each crisis produces institutional innovation ([[Medieval Financial Innovation|central banks]], deposit insurance, securities regulation) that prevents *that exact crisis* from recurring—while the next one finds a new channel. The deeper lesson for [[Institutions and Progress]] is that financial institutions are permanently incomplete: they solve yesterday's problem while tomorrow's accumulates in whatever they don't regulate.
+
+---
+
 ## Sources
 
 - Kindleberger, C. (1978). *Manias, Panics, and Crashes*
@@ -217,7 +223,12 @@ Financial crises—episodes of banking panics, asset price collapses, and econom
 ## Related Notes
 
 - [[Great Depression]]
-- [[Banking History]]
-- [[Capitalism]]
-- [[Money History]]
+- [[2008 Financial Crisis]]
 - [[Globalization]]
+- [[Financialization]]
+- [[Stock Markets]]
+- [[Medieval Financial Innovation]]
+- [[Ancient Credit]]
+- [[Institutions and Progress]]
+- [[Neoliberalism]]
+- [[Modern Index]]

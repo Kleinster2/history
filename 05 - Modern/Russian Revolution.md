@@ -195,6 +195,12 @@ The Russian Revolution of 1917—actually two revolutions (February/March and Oc
 | Alternative? | Market socialism |
 | Legacy | Economic assessment |
 
+### The Deeper Point
+
+The Russian Revolution was the 20th century's great test of whether economic development requires market institutions or can be commanded from above. The Bolsheviks inherited a backward agrarian economy and, through extraordinary coercion, built an industrial superpower in two decades—proving that forced savings and central direction *can* industrialize. But the [[Soviet Economy]]'s subsequent stagnation proved something more fundamental: you can command steel production but not innovation. Markets aren't just allocation mechanisms; they're *discovery processes* that reveal what's worth producing. Without prices, profits, and competition, the USSR could copy Western technology but never lead it. This is the vault's [[Institutions and Progress|institutional thesis]] in its starkest form: extractive institutions can mobilize resources but cannot sustain the creative destruction that drives long-run growth.
+
+---
+
 ## Sources
 
 - Figes, O. (1996). *A People's Tragedy*
@@ -203,8 +209,12 @@ The Russian Revolution of 1917—actually two revolutions (February/March and Oc
 
 ## Related Notes
 
-- [[Communism]]
+- [[Soviet Economy]]
 - [[Cold War]]
 - [[World Wars Economic Impact]]
 - [[Industrial Revolution]]
-- [[Labor History]]
+- [[Labor and Unions]]
+- [[Development Economics]]
+- [[Institutions and Progress]]
+- [[Innovation Economics]]
+- [[Modern Index]]

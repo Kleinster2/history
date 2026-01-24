@@ -90,9 +90,20 @@ The Modern period witnessed the most dramatic economic transformation in human h
 
 ### Europe
 
+- [[French Revolution]] - Fiscal crisis, guild abolition, economic transformation
+- [[Russian Revolution]] - Birth of command economy alternative
 - [[European Economic Miracle]] - Postwar recovery, social market
 - [[German Business Model]] - Mittelstand, codetermination, patient capital
 - [[Soviet Economy]] - Central planning, rise and fall
+
+### Global Processes
+
+- [[Imperialism]] - Economic extraction, colonialism, world division
+- [[World Wars Economic Impact]] - Destruction, state power, creative destruction
+- [[Cold War]] - Competing economic systems
+- [[Decolonization]] - End of empires, development challenge
+- [[Globalization]] - Three waves of integration
+- [[Financial Crises]] - Pattern of bubbles, panics, and reform
 
 ---
 
@@ -168,7 +179,7 @@ The Modern period witnessed the most dramatic economic transformation in human h
 |-------------|--------------|
 | Central banking | Monetary management |
 | [[Stock Markets]] | Capital allocation |
-| International finance | Integration, crises |
+| [[Financial Crises]] | Bubbles, panics, reform |
 | Fiat money | Post-1971 |
 | [[Financialization]] | Wall Street dominance |
 
@@ -330,6 +341,24 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[Development Economics]]
 - [[Interwar Economy]]
 - [[Keynesian Revolution]]
+
+### Global Processes
+- [[Imperialism]]
+- [[World Wars Economic Impact]]
+- [[Cold War]]
+- [[Decolonization]]
+- [[Globalization]]
+- [[Financial Crises]]
+- [[Russian Revolution]]
+- [[French Revolution]]
+- [[Welfare State]]
+
+### Mechanism Notes
+- [[Institutions and Progress]]
+- [[Innovation Economics]]
+- [[Property Rights]]
+- [[Taxation]]
+- [[Slavery Economics]]
 
 ### Other Periods
 - [[04 - Early Modern/Early Modern Index|Early Modern History]]

@@ -206,6 +206,12 @@ The French Revolution (1789-1799) fundamentally transformed France and influence
 | Markets | Liberated |
 | State | New relationship |
 
+### The Deeper Point
+
+The French Revolution was an institutional earthquake: in a few years it abolished guilds, ended feudal dues, nationalized church property, established uniform commercial law, and created the metric system—destroying centuries of accumulated institutional friction in one burst. This is why [[Institutions and Progress|institutional economics]] matters: France's *Ancien Régime* wasn't poor because it lacked resources or talent, but because its institutions (guild monopolies, internal tariffs, noble exemptions from [[Taxation|tax]], venal offices) channeled ambition into rent-seeking rather than production. The Revolution proved that institutional change can be revolutionary rather than incremental—but also that destruction is easier than construction. Napoleon's Civil Code ultimately did more for French economic development than the Terror, because it provided the *stable* property rights and contractual framework that markets require.
+
+---
+
 ## Sources
 
 - Doyle, W. (2002). *The Oxford History of the French Revolution*
@@ -214,8 +220,12 @@ The French Revolution (1789-1799) fundamentally transformed France and influence
 
 ## Related Notes
 
-- [[Capitalism]]
-- [[Democracy]]
 - [[Industrial Revolution]]
-- [[Labor History]]
 - [[Taxation]]
+- [[Property Rights]]
+- [[Guild Economics]]
+- [[Institutions and Progress]]
+- [[World Wars Economic Impact]]
+- [[Labor and Unions]]
+- [[European Economic Miracle]]
+- [[Modern Index]]

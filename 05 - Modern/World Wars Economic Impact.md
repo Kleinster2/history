@@ -201,6 +201,12 @@ The two World Wars (1914-1918, 1939-1945) were the most economically destructive
 | Inequality | Global shifts |
 | Trauma | Lasting |
 
+### The Deeper Point
+
+War is the great accelerator of institutional change. Both world wars compressed decades of economic transformation into years: income taxes that would have been politically impossible became permanent, state planning that free-market economies resisted became routine, and women's labor force participation that conservatives opposed became necessary. The wars also destroyed the old order—European empires, the gold standard, laissez-faire—creating space for the [[Keynesian Revolution]], [[Welfare State|welfare states]], and [[Development Economics|development planning]]. Paradoxically, the most destructive events of the 20th century produced many of its most productive institutions. See [[Institutions and Progress]] for why crisis often enables institutional innovation that peace-time politics blocks.
+
+---
+
 ## Sources
 
 - Harrison, M. (1998). *The Economics of World War II*
@@ -209,8 +215,13 @@ The two World Wars (1914-1918, 1939-1945) were the most economically destructive
 
 ## Related Notes
 
-- [[Warfare & Economy]]
-- [[Industrial Revolution]]
+- [[Interwar Economy]]
 - [[Great Depression]]
-- [[Capitalism]]
-- [[Empire Building]]
+- [[Keynesian Revolution]]
+- [[Postwar Boom]]
+- [[Welfare State]]
+- [[Mass Production]]
+- [[Imperialism]]
+- [[Institutions and Progress]]
+- [[Innovation Economics]]
+- [[Modern Index]]

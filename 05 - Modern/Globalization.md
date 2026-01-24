@@ -194,6 +194,12 @@ Globalization—the intensifying interconnection of economies, societies, and cu
 | Digital | New phase |
 | Sustainability | Green transition |
 
+### The Deeper Point
+
+Globalization is not new—[[Indian Ocean Trade|the Indian Ocean]], [[Trade Networks|the Silk Road]], and the [[Atlantic Slave Trade|Atlantic system]] were all earlier globalizations. What distinguishes the modern version is its *institutional infrastructure*: international organizations (WTO, IMF, World Bank), standardized commercial law, container shipping, and digital communications that make trade nearly frictionless. Yet Rodrik's "trilemma" reveals the fundamental tension: you can have globalization, democracy, and national sovereignty—but not all three simultaneously. Each wave of globalization has been followed by political backlash when its costs (job displacement, inequality, cultural disruption) overwhelm its benefits for enough people. The pattern is as old as the [[Guild Economics|guilds]]: integration creates losers who organize politically.
+
+---
+
 ## Sources
 
 - Rodrik, D. (2011). *The Globalization Paradox*
@@ -202,8 +208,13 @@ Globalization—the intensifying interconnection of economies, societies, and cu
 
 ## Related Notes
 
-- [[Capitalism]]
 - [[Trade Networks]]
-- [[Industrial Revolution]]
-- [[Great Depression]]
-- [[World Wars Economic Impact]]
+- [[Indian Ocean Trade]]
+- [[Global Supply Chains]]
+- [[Trade Blocs]]
+- [[Neoliberalism]]
+- [[Financial Crises]]
+- [[Asian Tigers]]
+- [[China's Rise]]
+- [[Institutions and Progress]]
+- [[Modern Index]]
