@@ -52,9 +52,15 @@ The Early Modern period witnessed the creation of a truly global economy for the
 
 The new center of global economy.
 
+- [[Age of Exploration]] - Portuguese, Spanish, global sea routes
 - [[Atlantic Economy]] - Triangular trade, slavery, sugar
+- [[Columbian Exchange]] - Biological globalization, crops, disease
 - [[Dutch Golden Age]] - Financial innovations, VOC, trade dominance
+- [[Portuguese Empire]] - First global maritime empire, spice trade
+- [[Atlantic Slave Trade]] - 12.5 million transported, economic foundations
 - [[Sugar Economy]] - Plantation system, slavery, Atlantic transformation
+- [[Cotton Economy]] - Raw material for Industrial Revolution
+- [[Silver Economy]] - American silver, global trade, Price Revolution
 - [[East India Companies]] - VOC, EIC, corporate colonialism
 - [[Spanish Empire Economy]] - Silver, decline, resource curse
 - [[British Empire Economy]] - Industrial empire, India, global trade
@@ -63,6 +69,7 @@ The new center of global economy.
 
 Still wealthy, increasingly pressured.
 
+- [[Ming Dynasty]] - Maritime withdrawal, silver demand, commercial growth
 - [[Qing China Economy]] - World's largest economy, why no industrialization
 - [[Mughal India Economy]] - Textiles, deindustrialization, colonial impact
 - [[Tokugawa Japan Economy]] - Isolation and development, foundations for Meiji
@@ -260,7 +267,17 @@ Transformed by colonialism, then independent.
 - [[Proto-industrialization]]
 - [[Business Firm]]
 - [[Entrepreneurship]]
+- [[Foundational Firms]]
 - [[East India Companies]]
+- [[Innovation Economics]]
+
+### Mechanism Notes
+- [[Slavery Economics]]
+- [[Property Rights]]
+- [[Taxation]]
+- [[Indian Ocean Trade]]
+- [[Medieval Financial Innovation]]
+- [[Ancient Credit]]
 
 ### Other Periods
 - [[03 - Medieval/Medieval Index|Medieval History]]

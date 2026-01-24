@@ -266,6 +266,6 @@ The Songhai Empire succeeded Mali as West Africa's dominant power, controlling a
 ## Related Notes
 
 - [[Mali Empire]]
-- [[Trans-Saharan Trade]]
+- [[Trade Networks|Trans-Saharan Trade]]
 - [[Africa]]
 - [[Medieval Index]]

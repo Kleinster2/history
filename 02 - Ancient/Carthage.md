@@ -270,7 +270,7 @@ Carthage was the Mediterranean's greatest trading power before Rome—a Phoenici
 
 ## Related Notes
 
-- [[Phoenician Trade]]
+- [[Phoenicians|Phoenician Trade]]
 - [[Roman Economy]]
 - [[Trade Networks]]
 - [[Ancient Index]]

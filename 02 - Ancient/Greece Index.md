@@ -97,7 +97,7 @@ Ancient Greece gave the world its first systematic economic thought—the very w
 - Weight standards - Multiple systems
 
 ### Slavery
-- [[Greek Slavery]] - Economic foundation
+- [[Slavery Economics|Greek Slavery]] - Economic foundation
 - Agricultural (helots)
 - Household
 - Mining (brutal conditions)

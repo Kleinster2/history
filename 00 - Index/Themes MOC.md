@@ -23,7 +23,7 @@ SORT file.name ASC
 ## Economic
 - [[Trade Routes]]
 - [[Agriculture]]
-- [[Industrialization]]
+- [[Industrial Revolution|Industrialization]]
 - [[Monetary Systems]]
 
 ## Social & Cultural

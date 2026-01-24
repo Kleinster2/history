@@ -189,5 +189,5 @@ Cities are where civilization concentrates—hubs of trade, production, power, a
 
 - [[Origins of Economy]]
 - [[Trade Networks]]
-- [[Industrialization]]
+- [[Industrial Revolution|Industrialization]]
 - [[Ancient Index]]

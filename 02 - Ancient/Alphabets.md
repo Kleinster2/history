@@ -381,5 +381,5 @@ scripts
 - [[Hieroglyphics]]
 - [[Trade Networks]]
 - [[Greek Economy]]
-- [[Phoenician Trade]] *(if created)*
+- [[Phoenicians|Phoenician Trade]]
 - [[Ancient Index]]

@@ -350,5 +350,5 @@ Sparta represents the anti-commercial extreme of Greek economic organization. Wh
 - [[Greece Index]]
 - [[Greek Economy]]
 - [[Athens]] - Economic opposite
-- [[Greek Slavery]]
+- [[Slavery Economics|Greek Slavery]]
 - [[Origins of Economy]]

@@ -322,7 +322,7 @@ The Mali Empire was the wealthiest state in the medieval world at its peak. Cont
 ## Related Notes
 
 - [[Songhai Empire]]
-- [[Trans-Saharan Trade]]
+- [[Trade Networks|Trans-Saharan Trade]]
 - [[Swahili Trade]]
 - [[Africa]]
 - [[Medieval Index]]
