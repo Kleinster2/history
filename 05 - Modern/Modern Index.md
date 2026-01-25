@@ -118,6 +118,31 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[Stock Markets]] - From Amsterdam to algorithmic trading
 - [[Consumer Culture]] - Advertising, branding, and the demand economy
 
+### Sectoral Histories
+
+- [[Railroad Revolution]] - First big business, corporate innovation
+- [[Shipping and Maritime Trade]] - From sail to container
+- [[Aviation Industry]] - From Wright brothers to global airlines
+- [[Electricity and Power Systems]] - Second industrial revolution's foundation
+- [[Automotive Industry]] - Mass production's proving ground
+- [[Containerization]] - The box that changed global trade
+- [[Green Revolution]] - Agricultural technology transformation
+
+### Financial System
+
+- [[Central Banking]] - Managing money and crises
+- [[Investment Banking]] - From Rothschilds to Goldman Sachs
+- [[Insurance Industry]] - Risk markets as infrastructure
+- [[Financial Crisis Theory]] - Minsky, Kindleberger, why crises recur
+- [[Private Equity and Hedge Funds]] - Alternative investment and financial engineering
+
+### Development Pathways
+
+- [[Developmental State]] - East Asian state-directed development
+- [[Post-Colonial Institutional Paths]] - Why decolonization produced divergent outcomes
+- [[Why Africa Lagged]] - Institutional explanation for Africa's development challenge
+- [[Reversal of Fortune]] - Colonial institutions and modern poverty
+
 ---
 
 ## Economic Systems
@@ -224,6 +249,14 @@ The Modern period witnessed the most dramatic economic transformation in human h
 | [[Financialization]] | Wall Street dominance |
 | COVID-19 (2020) | Supply chains, state role |
 | Climate challenge | Transformation required |
+
+### 21st Century Challenges
+
+- [[Trade Wars and Deglobalization]] - US-China conflict, Brexit, reshoring
+- [[AI and Labor]] - Automation's latest wave and economic consequences
+- [[Gig Economy]] - Platform labor and employment boundaries
+- [[Carbon Markets and Climate Finance]] - Economic instruments for decarbonization
+- [[Platform Monopolies]] - Big Tech power and regulatory response
 
 ---
 

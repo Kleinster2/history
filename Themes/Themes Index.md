@@ -262,6 +262,36 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - Mainframes → PC → Internet → platforms → AI
   - Network effects and winner-take-all dynamics
 
+### Financial System
+
+- [[Central Banking]] - Managing money and crises
+  - Bank of England to Fed to ECB
+  - Lender of last resort, monetary policy, QE
+
+- [[Insurance Industry]] - Risk markets as infrastructure
+  - Marine origins, Lloyd's, life, health
+  - AIG and systemic risk
+
+- [[Financial Crisis Theory]] - Why crises recur
+  - Kindleberger, Minsky, Reinhart-Rogoff
+  - Leverage, contagion, policy response
+
+### Development Theory
+
+- [[Reversal of Fortune]] - Colonial institutions and divergence
+  - AJR thesis: extractive vs. settler colonies
+  - Why rich in 1500 became poor today
+
+- [[Agrarian Systems]] - Land tenure as development foundation
+  - Latifundia vs. smallholder vs. collective
+  - Land reform: success (East Asia) vs. failure (Latin America)
+
+### Transportation and Trade
+
+- [[Shipping and Maritime Trade]] - Moving goods across oceans
+  - Sail to steam to container
+  - How shipping costs determine what trades
+
 ---
 
 ## Relationship to Periods
