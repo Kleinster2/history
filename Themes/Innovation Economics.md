@@ -222,6 +222,8 @@ Innovation is not a natural state—it's an institutional achievement. For most 
 
 - [[Technology History]]
 - [[Institutions and Progress]]
+- [[Varieties of Capitalism]]
+- [[Intellectual Property]]
 - [[Guild Economics]]
 - [[Property Rights]]
 - [[Industrial Revolution]]
@@ -236,3 +238,5 @@ Innovation is not a natural state—it's an institutional achievement. For most 
 - [[Medieval Financial Innovation]]
 - [[Creative Destruction]]
 - [[Human Capital]]
+- [[Pharmaceutical Industry]]
+- [[Technology Industry]]

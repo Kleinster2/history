@@ -27,7 +27,10 @@
       "Bash(wc:*)",
       "Bash(for dir in \"01 - Prehistory\" \"02 - Ancient\" \"03 - Medieval\" \"04 - Early Modern\" \"05 - Modern\" \"06 - Contemporary\" \"Themes\")",
       "Bash(for file in \"Capitalism\" \"Communism\" \"Globalization\")",
-      "Bash(do find \"C:\\\\Users\\\\klein\\\\obsidian\\\\history\" -name \"$file.md\" -type f)"
+      "Bash(do find \"C:\\\\Users\\\\klein\\\\obsidian\\\\history\" -name \"$file.md\" -type f)",
+      "Bash(powershell -Command:*)",
+      "Bash(__NEW_LINE_ddab44071c28fb07__ find Themes \"05 - Modern\" -name \"*.md\" -type f -print0)",
+      "Bash(xargs:*)"
     ]
   }
 }

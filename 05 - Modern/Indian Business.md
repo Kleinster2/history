@@ -283,6 +283,12 @@ Indian business evolved through three distinct systems: the managing agency unde
 
 ---
 
+## The Deeper Point
+
+Indian business is the vault's most complete demonstration of how [[Entrepreneurship|entrepreneurial]] ambition adapts to—and is shaped by—successive [[Institutions and Progress|institutional]] regimes. Under the license raj (1947-1991), Baumol's insight played out with textbook clarity: India's most capable business families channeled their ambition not into serving customers or improving products (what would be the point, with no competition?) but into securing licenses, cultivating bureaucrats, and diversifying into every protected sector they could access. The license raj produced organizational innovation perfectly adapted to its constraints—the diversified business house, navigating state controls through relationships rather than markets. Liberalization in 1991 changed the institutional rules, and Indian business responded: competitive firms (Infosys, Tata, Wipro) thrived while protected ones died, ambition redirected from license-seeking to export-competing. The IT services sector is particularly revealing: where [[State Capacity|state capacity]] was weakest (infrastructure, manufacturing), Indian business struggled; where institutional constraints were lightest (software, services, English-language work), it flourished. The Reliance model shows both productive and unproductive channeling simultaneously—Jio's massive infrastructure investment created genuine value, but required political relationships for spectrum and regulatory approval that smaller competitors couldn't match. The India Stack (Aadhaar, UPI) represents a new [[Varieties of Capitalism|variety of capitalism]]—public digital infrastructure enabling private innovation—that may be India's distinctive contribution to business organization. The deeper pattern: Indian business success has always been about navigating institutions, not about institutions getting out of the way. The question for India's future is whether institutions can evolve to channel ambition toward [[Creative Destruction|creative destruction]] broadly, not just for the connected few.
+
+---
+
 ## Sources & Further Reading
 
 - Tripathi, D. (2004). *The Oxford History of Indian Business*
@@ -304,4 +310,8 @@ Indian business evolved through three distinct systems: the managing agency unde
 - [[Overseas Chinese Networks]]
 - [[Chinese Business]]
 - [[Institutions and Progress]]
+- [[Varieties of Capitalism]]
+- [[State Capacity]]
+- [[Creative Destruction]]
+- [[Business Regulation]]
 - [[Modern Index]]

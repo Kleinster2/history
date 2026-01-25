@@ -367,7 +367,10 @@ The practical result is similar—firms can own property, sue, and persist beyon
 
 - [[East India Companies]]
 - [[Corporate Evolution]]
+- [[Varieties of Capitalism]]
+- [[Business Regulation]]
 - [[Stock Markets]]
+- [[Securities Regulation]]
 - [[Financialization]]
 - [[Gilded Age]]
 - [[Second Industrial Revolution]]
@@ -376,5 +379,7 @@ The practical result is similar—firms can own property, sue, and persist beyon
 - [[Venice]]
 - [[Management Revolution]]
 - [[Property Rights]]
+- [[Legal Services]]
+- [[Accounting History]]
 - [[Capitalism]]
 - [[Modern Index]]

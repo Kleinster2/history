@@ -311,6 +311,7 @@ The chaebol system is Baumol's thesis in its most concentrated form: the Korean 
 
 - [[Asian Tigers]]
 - [[Japanese Economic Miracle]]
+- [[Varieties of Capitalism]]
 - [[Corporate Evolution]]
 - [[Foundational Firms]]
 - [[Development Economics]]
@@ -321,4 +322,7 @@ The chaebol system is Baumol's thesis in its most concentrated form: the Korean 
 - [[State Capacity]]
 - [[Creative Destruction]]
 - [[Entrepreneurship]]
+- [[Labor Law and Business]]
+- [[Steel Industry]]
+- [[Technology Industry]]
 - [[Modern Index]]

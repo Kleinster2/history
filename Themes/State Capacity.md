@@ -289,10 +289,17 @@ State capacity is the missing variable in naive institutional economics—the re
 ## Related Notes
 
 - [[Institutions and Progress]]
+- [[Varieties of Capitalism]]
+- [[Business Regulation]]
 - [[Taxation]]
 - [[Property Rights]]
 - [[Asian Tigers]]
+- [[Korean Chaebol]]
+- [[Japanese Economic Miracle]]
 - [[Development Economics]]
+- [[Latin American Business]]
+- [[African Business]]
+- [[Russian Business]]
 - [[Meiji Restoration]]
 - [[Innovation Economics]]
 - [[Entrepreneurship]]

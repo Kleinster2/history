@@ -115,6 +115,21 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - Why factories replaced home production
   - Global parallels (India, China, Japan)
 
+- [[Accounting History]] - From double-entry to Big Four
+  - Pacioli (1494), merchant accounting, auditing profession
+  - Enron/Arthur Andersen scandal and reform
+  - The information infrastructure that makes capital markets possible
+
+- [[Legal Services]] - Transaction cost infrastructure
+  - Roman advocates, lex mercatoria, Cravath system
+  - Magic Circle, Am Law 100, global law firms
+  - Without reliable legal infrastructure, business stays small
+
+- [[Management Consulting]] - Selling organizational knowledge
+  - Taylor's efficiency studies, McKinsey model
+  - Strategy consulting, diffusion of best practices
+  - Creative destruction applied to management itself
+
 ### Innovation and Institutions
 
 - [[Innovation Economics]] - Why sustained innovation is rare (and what enables it)
@@ -127,6 +142,38 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - New displaces old: temporary monopoly → imitation → next disruption
   - When societies permit vs. block it
   - The institutional choice that determines long-run performance
+
+### Business Environment
+
+- [[Varieties of Capitalism]] - Why business environments differ systematically
+  - Hall & Soskice: Liberal Market (LME) vs Coordinated Market (CME)
+  - Institutional complementarities: why packages cluster
+  - US/UK vs Germany/Japan vs developmental states
+
+- [[Business Regulation]] - How states shape business
+  - Competition, securities, labor, environmental, product safety
+  - Regulatory styles: adversarial vs cooperative
+  - Capture and reform dynamics
+
+- [[Antitrust History]] - Competition policy evolution
+  - Sherman Act, Standard Oil, AT&T, Microsoft, big tech
+  - Chicago School vs Neo-Brandeisian debate
+  - US vs EU vs Asian approaches
+
+- [[Securities Regulation]] - Governing capital markets
+  - 1929 crash → SEC → Sarbanes-Oxley → Dodd-Frank
+  - Disclosure philosophy vs relationship banking
+  - How securities law determines who can access capital
+
+- [[Labor Law and Business]] - How labor institutions shape firms
+  - Factory Acts, NLRA, codetermination, at-will employment
+  - US flexibility vs German voice vs Japanese loyalty
+  - Gig economy and the boundaries of employment
+
+- [[Intellectual Property]] - Patents, copyrights, trademarks
+  - Venetian patents (1474), Statute of Monopolies (1624)
+  - Business strategy: IP portfolios, licensing, standards wars
+  - Pharma model vs software debates
 
 ### Development Foundations
 
@@ -183,6 +230,37 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - EU, NAFTA, ASEAN, Mercosur, AfCFTA
   - Building blocks or stumbling blocks?
   - Geopolitics of trade
+
+### Regional Business Systems
+
+- [[German Business Model]] - The coordinated market economy
+- [[Japanese Economic Miracle]] - Developmental state, keiretsu
+- [[Korean Chaebol]] - State-directed conglomerates
+- [[Overseas Chinese Networks]] - Diaspora capitalism
+- [[Indian Business]] - From License Raj to liberalization
+- [[Latin American Business]] - Grupos and family conglomerates
+- [[Middle Eastern Business]] - Rentier states and bazaar traditions
+- [[African Business]] - Informal sector and emerging champions
+- [[Russian Business]] - From Soviet planning to oligarchy
+- [[Southeast Asian Business]] - Chinese diaspora and crony capitalism
+
+### Industry Evolution
+
+- [[Textile Industry]] - The first industrial sector
+  - Putting-out to power loom to fast fashion
+  - The global migration: UK → US → Japan → Asia
+
+- [[Steel Industry]] - Backbone of industrialization
+  - Bessemer, Carnegie, POSCO, China
+  - National industrial policy in action
+
+- [[Pharmaceutical Industry]] - IP as business model
+  - German dyes to blockbusters to biotech
+  - Innovation incentives vs access problems
+
+- [[Technology Industry]] - From IBM to AI
+  - Mainframes → PC → Internet → platforms → AI
+  - Network effects and winner-take-all dynamics
 
 ---
 
