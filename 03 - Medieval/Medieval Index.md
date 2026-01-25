@@ -117,6 +117,22 @@ Gold trade and Indian Ocean commerce.
 | Free labor | Towns, commerce |
 | [[Guild Economics]] | Craft regulation, entry, innovation debate |
 
+### Commercial & Institutional Foundations
+
+| Topic | Notes |
+|-------|-------|
+| Partnership forms | [[Medieval Merchant Capitalism]] |
+| Intellectual property | [[Medieval Patent Systems]] |
+| Guild debate | [[Guild Economics Deepened]] |
+| Urban work | [[Medieval Urban Labor]] |
+| Agricultural innovation | [[Medieval Agricultural Technology]] |
+| Technology transfer | [[Medieval Technology Diffusion]] |
+| Institutional comparison | [[Comparative Medieval Institutions]] |
+| Crisis response | [[Late Medieval Crisis]] |
+| Credit systems | [[Medieval Credit Networks]] |
+| Urban forms | [[Medieval Urban Development]] |
+| Northern trade model | [[Hanseatic Business Model]] |
+
 ---
 
 ## Key Comparisons

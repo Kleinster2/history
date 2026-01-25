@@ -214,6 +214,70 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - Help or hindrance? Epstein vs. Ogilvie
   - Legacy: professional licensing, vocational training
 
+### Human Experience of Economic Change
+
+- [[Material Living Standards Through History]] - What "rich" and "poor" actually meant
+  - From ancient subsistence to modern abundance
+  - The great enrichment and its limits
+
+- [[Artisanal Economy]] - The world of skilled craftsmen
+  - Workshop organization, craft knowledge, identity
+  - Destruction by mechanization, Luddite resistance
+
+- [[Women's Economic Work]] - The often-invisible half
+  - Spinning, proto-industry, factory work, care work
+  - Institutional constraints and changing opportunities
+
+- [[Migration and Economic Opportunity]] - Voting with feet
+  - Village to city, diaspora networks, forced migration
+  - Where institutions channeled hope
+
+- [[Child Labor and Skill Formation]] - From apprenticeship to education
+  - Investment in human capital, industrial exploitation
+  - Reform and compulsory education
+
+- [[Disease and Economic Change]] - Epidemics as economic shocks
+  - Black Death, Columbian Exchange, industrial health
+  - Institutional resilience revealed
+
+- [[Food and Subsistence]] - The essential foundation
+  - Malthusian trap, famines, agricultural breakthroughs
+  - Without surplus, no progress
+
+- [[Leisure, Work, and Human Flourishing]] - Who captured productivity gains?
+  - Pre-industrial holidays, industrial discipline, shorter hours
+  - What progress is ultimately for
+
+### Technology and Constraints
+
+- [[Metallurgical Innovation]] - From bronze to steel
+  - Metal quality as foundation technology
+  - Each breakthrough reshaped possibilities
+
+- [[Agricultural Productivity Revolution]] - Freeing labor for everything else
+  - Medieval, British, Green Revolution breakthroughs
+  - The essential precondition
+
+- [[Textile Technology Arc]] - First industrial sector's complete journey
+  - Hand to machine, Britain to Bangladesh
+  - Innovation and human costs
+
+- [[Transportation Cost Curves]] - How moving goods got cheaper
+  - Pack animals to containers
+  - Each reduction reshaped economies
+
+- [[Energy Transitions]] - The master constraint
+  - Wood to coal to oil to electricity
+  - New possibilities, new dependencies
+
+- [[Technology Diffusion Failures]] - Why innovations don't always spread
+  - Chinese inventions, Indian textiles, Ottoman stasis
+  - Institutions determine diffusion
+
+- [[Constraint-Driven Innovation]] - When necessity mothers invention
+  - Timber crisis, high wages, oil shocks
+  - Why constraints sometimes drive change (and sometimes don't)
+
 ### Modern Transformations
 
 - [[Inequality]] - The arc of inequality through history

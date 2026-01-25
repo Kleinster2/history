@@ -131,6 +131,20 @@ Transformed by colonialism, then independent.
 | Factory system | [[Industrial Revolution]] |
 | Coal/iron | Energy transition |
 
+### Regional Business Models
+
+Comparative institutional analysis of how different regions organized economic activity.
+
+| Region | Notes |
+|--------|-------|
+| Venice | [[Venetian Merchant Capitalism]] |
+| Netherlands | [[Dutch Golden Age Model]] |
+| Britain | [[English Commercial Empire]] |
+| Ottoman | [[Ottoman Economic Institutions]] |
+| Mughal India | [[Mughal India Economic Model]] |
+| Qing China | [[Qing China Economic Model]] |
+| Iberian empires | [[Iberian Extractive Model]] |
+
 ---
 
 ## Key Institutions

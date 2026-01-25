@@ -127,6 +127,9 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[Automotive Industry]] - Mass production's proving ground
 - [[Containerization]] - The box that changed global trade
 - [[Green Revolution]] - Agricultural technology transformation
+- [[Chemical Industry History]] - German dominance, institutionalized innovation
+- [[Precision Manufacturing]] - Clocks to machine tools, cumulative precision
+- [[Information Technology as Infrastructure]] - Printing to internet, coordination at scale
 
 ### Financial System
 
