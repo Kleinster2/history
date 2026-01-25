@@ -359,5 +359,6 @@ Oil is the ultimate resource-curse laboratory. Countries with identical geologyâ
 - [[Mass Production]]
 - [[Imperialism]]
 - [[Institutions and Progress]]
+- [[Resource Curse]]
 - [[Property Rights]]
 - [[Modern Index]]

@@ -399,5 +399,6 @@ The Spanish Empire was the first global empire—spanning the Americas, the Phil
 - [[Dutch Golden Age]]
 - [[East India Companies]]
 - [[Atlantic Economy]]
+- [[Resource Curse]]
 - [[Great Divergence]]
 - [[Early Modern Index]]

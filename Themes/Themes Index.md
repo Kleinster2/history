@@ -150,6 +150,11 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - Productive (investment) vs. extractive (dispossession)
   - The institutional design problem across all eras
 
+- [[Resource Curse]] - When abundance becomes a trap
+  - Dutch disease, rentier state, institutional degradation
+  - Spain's silver, Nigeria's oil, Botswana's diamonds
+  - Why the escape is always institutional, never geological
+
 ### Labor and Society
 
 - [[Slavery Economics]] - The oldest labor exploitation, from Mesopotamia to abolition

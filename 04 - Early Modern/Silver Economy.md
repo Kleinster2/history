@@ -343,5 +343,6 @@ American silver created the first truly global economy. The mines of Potosi and 
 - [[Great Divergence]]
 - [[Globalization]]
 - [[Taxation]]
+- [[Resource Curse]]
 - [[Institutions and Progress]]
 - [[Early Modern Index]]

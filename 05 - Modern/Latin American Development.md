@@ -381,5 +381,6 @@ Latin America is the great counter-example to the institutional optimists: indep
 - [[Inequality]]
 - [[Creative Destruction]]
 - [[Property Rights]]
+- [[Resource Curse]]
 - [[Development Economics]]
 - [[Modern Index]]

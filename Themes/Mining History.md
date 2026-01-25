@@ -215,3 +215,4 @@ Mining—the extraction of minerals from the earth—has provided essential mate
 - [[Spanish Empire]]
 - [[Labor History]]
 - [[Energy History]]
+- [[Resource Curse]]
