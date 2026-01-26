@@ -329,6 +329,112 @@ Zuckerberg saw Instagram's mobile-first photo sharing as existential threat. Fac
 
 ---
 
+## Governance and Control Decisions
+
+### OpenAI: Musk's Exit and the Nonprofit Pivot
+
+**The Founding (2015)**
+
+| Element | Detail |
+|---------|--------|
+| Founded | December 2015 |
+| Structure | Nonprofit |
+| Mission | Ensure AGI benefits humanity |
+| Co-founders | Musk, Altman, Sutskever, others |
+| Initial pledge | $1 billion (Musk largest donor) |
+| Rationale | Counter Google/DeepMind's AI dominance |
+
+**Musk's Concern**
+
+| Fear | Reasoning |
+|------|-----------|
+| Google AI monopoly | DeepMind acquisition (2014) concentrated AI talent |
+| Existential risk | AGI in wrong hands could be catastrophic |
+| Solution | Open, nonprofit alternative to keep AI "safe" |
+
+**Musk's Departure (2018)**
+
+| Date | Event |
+|------|-------|
+| February 2018 | Musk leaves OpenAI board |
+| Official reason | Conflict with Tesla AI efforts |
+| Reported tensions | Musk wanted more control, proposed takeover |
+| Altman's response | Rejected Musk's bid to run OpenAI |
+
+**The Alleged Takeover Attempt**
+
+| Musk's position | He should lead OpenAI |
+|-----------------|----------------------|
+| Altman's response | No—kept nonprofit independent |
+| Musk's reaction | Departed, stopped funding |
+| Consequence | OpenAI needed new funding source |
+
+**The Pivot to Capped-Profit (2019)**
+
+| Change | Effect |
+|--------|--------|
+| Created OpenAI LP | "Capped-profit" subsidiary |
+| Cap | Investors can earn 100x return max |
+| Microsoft investment | $1B initially, then $10B+ |
+| Nonprofit role | Remains parent, controls mission |
+
+**Why OpenAI Pivoted**
+
+| Factor | Reasoning |
+|--------|-----------|
+| Compute costs | Training GPT-3 cost ~$10M+ |
+| Talent competition | Google, DeepMind paid more |
+| Musk funding gone | Needed replacement |
+| Scale requirements | Couldn't compete as nonprofit |
+
+**The 2023 Board Crisis**
+
+| Date | Event |
+|------|-------|
+| November 17, 2023 | Board fires Sam Altman |
+| Reason | "Not consistently candid" |
+| Reaction | 95% of employees threaten to quit |
+| November 21, 2023 | Altman reinstated |
+| Outcome | Board restructured, nonprofit governance weakened |
+
+**Musk's Lawsuit (2024)**
+
+| Claim | Musk's argument |
+|-------|-----------------|
+| Breach of contract | OpenAI abandoned nonprofit mission |
+| OpenAI's response | No contract existed; Musk wanted control |
+| Revealed emails | Musk supported for-profit pivot in 2017 |
+| Status | Musk dropped suit, refiled |
+
+**Musk's xAI (2023)**
+
+| Response | Musk founds competing AI company |
+|----------|--------------------------------|
+| Founded | July 2023 |
+| Product | Grok chatbot |
+| Valuation | $24B (2024) |
+| Strategy | Integrated with X (Twitter) |
+
+**The Counterfactuals**
+
+| If Musk had... | Then... |
+|----------------|---------|
+| Stayed and funded | OpenAI might remain nonprofit, slower |
+| Taken control | OpenAI might be Musk subsidiary |
+| Never left | No Microsoft partnership, different AI landscape |
+
+**The Deeper Lesson**
+
+OpenAI's governance decisions shaped the AI revolution's trajectory:
+- Nonprofit structure attracted idealistic talent
+- Musk's departure forced commercial pivot
+- Microsoft partnership provided compute for GPT-4
+- Board crisis revealed tension between mission and scale
+
+The irony: Musk founded OpenAI to prevent AI concentration, then left, enabling the Microsoft partnership that concentrated AI development. His attempt to control it failed; his departure accelerated what he feared.
+
+---
+
 ## Organizational Decisions
 
 ### The Traitorous Eight Leave Shockley (1957)

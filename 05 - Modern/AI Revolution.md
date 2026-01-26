@@ -106,6 +106,19 @@ From neural network winter to ChatGPT. Artificial intelligence spent decades as 
 | Microsoft Research | Microsoft | Applied AI |
 | OpenAI | Independent (then Microsoft) | AGI safety |
 
+### OpenAI's Unusual Path
+
+| Date | Event |
+|------|-------|
+| 2015 | Founded as nonprofit (Musk, Altman, others) |
+| 2018 | Musk departs after failed takeover attempt |
+| 2019 | Pivots to "capped-profit" structure |
+| 2019 | Microsoft invests $1B |
+| 2023 | Microsoft invests additional $10B |
+| Nov 2023 | Board fires then reinstates Altman |
+
+OpenAI's governance decisions shaped the AI industry. Musk co-founded it to counter Google's AI dominance, then left when he couldn't control it. His departure forced the commercial pivot that enabled GPT-4. The irony: Musk founded OpenAI to prevent AI concentration, then his exit accelerated the Microsoft partnership he now criticizes. See [[Pivotal Tech Decisions]] for full analysis.
+
 ---
 
 ## The Transformer Revolution (2017)
