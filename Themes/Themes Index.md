@@ -63,6 +63,11 @@ These schools provide the theoretical foundations that the vault's historical no
   - Multi-civilizational exchange without single hegemon
   - Portuguese disruption and the shift to Atlantic
 
+- [[Central Asian Trade]] - Overland routes between civilizations
+  - Silk Road, steppe trade, oasis cities
+  - Maritime routes' eventual dominance
+  - Modern "New Silk Road" revival attempts
+
 - [[Ancient Credit]] - The origin of finance
   - Debt before money, temple lending, compound interest
   - Debt slavery, jubilee, clean slates
@@ -77,6 +82,11 @@ These schools provide the theoretical foundations that the vault's historical no
   - Caravel, carrack, galleon, fluyt, steamship, container
   - How ship technology enabled economic transformation
   - From Mediterranean galleys to global supply chains
+
+- [[Transportation]] - How moving goods shaped economic possibility
+  - Pack animal → wheel → sail → rail → container
+  - Each cost reduction expanded trade radius
+  - Infrastructure as public good
 
 ### Information Infrastructure
 
@@ -260,6 +270,26 @@ These schools provide the theoretical foundations that the vault's historical no
   - Dutch disease, rentier state, institutional degradation
   - Spain's silver, Nigeria's oil, Botswana's diamonds
   - Why the escape is always institutional, never geological
+
+- [[Dutch Disease]] - When resource wealth harms other sectors
+  - Netherlands gas, UK North Sea, Venezuela oil
+  - Exchange rate mechanism, manufacturing decline
+  - Norwegian sovereign fund as escape
+
+- [[Authoritarian Development]] - Can dictatorships deliver growth?
+  - Singapore, China, Korea under Park, Rwanda
+  - Developmental autocrats vs. kleptocrats
+  - Why most autocracies fail economically
+
+- [[Import Substitution Industrialization]] - Replacing imports with domestic production
+  - Latin America, India, Africa (1950s-1980s)
+  - Initial success, eventual stagnation
+  - Why protection without discipline fails
+
+- [[Soviet Economic Model]] - The command economy alternative
+  - Gosplan, five-year plans, collectivization
+  - Achievements and failures
+  - The knowledge problem and collapse
 
 ### Labor System Transitions
 

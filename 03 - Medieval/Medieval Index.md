@@ -94,10 +94,11 @@ Gold trade and Indian Ocean commerce.
 | Money history | [[Money]] |
 | Paper money | [[Song China Economy]] |
 | Islamic finance | [[Islamic Economy]] |
-| Banking | [[Florence]], [[Medieval Europe Economy]] |
+| Banking | [[Florence]], [[Italian Banking]] |
 | Templar banking | [[Templars]] |
 | Financial innovation | [[Medieval Financial Innovation]] |
 | Bills of exchange | Islamic → European |
+| Fair-based clearing | [[Champagne Fairs]] |
 
 ### Agriculture and Production
 
@@ -131,7 +132,21 @@ Gold trade and Indian Ocean commerce.
 | Crisis response | [[Late Medieval Crisis]] |
 | Credit systems | [[Medieval Credit Networks]] |
 | Urban forms | [[Medieval Urban Development]] |
-| Northern trade model | [[Hanseatic Business Model]] |
+| Northern trade model | [[Hanseatic Business Model]], [[Hanseatic Economy]] |
+| Fair system | [[Champagne Fairs]] |
+| Peasant economy | [[Medieval Peasant Economy]] |
+| Universities | [[Universities]] |
+| Crusade finance | [[Crusades Economics]] |
+| Byzantine trade | [[Byzantine Commerce]] |
+
+### Trade Routes & Centers
+
+| Route/Center | Notes |
+|--------------|-------|
+| Wool trade | [[Wool Trade]] |
+| Italian banking | [[Italian Banking]] |
+| Central Asian hub | [[Samarkand]] |
+| Arab networks | [[Arab Trade Networks]] |
 
 ---
 

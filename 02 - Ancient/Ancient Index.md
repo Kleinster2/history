@@ -55,6 +55,7 @@ The Ancient period spans from the emergence of writing and the first civilizatio
 
 ### Greece
 - [[Greece Index]] - Overview and navigation
+- [[Mycenae]] - Bronze Age palace economy
 - [[Greek Economy]] - Coinage, slavery, agora
 - [[Greek Coinage]] - Lydian origins, monetization of society
 - [[Greek Economic Thought]] - Aristotle, value theory, anti-commerce
@@ -62,7 +63,8 @@ The Ancient period spans from the emergence of writing and the first civilizatio
 - [[Sparta]] - Military autarky, helots
 
 ### Rome
-- [[Rome Index]] - Overview and navigation
+- [[Rome]] - Overview of Roman civilization
+- [[Rome Index]] - Full index and navigation
 - [[Roman Economy]] - Slavery, trade, taxation
 - [[Roman Currency]] - Denarius, debasement, solidus
 - [[Augustus]] - Currency reform, Pax Romana
@@ -73,6 +75,7 @@ The Ancient period spans from the emergence of writing and the first civilizatio
 - [[Persian Economy]] - Tribute, roads, coinage
 - [[Persepolis]] - Ceremonial capital, treasury
 - [[Darius I]] - Administrative organizer
+- [[Parthian Empire]] - Silk Road intermediary, Rome's rival
 
 ### Americas
 - [[Mesoamerica Index]] - Overview and navigation

@@ -159,6 +159,15 @@ The Modern period witnessed the most dramatic economic transformation in human h
 | [[Australia Economic History]] | Convict colony → wool/gold → mining boom | "Lucky country" debate |
 | [[New Zealand Economic History]] | Māori economy → Britain's farm → Rogernomics | Neoliberal laboratory |
 
+#### Middle East
+
+| Country/Region | Trajectory | Key Theme |
+|----------------|------------|-----------|
+| [[Ottoman Decline]] | Relative decline → reforms → dissolution | Institutional rigidity |
+| [[Turkish Economic History]] | Kemalist ISI → liberalization → instability | Reform without rule of law |
+| [[Gulf Commerce]] | Pearls → petrodollars → diversification | Resource management |
+| [[Persian Economic History]] | Ancient trade → oil → sanctions | Long-duration patterns |
+
 ### Global Processes
 
 - [[Imperialism]] - Economic extraction, colonialism, world division
@@ -206,10 +215,13 @@ How information costs fell and economies transformed.
 ### Financial System
 
 - [[Central Banking]] - Managing money and crises
+- [[Bank of England]] - The institution that made modern finance
 - [[Investment Banking]] - From Rothschilds to Goldman Sachs
 - [[Insurance Industry]] - Risk markets as infrastructure
+- [[Lloyd's]] - The insurance market that enabled global trade
 - [[Financial Crisis Theory]] - Minsky, Kindleberger, why crises recur
 - [[Private Equity and Hedge Funds]] - Alternative investment and financial engineering
+- [[Bretton Woods]] - Postwar international monetary system
 
 #### Financialization Era
 
