@@ -38,11 +38,23 @@ The Early Modern period witnessed the creation of a truly global economy for the
 |---------|-------|
 | [[Atlantic Economy]] | Triangular trade, slavery |
 | Colonialism | European empires |
+| [[British Agricultural Revolution]] | Labor and capital freed for industry |
 | [[Timber Crisis]] | Wood scarcity → coal transition |
 | [[Steam Engine]] | Pumps → factories → railways |
 | [[Lunar Society]] | Science-industry network |
 | [[Industrial Revolution]] | British transformation |
 | [[Great Divergence]] | Why Europe? |
+
+### Analytical Notes
+
+Understanding why Europe industrialized and others didn't.
+
+| Note | Question |
+|------|----------|
+| [[Dutch vs English Institutional Competition]] | Why did England industrialize when the Netherlands invented modern finance? |
+| [[Ming Withdrawal]] | Why did China's largest fleet era end in deliberate withdrawal? |
+| [[Price Revolution]] | How did American silver transform Europe? |
+| [[Atlantic Capital Accumulation]] | How did slave trade wealth become factory capital? |
 
 ---
 

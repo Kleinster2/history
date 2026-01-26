@@ -27,6 +27,23 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
 
 ---
 
+## Economic Theory
+
+The major schools of economic thought that provide analytical frameworks for understanding development.
+
+| School | Core Question | Note |
+|--------|---------------|------|
+| Neoclassical | How do markets allocate resources? | [[Neoclassical Economics]] |
+| Keynesian | How do economies fail to self-correct? | [[Keynesian Economics]] |
+| Austrian | How does spontaneous order emerge? | [[Austrian Economics]] |
+| Marxist | Who captures the gains from production? | [[Marxist Economics]] |
+| Institutional | What rules shape economic behavior? | [[Institutional Economics]] |
+| Behavioral | Why do people deviate from rationality? | [[Behavioral Economics]] |
+
+These schools provide the theoretical foundations that the vault's historical notes apply and test.
+
+---
+
 ## The Big Picture
 
 ### Money and Exchange
@@ -371,6 +388,7 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
 - [[Overseas Chinese Networks]] - Diaspora capitalism
 - [[Indian Business]] - From License Raj to liberalization
 - [[Latin American Business]] - Grupos and family conglomerates
+- [[Coffee Economy]] - The commodity that shaped Latin American institutions
 - [[Middle Eastern Business]] - Rentier states and bazaar traditions
 - [[African Business]] - Informal sector and emerging champions
 - [[Russian Business]] - From Soviet planning to oligarchy
@@ -407,6 +425,10 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
 - [[Financial Crisis Theory]] - Why crises recur
   - Kindleberger, Minsky, Reinhart-Rogoff
   - Leverage, contagion, policy response
+
+- [[Speculative Bubbles]] - The recurring pattern from tulips to crypto
+  - Kindleberger-Minsky cycle: displacement, boom, euphoria, crisis
+  - Why institutions struggle to prevent what human psychology creates
 
 ### Development Theory
 

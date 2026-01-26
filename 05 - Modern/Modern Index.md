@@ -83,10 +83,33 @@ The Modern period witnessed the most dramatic economic transformation in human h
 ### Africa
 
 - [[Modern Africa]] - Post-independence challenges
+- [[Why Africa Lagged]] - Institutional explanation for Africa's development challenge
+
+#### African National Economies
+
+| Country | Trajectory | Key Theme |
+|---------|------------|-----------|
+| [[Nigeria Economic History]] | Oil discovery → resource curse | Classic Dutch disease |
+| [[South Africa Economic History]] | Minerals → apartheid → transition | Extractive institutions persist |
+| [[Kenya Economic History]] | Colonial → M-Pesa revolution | Fintech leapfrogging |
+| [[Botswana Economic History]] | Diamonds → development | Resource curse exception |
+| [[Rwandan Economic Development]] | Genocide → reconstruction | Authoritarian development |
 
 ### Latin America
 
 - [[Latin American Development]] - ISI, debt, inequality
+- [[Latin American Business]] - Grupos and family conglomerates
+
+#### Latin American National Economies
+
+| Country | Trajectory | Key Theme |
+|---------|------------|-----------|
+| [[Brazil Economic History]] | Coffee → ISI → commodity cycles | Boom-bust pattern |
+| [[Argentina Economic History]] | Golden age → chronic crisis | Why rich became middle-income |
+| [[Chile Economic History]] | Copper → Chicago Boys → inequality debates | Neoliberal experiment |
+| [[Mexico Economic History]] | Revolution → ISI → NAFTA | Integration with US |
+
+- [[Coffee Economy]] - The commodity that shaped Latin American institutions
 
 ### Europe
 
@@ -138,6 +161,17 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[Insurance Industry]] - Risk markets as infrastructure
 - [[Financial Crisis Theory]] - Minsky, Kindleberger, why crises recur
 - [[Private Equity and Hedge Funds]] - Alternative investment and financial engineering
+
+### Financial Crisis Case Studies
+
+| Crisis | Date | Mechanism |
+|--------|------|-----------|
+| [[Great Depression Deep Dive]] | 1929-1939 | Bank failures, credit contraction, policy errors |
+| [[Asian Financial Crisis 1997]] | 1997-1998 | Hot money, fixed exchange rates, contagion |
+| [[Dot-Com Bubble 2000]] | 2000-2002 | Technology speculation, infrastructure legacy |
+| [[2008 Financial Crisis Deep Dive]] | 2007-2009 | Subprime, securitization, systemic risk |
+
+- [[Speculative Bubbles]] - The recurring pattern from tulips to crypto
 
 ### Development Pathways
 
