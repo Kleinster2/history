@@ -280,7 +280,7 @@ From "don't be evil" to congressional hearings. Between 2016 and 2024, the techn
 
 | Factor | Effect |
 |--------|--------|
-| Interest rates | End of ZIRP, discounting hits growth stocks |
+| Interest rates | End of ZIRP (Zero Interest Rate Policy), discounting hits growth stocks |
 | Over-hiring | COVID expansion proved temporary |
 | Revenue slowdown | Digital ad growth slowed |
 | Investor sentiment | "Year of efficiency" demanded |
