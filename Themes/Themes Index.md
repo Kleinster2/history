@@ -261,6 +261,11 @@ These schools provide the theoretical foundations that the vault's historical no
   - The demographic dividend: one-time window for growth
   - Hidden precondition for per-capita income growth
 
+- [[Urbanization History]] - From villages to megacities
+  - 3% urban in 1800 to 55%+ today
+  - Agglomeration economics, specialization, innovation
+  - Developing world urbanization challenges
+
 - [[Debt History]] - From Mesopotamian grain loans to sovereign debt
   - Debt before money, clean slates, jubilees
   - Productive (investment) vs. extractive (dispossession)
@@ -270,6 +275,11 @@ These schools provide the theoretical foundations that the vault's historical no
   - Dutch disease, rentier state, institutional degradation
   - Spain's silver, Nigeria's oil, Botswana's diamonds
   - Why the escape is always institutional, never geological
+
+- [[Sovereign Wealth Funds]] - States as investors
+  - Norway model, intergenerational savings
+  - Converting underground resources to financial wealth
+  - Institutional design for long-term management
 
 - [[Dutch Disease]] - When resource wealth harms other sectors
   - Netherlands gas, UK North Sea, Venezuela oil

@@ -26,6 +26,7 @@ The Ancient period spans from the emergence of writing and the first civilizatio
 - [[Mesopotamia Index]] - Overview and navigation
 - [[Sumer]] - First civilization
 - [[Akkadian Empire]] - First world empire
+- [[Amorites]] - Nomads who became kings
 - [[Babylon]] - Hammurabi, Nebuchadnezzar
 - [[Assyria]] - Military superpower
 - [[Enheduanna]] - First author, temple economy management
@@ -33,9 +34,10 @@ The Ancient period spans from the emergence of writing and the first civilizatio
 ### Egypt
 - [[Egypt Index]] - Overview and navigation
 - [[Old Kingdom]] - Pyramid Age
+- [[Djoser]] - First pyramid, state capacity demonstration
+- [[Khufu]] - Great Pyramid, first mega-project economics
 - [[Middle Kingdom]] - Classical age
 - [[New Kingdom]] - Egyptian Empire
-- [[Khufu]] - Great Pyramid, first mega-project economics
 
 ### Indus Valley
 - [[Indus Valley Index]] - Overview and navigation

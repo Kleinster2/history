@@ -50,6 +50,7 @@ The emergence of our genus, tool technology, and the first dispersals from Afric
 - [[Early Homo]] - *H. habilis*, *H. erectus*, and relatives
 
 ### Stone Tool Technology
+- [[Stone Tool Technology]] - Overview of lithic industries through time
 - [[Oldowan Industry]] - The first stone tools (2.6-1.7 Ma)
 - [[Acheulean Industry]] - Handaxes and bifaces (1.76 Ma-200 ka)
 
@@ -70,7 +71,13 @@ The diversification of large-brained hominins across the Old World.
 The emergence and global spread of *Homo sapiens*.
 
 - [[Homo sapiens Origins]] - African origins and early evolution
+- [[Homo sapiens]] - Our species and its cognitive capacities
+- [[Cognitive Revolution]] - The emergence of behavioral modernity
 - [[Out of Africa]] - The colonization of the world
+
+### Key Sites
+- [[Blombos Cave]] - 100,000 BP symbolic behavior, South Africa
+- [[East African Rift System]] - The geological cradle of humanity
 
 ---
 
