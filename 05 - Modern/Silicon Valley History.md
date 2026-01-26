@@ -457,6 +457,7 @@ The question now is whether remote work and cost pressure will finally break the
 ## Related Notes
 
 - [[Silicon Valley Model]]
+- [[Tech Industry Winners and Losers]]
 - [[Technology Industry]]
 - [[Venture Capital]]
 - [[American Business Strategy]]

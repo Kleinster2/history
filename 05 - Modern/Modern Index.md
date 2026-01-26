@@ -55,6 +55,7 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[American Corporate Restructuring]] - The shareholder revolution (1980-2000)
 - [[Silicon Valley History]] - From Shockley to FAANG (1956-present)
 - [[Silicon Valley Model]] - The tech ecosystem and why it's hard to replicate
+- [[Tech Industry Winners and Losers]] - Why some companies dominate and others disappear
 
 ### Japan
 
