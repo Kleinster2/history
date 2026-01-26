@@ -78,6 +78,17 @@ These schools provide the theoretical foundations that the vault's historical no
   - How ship technology enabled economic transformation
   - From Mediterranean galleys to global supply chains
 
+### Information Infrastructure
+
+- [[Information Costs in History]] - Why knowing was expensive and how it shaped economies
+  - Trust networks, intermediaries, communication technologies
+  - From horse speed to telegraph to internet
+  - Coase, North: information costs as institutional constraint
+
+- [[Postal Systems]] - State-built communication infrastructure
+  - Roman cursus publicus to Penny Post
+  - When states invested in information, commerce followed
+
 ### Wealth and Development
 
 - [[Wealth Through History]] - Who was rich and how
@@ -159,6 +170,11 @@ These schools provide the theoretical foundations that the vault's historical no
   - New displaces old: temporary monopoly → imitation → next disruption
   - When societies permit vs. block it
   - The institutional choice that determines long-run performance
+
+- [[Rent-Seeking Economics]] - Getting rich without producing
+  - Tullock, Baumol: productive vs. unproductive entrepreneurship
+  - What makes ambition build vs. take
+  - The institutional design problem across all eras
 
 ### Business Environment
 
@@ -386,6 +402,7 @@ These schools provide the theoretical foundations that the vault's historical no
 - [[Japanese Economic Miracle]] - Developmental state, keiretsu
 - [[Korean Chaebol]] - State-directed conglomerates
 - [[Overseas Chinese Networks]] - Diaspora capitalism
+- [[Chinese Diaspora Capitalism]] - The bamboo network's trust-based institutions
 - [[Indian Business]] - From License Raj to liberalization
 - [[Latin American Business]] - Grupos and family conglomerates
 - [[Coffee Economy]] - The commodity that shaped Latin American institutions
@@ -393,6 +410,8 @@ These schools provide the theoretical foundations that the vault's historical no
 - [[African Business]] - Informal sector and emerging champions
 - [[Russian Business]] - From Soviet planning to oligarchy
 - [[Southeast Asian Business]] - Chinese diaspora and crony capitalism
+- [[Nordic Economic Model]] - Scandinavian social democracy and competitiveness
+- [[Nordic Cooperative Movement]] - How cooperatives channeled ambition collectively
 
 ### Industry Evolution
 

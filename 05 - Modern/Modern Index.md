@@ -80,6 +80,17 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[ASEAN Economy]] - Regional integration
 - [[Overseas Chinese Networks]] - The bamboo network
 
+#### Southeast Asian National Economies
+
+| Country | Trajectory | Key Theme |
+|---------|------------|-----------|
+| [[Singapore Economic History]] | Fishing village → global hub | Developmental state success |
+| [[Indonesian Economic History]] | Colonial extraction → Suharto → crisis → recovery | Resource abundance and institutions |
+| [[Malaysian Economic History]] | Tin and rubber → NEP → capital controls | Ethnic affirmative action |
+| [[Thai Economic History]] | Never colonized → 1997 crisis epicenter | Financial contagion |
+
+- [[Chinese Diaspora Capitalism]] - The bamboo network's trust-based institutions
+
 ### Africa
 
 - [[Modern Africa]] - Post-independence challenges
@@ -119,6 +130,35 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[German Business Model]] - Mittelstand, codetermination, patient capital
 - [[Soviet Economy]] - Central planning, rise and fall
 
+#### Scandinavian Economies
+
+| Country | Trajectory | Key Theme |
+|---------|------------|-----------|
+| [[Swedish Economic History]] | Iron exports → industrial leader → welfare state | Saltsjöbaden labor peace |
+| [[Danish Economic History]] | Agricultural crisis → cooperatives → flexicurity | Cooperative movement |
+| [[Norwegian Economic History]] | Poorest in Scandinavia → oil → sovereign wealth | Resource curse avoidance |
+
+- [[Nordic Economic Model]] - How Scandinavian countries combined high wages, equality, and competitiveness
+- [[Nordic Cooperative Movement]] - How cooperatives channeled ambition collectively
+
+#### Eastern European Economies
+
+| Country | Trajectory | Key Theme |
+|---------|------------|-----------|
+| [[Polish Economic History]] | Partitions → communism → shock therapy → EU success | Most successful transition |
+| [[Czech Economic History]] | Habsburg industry → communism → velvet revolution | Industrial legacy |
+| [[Hungarian Economic History]] | Goulash communism → Orbánomics | Reform → reversion |
+
+- [[Post-Communist Transition]] - Why some countries succeeded and others failed
+- [[Second Serfdom]] - Eastern Europe's divergent labor institutions
+
+#### Oceania
+
+| Country | Trajectory | Key Theme |
+|---------|------------|-----------|
+| [[Australia Economic History]] | Convict colony → wool/gold → mining boom | "Lucky country" debate |
+| [[New Zealand Economic History]] | Māori economy → Britain's farm → Rogernomics | Neoliberal laboratory |
+
 ### Global Processes
 
 - [[Imperialism]] - Economic extraction, colonialism, world division
@@ -154,6 +194,15 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[Precision Manufacturing]] - Clocks to machine tools, cumulative precision
 - [[Information Technology as Infrastructure]] - Printing to internet, coordination at scale
 
+#### Communications Infrastructure
+
+How information costs fell and economies transformed.
+
+| Technology | Transformation |
+|------------|---------------|
+| [[Telegraph Revolution]] | Victorian internet, instant price arbitrage |
+| [[Telecommunications Deregulation]] | AT&T breakup, privatization, competition |
+
 ### Financial System
 
 - [[Central Banking]] - Managing money and crises
@@ -161,6 +210,18 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[Insurance Industry]] - Risk markets as infrastructure
 - [[Financial Crisis Theory]] - Minsky, Kindleberger, why crises recur
 - [[Private Equity and Hedge Funds]] - Alternative investment and financial engineering
+
+#### Financialization Era
+
+The transformation of finance from servant to master of the economy.
+
+| Topic | Mechanism |
+|-------|-----------|
+| [[Financialization]] | Wall Street dominance, shareholder primacy |
+| [[Leveraged Buyouts]] | KKR, RJR Nabisco, debt-financed restructuring |
+| [[Derivatives Revolution]] | Black-Scholes, hedging → speculation |
+| [[Shareholder Value Revolution]] | Jensen-Meckling, buybacks, short-termism |
+| [[Shadow Banking]] | MMFs, repo, non-bank credit, 2008 freeze |
 
 ### Financial Crisis Case Studies
 
