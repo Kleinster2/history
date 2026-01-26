@@ -143,6 +143,11 @@ These schools provide the theoretical foundations that the vault's historical no
   - VOC, Arkwright, Ford, Toyota, Fairchild, and ten others
   - The composite modern corporation as 400 years of accumulated innovation
 
+- [[Pivotal Business Decisions]] - The choices that shaped capitalism
+  - Rockefeller's trust, Carnegie's integration, Ford's $5 day
+  - Toyota Production System, Walmart's logistics, Welch's GE
+  - Decisions that look wrong at the time but reshape industries
+
 - [[Entrepreneurship]] - Who creates new enterprises, and why
   - Schumpeter's creative destruction, Baumol's productive vs. unproductive
   - Weber's Protestant ethic, status of commerce across cultures

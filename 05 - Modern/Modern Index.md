@@ -62,6 +62,7 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[AI Revolution]] - Deep learning to ChatGPT (2012-present)
 - [[Tech Industry Reckoning]] - Regulation, backlash, and the end of permissive treatment (2016-present)
 - [[Crypto Boom and Bust]] - Bitcoin, Ethereum, DeFi, NFTs, and the 2022 collapse
+- [[Pivotal Tech Decisions]] - The choices that determined winners and losers
 
 ### Japan
 
