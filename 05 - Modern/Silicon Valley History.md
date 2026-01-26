@@ -458,6 +458,9 @@ The question now is whether remote work and cost pressure will finally break the
 
 - [[Silicon Valley Model]]
 - [[Tech Industry Winners and Losers]]
+- [[Semiconductor Revolution]]
+- [[PC Revolution]]
+- [[Mobile Platform Era]]
 - [[Technology Industry]]
 - [[Venture Capital]]
 - [[American Business Strategy]]

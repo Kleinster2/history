@@ -56,6 +56,9 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[Silicon Valley History]] - From Shockley to FAANG (1956-present)
 - [[Silicon Valley Model]] - The tech ecosystem and why it's hard to replicate
 - [[Tech Industry Winners and Losers]] - Why some companies dominate and others disappear
+- [[Semiconductor Revolution]] - Transistor to integrated circuit (1947-1971)
+- [[PC Revolution]] - Apple, IBM, Microsoft, and computing for everyone (1975-1995)
+- [[Mobile Platform Era]] - iPhone, Android, and the smartphone transformation (2007-2015)
 
 ### Japan
 
