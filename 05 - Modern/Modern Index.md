@@ -59,6 +59,9 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[Semiconductor Revolution]] - Transistor to integrated circuit (1947-1971)
 - [[PC Revolution]] - Apple, IBM, Microsoft, and computing for everyone (1975-1995)
 - [[Mobile Platform Era]] - iPhone, Android, and the smartphone transformation (2007-2015)
+- [[AI Revolution]] - Deep learning to ChatGPT (2012-present)
+- [[Tech Industry Reckoning]] - Regulation, backlash, and the end of permissive treatment (2016-present)
+- [[Crypto Boom and Bust]] - Bitcoin, Ethereum, DeFi, NFTs, and the 2022 collapse
 
 ### Japan
 
