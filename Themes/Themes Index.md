@@ -175,12 +175,38 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - Business strategy: IP portfolios, licensing, standards wars
   - Pharma model vs software debates
 
-### Development Foundations
+### Fiscal Systems & State Capacity
 
 - [[State Capacity]] - The ability to implement policy decisions
   - Fiscal, legal, administrative, coercive dimensions
   - The missing variable: good institutions require enforcement
   - Tilly's thesis: war made the state
+
+- [[Ancient Taxation Systems]] - Mesopotamian tribute to Roman publicani
+  - How ancient states extracted revenue
+  - Tax farming vs. bureaucratic collection
+
+- [[Medieval Fiscal Innovation]] - Domain income to parliamentary taxation
+  - Representative assemblies traded taxation for consent
+  - Foundations for early modern state capacity
+
+- [[Currency Debasement History]] - Roman to Spanish vellón
+  - When states couldn't tax, they inflated
+  - Monetary stability as institutional achievement
+
+- [[Tax Farming Systems]] - Roman publicani to Ottoman iltizam
+  - Why states used intermediaries for extraction
+  - When tax farming worked vs. failed
+
+- [[War Finance Innovations]] - From mercenary contracts to national debt
+  - Tilly's thesis: war made the state
+  - Dutch and British fiscal-military advantages
+
+- [[Fiscal State Emergence]] - Dutch Republic to English Financial Revolution
+  - Representative government + credible commitment = cheap borrowing
+  - Why the fiscal state was an institutional achievement
+
+### Development Foundations
 
 - [[Human Capital]] - Knowledge, skills, and health embodied in people
   - From guild apprenticeship to modern education
@@ -202,7 +228,7 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - Spain's silver, Nigeria's oil, Botswana's diamonds
   - Why the escape is always institutional, never geological
 
-### Labor and Society
+### Labor System Transitions
 
 - [[Slavery Economics]] - The oldest labor exploitation, from Mesopotamia to abolition
   - Debt slavery, chattel slavery, serfdom, indentured labor
@@ -213,6 +239,26 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
   - Craft regulation, apprenticeship, quality control
   - Help or hindrance? Epstein vs. Ogilvie
   - Legacy: professional licensing, vocational training
+
+- [[Second Serfdom]] - Why Eastern Europe intensified unfree labor (1400-1700)
+  - Western emancipation vs. Eastern enserfment
+  - Brenner debate: political economy of labor institutions
+
+- [[Indentured Servitude]] - Bonded labor for colonial Americas
+  - Work contracts: passage for labor
+  - Transition to slavery, post-emancipation Asian indenture
+
+- [[Free Labor Emergence]] - When and why wage labor became dominant
+  - Medieval towns: "city air makes free"
+  - Post-plague bargaining power, factory discipline
+
+- [[Corvée and Obligation Labor]] - Compulsory labor beyond slavery
+  - Egyptian pyramids, Chinese Great Wall, Roman roads
+  - Why corvée persisted where labor markets were weak
+
+- [[Apprenticeship to Education]] - How skill formation institutions evolved
+  - Guild training to factory training to mass education
+  - Investment in human capital as development strategy
 
 ### Human Experience of Economic Change
 
@@ -273,6 +319,28 @@ Cross-period thematic notes that trace phenomena across multiple eras. These not
 - [[Technology Diffusion Failures]] - Why innovations don't always spread
   - Chinese inventions, Indian textiles, Ottoman stasis
   - Institutions determine diffusion
+
+### Technology Diffusion Cases
+
+- [[Why China Didn't Industrialize]] - The world's most advanced economy that didn't leap
+  - Pomeranz vs. Allen: similar until 1750 vs. different factor prices
+  - Institutional explanation: merchant subordination, examination system
+
+- [[Islamic World Technological Stagnation]] - From leader to follower
+  - Waqf freezing assets, guilds blocking change, ulema conservatism
+  - Printing rejection: 300-year delay
+
+- [[Printing Revolution]] - Why printing transformed Europe but not China or Islam
+  - Institutional fragmentation: no authority could control the press
+  - Information explosion enabling Reformation, science, commerce
+
+- [[Mechanical Clock Diffusion]] - How precision timekeeping spread
+  - European demand for precision drove continuous improvement
+  - Navigation, commerce, science created institutional demand
+
+- [[Agricultural Technology Diffusion]] - Why some regions adopted improvements
+  - Heavy plow, enclosure, Green Revolution
+  - Where property rights were secure, farmers adopted
 
 - [[Constraint-Driven Innovation]] - When necessity mothers invention
   - Timber crisis, high wages, oil shocks

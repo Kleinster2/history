@@ -124,6 +124,16 @@ The Ancient period spans from the emergence of writing and the first civilizatio
 - [[Code of Hammurabi]] - Earliest complete law code, property and commerce
 - [[Roman Law]] - Property, contracts, enduring legal legacy
 
+### Institutional Economics
+- [[Ancient Commercial Organization]] - Kārum system, collegia, metics—how merchants organized
+- [[Ancient Risk and Insurance]] - Bottomry loans, partnership diversification, network reputation
+- [[Ancient Price Mechanisms]] - Temple redistribution vs. market prices
+- [[Ancient State Monopolies]] - Salt, iron, grain—when states controlled key commodities
+- [[Ancient Labor Systems Compared]] - Slavery, debt bondage, corvée, and free labor
+- [[Ancient Weights and Measures]] - Standardization as state capacity and market infrastructure
+- [[Ancient Contract Enforcement]] - Mesopotamian courts, Roman law, Athenian juries
+- [[Ancient Economic Thought]] - Aristotle, Confucius, Roman attitudes toward commerce
+
 ---
 
 ## Key Sites

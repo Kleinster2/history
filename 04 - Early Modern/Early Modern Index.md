@@ -147,6 +147,26 @@ Comparative institutional analysis of how different regions organized economic a
 
 ---
 
+## Institutional Foundations
+
+How early modern institutions enabled (and sometimes blocked) the transition to modernity.
+
+### Business Organization
+- [[Chartered Company Model]] - VOC, EIC, Hudson's Bay—monopoly grants and governance rights
+- [[Early Modern Banking Houses]] - Medici, Fugger, Rothschild—family banking before central banks
+- [[Early Modern Insurance Development]] - From Italian marine policies to Lloyd's
+- [[Early Modern Stock Markets]] - Amsterdam Beurs, tulip mania, South Sea bubble
+
+### Trade and Empire
+- [[Mercantilist Institutions]] - Navigation Acts, Colbertism, colonial monopolies
+- [[Colonial Extraction Mechanisms]] - Encomienda, mita, hacienda, plantation systems
+- [[Merchant Diaspora Networks]] - Jewish, Armenian, Chinese, Greek trust networks
+
+### Production
+- [[Proto-Industrial Regions]] - Lancashire, Flanders, Gujarat, Jiangnan—where putting-out concentrated
+
+---
+
 ## Key Institutions
 
 ### Trading Companies
