@@ -266,6 +266,7 @@ The [[Varieties of Capitalism]] framework explains cross-sectional differences b
 
 ## Related Notes
 
+- [[American Business Strategy]]
 - [[Stock Markets]]
 - [[Japanese Economic Miracle]]
 - [[Japanese Stagnation]]

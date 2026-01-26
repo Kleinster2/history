@@ -438,6 +438,7 @@ These schools provide the theoretical foundations that the vault's historical no
 
 ### Regional Business Systems
 
+- [[American Business Strategy]] - How US firms exploited institutional advantages
 - [[German Business Model]] - The coordinated market economy
 - [[Japanese Economic Miracle]] - Developmental state, keiretsu
 - [[Korean Chaebol]] - State-directed conglomerates
@@ -486,6 +487,10 @@ These schools provide the theoretical foundations that the vault's historical no
   - Leverage, contagion, policy response
 
 - [[Speculative Bubbles]] - The recurring pattern from tulips to crypto
+
+- [[Market Cap Dominance Cycles]] - Why leadership shifts between nations
+  - Japan's rise and fall, EM cycles, US persistence
+  - Currency effects, catch-up economics, institutional traps
   - Kindleberger-Minsky cycle: displacement, boom, euphoria, crisis
   - Why institutions struggle to prevent what human psychology creates
 

@@ -334,6 +334,7 @@ The "varieties of capitalism" framework is the vault's key to understanding why 
 
 ## Related Notes
 
+- [[American Business Strategy]]
 - [[German Business Model]]
 - [[Korean Chaebol]]
 - [[Japanese Economic Miracle]]

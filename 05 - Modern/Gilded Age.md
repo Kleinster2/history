@@ -446,6 +446,7 @@ The Gilded Age is Baumol's natural experiment: remove institutional constraints 
 
 ## Related Notes
 
+- [[American Business Strategy]]
 - [[American Civil War]]
 - [[Reconstruction]]
 - [[Industrial Revolution]]
