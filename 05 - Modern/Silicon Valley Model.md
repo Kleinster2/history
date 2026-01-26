@@ -335,6 +335,7 @@ The model also reveals the tradeoffs in [[American Business Strategy]]. The same
 
 ## Related Notes
 
+- [[Silicon Valley History]]
 - [[American Business Strategy]]
 - [[Venture Capital]]
 - [[Technology Industry]]
