@@ -52,6 +52,8 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[Great Depression]] - System crisis and New Deal
 - [[American WWII Economy]] - War mobilization ends Depression
 - [[Postwar Boom]] - The Golden Age of growth
+- [[American Corporate Restructuring]] - The shareholder revolution (1980-2000)
+- [[Silicon Valley Model]] - The tech ecosystem and why it's hard to replicate
 
 ### Japan
 

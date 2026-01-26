@@ -178,6 +178,8 @@ The question for the future is whether the institutional advantages that enabled
 
 ## Related Notes
 
+- [[American Corporate Restructuring]]
+- [[Silicon Valley Model]]
 - [[Varieties of Capitalism]]
 - [[Market Cap Dominance Cycles]]
 - [[American Economic History]]
