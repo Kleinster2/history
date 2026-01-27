@@ -211,6 +211,8 @@ The post-Bretton Woods era—floating rates, free capital flows, recurring crise
 
 - [[Globalization]]
 - [[Central Banking]]
+- [[Currency Interventions]] — what replaced fixed rates
+- [[Currency Debasement History]] — monetary manipulation precedents
 - [[2008 Financial Crisis]]
 - [[Financial Crisis Theory]]
 - [[Postwar Boom]]

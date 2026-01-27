@@ -37,6 +37,8 @@ SORT file.name ASC
 - [[Money]] — Origins and functions
 - [[Money History]] — Evolution of monetary systems
 - [[Coinage]] — Metal money
+- [[Currency Debasement History]] — When states destroyed their money
+- [[Currency Interventions]] — Plaza Accord, ERM crisis, modern FX policy
 - [[Banking History]] — Financial intermediation
 - [[Ancient Credit]] — Debt before coins
 - [[Medieval Financial Innovation]] — Bills, double-entry, banking
