@@ -30,7 +30,12 @@
       "Bash(do find \"C:\\\\Users\\\\klein\\\\obsidian\\\\history\" -name \"$file.md\" -type f)",
       "Bash(powershell -Command:*)",
       "Bash(__NEW_LINE_ddab44071c28fb07__ find Themes \"05 - Modern\" -name \"*.md\" -type f -print0)",
-      "Bash(xargs:*)"
+      "Bash(xargs:*)",
+      "Bash(for file in \"Age of Exploration\" \"American Revolution\" \"Atlantic Economy\" \"Atlantic Slave Trade\" \"British Empire Economy\" \"Cotton Economy\" \"Dutch Golden Age\" \"East India Companies\" \"Hamilton''s Financial System\" \"Industrial Revolution\" \"Lunar Society\" \"Ming Dynasty\" \"Ottoman Economy\" \"Portuguese Empire\" \"Qing China Economy\" \"Silver Economy\" \"Spanish Empire Economy\" \"Steam Engine\" \"Sugar Economy\" \"Timber Crisis\" \"Tokugawa Japan Economy\" \"Westward Expansion\")",
+      "Bash(for link in \"Origins of Economy\" \"Industrial Revolution\" \"Mass Production\" \"Globalization\" \"Property Rights\" \"Taxation\" \"Steam Engine\" \"Mathematical Economics\" \"Marxist Economics\" \"Keynesian Economics\" \"Austrian Economics\" \"Neo-classical Economics\")",
+      "Bash(do [ ! -f \"Themes/$link.md\" ])",
+      "Bash(while read note)",
+      "Bash(do echo \"$note\")"
     ]
   }
 }
