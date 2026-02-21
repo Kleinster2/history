@@ -57,7 +57,7 @@ This isn't economic history as a subdiscipline. It's history with economics as t
 
 ## Cross-Vault Awareness
 
-> Full architecture: `C:\Users\klein\obsidian\vault-architecture.md`
+> Full architecture: `C:\Users\klein\obsidian\geopolitics\vault-architecture.md`
 
 Two other vaults track the present and future that this vault's history leads to:
 
