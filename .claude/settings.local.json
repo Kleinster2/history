@@ -35,7 +35,10 @@
       "Bash(for link in \"Origins of Economy\" \"Industrial Revolution\" \"Mass Production\" \"Globalization\" \"Property Rights\" \"Taxation\" \"Steam Engine\" \"Mathematical Economics\" \"Marxist Economics\" \"Keynesian Economics\" \"Austrian Economics\" \"Neo-classical Economics\")",
       "Bash(do [ ! -f \"Themes/$link.md\" ])",
       "Bash(while read note)",
-      "Bash(do echo \"$note\")"
+      "Bash(do echo \"$note\")",
+      "WebFetch(domain:www.journals.uchicago.edu)",
+      "WebFetch(domain:doi.org)",
+      "WebFetch(domain:www.bis.org)"
     ]
   }
 }
