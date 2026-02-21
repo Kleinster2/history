@@ -57,6 +57,8 @@ This isn't economic history as a subdiscipline. It's history with economics as t
 
 ## Cross-Vault Awareness
 
+> Full architecture: `C:\Users\klein\obsidian\vault-architecture.md`
+
 Two other vaults track the present and future that this vault's history leads to:
 
 - **Investing vault** (`C:\Users\klein\financial-charts\investing\`, Obsidian vault name `investing`, repo `Kleinster2/financial-charts`) — market positioning, company analysis, investment theses. Actor notes there include Evolution sections tracing key inflection points. This vault provides the deeper backstory.
