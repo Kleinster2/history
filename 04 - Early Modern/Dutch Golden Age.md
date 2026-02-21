@@ -78,7 +78,7 @@ The Dutch Republic was the world's first modern economy—pioneering the joint-s
 | Futures contracts | 1630s | Risk management |
 | Options | 1630s | Derivatives |
 
-### The Bank of Amsterdam (1609)
+### The [[Bank of Amsterdam]] (1609)
 
 | Feature | Description |
 |---------|-------------|
@@ -134,6 +134,40 @@ The Dutch Republic was the world's first modern economy—pioneering the joint-s
 | Govern territories | Quasi-state |
 
 **The VOC was a state within a state—the first multinational corporation.**
+
+### VOC Violence and the Indian Ocean
+
+The VOC's dominance was built not on commercial superiority but on the destruction of existing free-trading civilizations in the Indian Ocean. Pre-existing maritime trading networks—with joint-stock ventures, systems of weights and measures, and law codes governing cargo—were functioning across the Indian Ocean before Europeans arrived. What these societies lacked were gunships.
+
+| Event | Description |
+|-------|-------------|
+| Portuguese precedent | Burned and blasted their way around the Indian Ocean circuit, breaking into pre-existing trading systems |
+| VOC choke points | Controlled Straits of Malacca, Strait of Hormuz, Bab el-Mandeb |
+| Fixed prices | Imposed monopoly pricing on formerly open trade |
+| Banda Islands genocide | When Bandanese merchant oligarchy (no sultan — decisions made collectively) resisted VOC demands, Admiral Jan Pieterszoon Coen exterminated the entire population and replaced them with enslaved laborers on nutmeg plantations |
+| Spice trade restructuring | Decimated existing nutmeg groves and replanted in locations the VOC could control |
+
+### The Santa Catarina and International Law
+
+The supposed foundations of modern international law trace directly to VOC piracy:
+
+| Event | Detail |
+|-------|--------|
+| The act | Dutch forces captured the Portuguese spice ship *Santa Catarina* in the Straits of Singapore |
+| The cargo | Worth approximately half the total stock value of the VOC |
+| The justification | [[Hugo Grotius]] was hired to write *Mare Liberum* (1609) — a legal defense of the seizure that became the foundation text of international law |
+| The irony | A defense of piracy became the root of the "rules-based international order" |
+
+See [[Hugo Grotius]] for the full intellectual history.
+
+### The Iberian Union Trigger
+
+| Event | Consequence |
+|-------|------------|
+| Portuguese succession crisis | Portugal incorporated into Habsburg/Spanish Empire (Iberian Union, 1580) |
+| Dutch cut off | Spain closed Dutch access to the spice trade that had funded their port cities and wars of independence |
+| Dutch response | Founded VOC and began direct competition for Indian Ocean routes |
+| Chinese withdrawal | Ming dynasty had ended overseas trade ~80 years before the Portuguese arrived, leaving a maritime power vacuum in the Indian Ocean |
 
 ### VOC Scale
 
@@ -401,7 +435,9 @@ The Dutch Republic was the world's first modern economy—pioneering the joint-s
 
 ## Related Notes
 
+- [[Bank of Amsterdam]]
 - [[East India Companies]]
+- [[Hugo Grotius]]
 - [[Industrial Revolution]]
 - [[Atlantic Economy]]
 - [[Great Divergence]]
@@ -414,4 +450,5 @@ The Dutch Republic was the world's first modern economy—pioneering the joint-s
 - [[Innovation Economics]]
 - [[Debt History]]
 - [[Creative Destruction]]
+- [[The Dawn of Everything]]
 - [[Early Modern Index]]

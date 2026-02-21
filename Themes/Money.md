@@ -308,6 +308,7 @@ Money is one of humanity's most consequential inventions—a technology so succe
 
 | Place | Date | Outcome |
 |-------|------|---------|
+| [[Bank of Amsterdam]] | 1609 | Stable for 170 years; collapsed 1790s |
 | Sweden (Riksbank) | 1661 | Overissued, failed |
 | France (John Law) | 1716-20 | Spectacular collapse |
 | American colonies | 1690s+ | Mixed results |
@@ -461,6 +462,9 @@ The Inca ran an empire of 12 million without any money—proving money is not un
 - [[Roman Economy]]
 - [[Song China Economy]]
 - [[Florence]]
+- [[Bank of Amsterdam]]
 - [[Industrial Revolution]]
 - [[Economic Convergence]]
 - [[Wealth Through History]]
+- [[Dominant Currencies]]
+- [[Currency Debasement History]]

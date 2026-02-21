@@ -147,6 +147,17 @@ The Agricultural Revolution—humanity's shift from hunting and gathering to far
 | Progress | Foundation of civilization |
 | Trap | Worse life, no going back |
 | "Worst mistake" | Jared Diamond's argument |
+| Not a one-way door | Graeber & Wengrow argue agriculture was adopted and abandoned multiple times ([[The Dawn of Everything]]) |
+
+### Societies That Abandoned Agriculture
+
+| Case | Detail |
+|------|--------|
+| Stonehenge-era Britain (~3300 BCE) | Had experienced cereal agriculture, then returned to wild nuts and berries while keeping herding animals; no obvious climate push factor |
+| Great Plains (Cheyenne, Lakota) | Had practiced agriculture, acquired horses from the Spanish, became nomadic again |
+| American Southwest | Some groups returned to wild resources before European contact |
+
+Scott's "elective affinity" argument: cereal agriculture is uniquely amenable to authoritarian control—it roots people in place, makes them easy to count and tax. Root vegetables (potatoes, taro) are harder to quantify and appropriate, making them a classic form of stealth farming and tax evasion.
 
 ## Sources
 
@@ -161,3 +172,4 @@ The Agricultural Revolution—humanity's shift from hunting and gathering to far
 - [[Neolithic]]
 - [[Rise of Civilization]]
 - [[Agriculture]]
+- [[The Dawn of Everything]]

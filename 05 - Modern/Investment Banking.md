@@ -33,6 +33,7 @@ Investment banking is the industry that channels capital to enterprise—or extr
 | Post-WWII | Morgan Stanley, Goldman, First Boston |
 | 1980s-2000s | Bulge bracket: Goldman, Morgan Stanley, Merrill, Lehman, Bear |
 | Post-2008 | Goldman, Morgan Stanley, JPMorgan, plus universal banks |
+| Private (surviving) | [[Brown Brothers Harriman]] (1818-present) |
 
 ---
 
@@ -339,6 +340,8 @@ Investment banking demonstrates [[Entrepreneurship|Baumol's insight]] in finance
 
 ## Related Notes
 
+- [[Brown Brothers Harriman]]
+- [[E.H. Harriman]]
 - [[Banking History]]
 - [[Financial Crises]]
 - [[2008 Financial Crisis]]

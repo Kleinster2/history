@@ -194,6 +194,7 @@ The rise of civilization—the emergence of cities, states, writing, and social 
 | Trade | Exchange networks |
 | Warfare | Competition |
 | Multiple | Combination |
+| Contingent choice | Graeber & Wengrow argue complexity was chosen, not inevitable ([[The Dawn of Everything]]) |
 
 ## Sources
 
@@ -208,3 +209,5 @@ The rise of civilization—the emergence of cities, states, writing, and social 
 - [[Ancient Egypt]]
 - [[State Formation]]
 - [[Writing Systems]]
+- [[The Dawn of Everything]]
+- [[Poverty Point]]

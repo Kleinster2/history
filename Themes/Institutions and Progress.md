@@ -240,15 +240,24 @@ The institutions that channel ambition into production are humanity's most impor
 ## Sources & Further Reading
 
 - Baumol, W. (1990). "Entrepreneurship: Productive, Unproductive, and Destructive"
-- North, D. (1990). *Institutions, Institutional Change, and Economic Performance*
-- Acemoglu, D. & Robinson, J. (2012). *Why Nations Fail*
+- North, D. (1990). *Institutions, Institutional Change, and Economic Performance* — see [[Douglass North]]
+- Acemoglu, D. & Robinson, J. (2012). *Why Nations Fail* — see [[Why Nations Fail]]
+- North, Wallis & Weingast (2009). *Violence and Social Orders* — see [[Violence and Social Orders]]
+- Olson, M. (1982). *The Rise and Decline of Nations* — see [[Mancur Olson]]
 - Mokyr, J. (2017). *A Culture of Growth*
 - Ogilvie, S. (2019). *The European Guilds*
+
+For a full introduction to institutional economics frameworks, see [[Institutional Economics Primer]].
 
 ---
 
 ## Related Notes
 
+- [[Institutional Economics Primer]]
+- [[Douglass North]]
+- [[Why Nations Fail]]
+- [[Mancur Olson]]
+- [[Violence and Social Orders]]
 - [[Entrepreneurship]]
 - [[Great Divergence]]
 - [[Property Rights]]
@@ -282,3 +291,5 @@ The institutions that channel ambition into production are humanity's most impor
 - [[Soviet Economy]]
 - [[Climate and Economy]]
 - [[Modern Index]]
+- [[The Dawn of Everything]]
+- [[David Wengrow]]

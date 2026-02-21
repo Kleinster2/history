@@ -60,6 +60,7 @@ Financial crises are features, not bugs, of market economies. From the South Sea
 
 | Displacement | Crisis |
 |--------------|--------|
+| War stress | [[Bank of Amsterdam]] (1780s) |
 | New territories | South Sea, Mississippi (1720) |
 | Railroads | 1873, 1893 |
 | New technologies | 1929, Dot-com (2000) |
@@ -80,7 +81,7 @@ Financial stability breeds instability. Success makes people confident; confiden
 |------|-----------|
 | Hedge finance | Income covers interest AND principal |
 | Speculative finance | Income covers interest only (must roll over principal) |
-| Ponzi finance | Income covers neither (depends on asset appreciation) |
+| [[Ponzi Schemes\|Ponzi finance]] | Income covers neither (depends on asset appreciation) |
 
 ### The Cycle
 
@@ -88,7 +89,7 @@ Financial stability breeds instability. Success makes people confident; confiden
 |-------|--------------|
 | Stability | Hedge finance dominates |
 | Expansion | Success → more borrowing |
-| Euphoria | Shift to speculative/Ponzi |
+| Euphoria | Shift to speculative/[[Ponzi Schemes\|Ponzi]] |
 | Fragility | Small shock can trigger collapse |
 | Minsky moment | The trigger occurs |
 | Crash | Forced deleveraging |
@@ -360,6 +361,7 @@ Financial crisis theory is the dark side of [[Institutions and Progress|institut
 - [[Financial Crises]]
 - [[Great Depression]]
 - [[2008 Financial Crisis]]
+- [[Bank of Amsterdam]]
 - [[Central Banking]]
 - [[Banking History]]
 - [[Stock Markets]]
@@ -367,3 +369,4 @@ Financial crisis theory is the dark side of [[Institutions and Progress|institut
 - [[Business Regulation]]
 - [[Institutions and Progress]]
 - [[Keynesian Economics]]
+- [[Ponzi Schemes]]

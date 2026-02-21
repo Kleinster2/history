@@ -117,6 +117,7 @@ Steel was the backbone of industrial civilization—the material that built rail
 | Cost obsession | Track every cent |
 | Scale | Largest mills |
 | Labor | Crushed unions (Homestead) |
+| Key partner | [[Henry Clay Frick]] (coke, operations) |
 | Sale | $480 million to Morgan (1901) |
 | See | [[Foundational Firms]] |
 

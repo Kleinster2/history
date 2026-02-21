@@ -215,3 +215,7 @@ States—centralized political organizations with monopolies on legitimate viole
 - [[Bureaucracy]]
 - [[Warfare & Economy]]
 - [[Urbanization]]
+- [[The Dawn of Everything]]
+- [[David Wengrow]]
+- [[Kandiaronk]]
+- [[Poverty Point]]

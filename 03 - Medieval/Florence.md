@@ -73,15 +73,16 @@ Florence revolutionized European finance, creating the banking system that funde
 | Innovation | New techniques |
 | Networks | Branch system |
 
-### The Florin
+### The [[Florin]]
 
 | Feature | Description |
 |---------|-------------|
 | Introduced | 1252 |
-| Metal | Gold (3.5 grams) |
-| Purity | High, consistent |
-| Acceptance | International standard |
-| Duration | Used for centuries |
+| Last minted | 1531 (~280 years) |
+| Metal | Gold (3.54 grams) |
+| Purity | 24 karat, never debased |
+| Annual output | 350,000–400,000 at peak |
+| Acceptance | International standard; ~150 imitators |
 | Significance | First major gold coin since Rome |
 
 ### Banking Innovations
@@ -331,3 +332,5 @@ Recent research using the 1427 Catasto shows remarkable wealth persistence—des
 - [[Debt History]]
 - [[Human Capital]]
 - [[Economic Persistence]]
+- [[Florin]]
+- [[Dominant Currencies]]

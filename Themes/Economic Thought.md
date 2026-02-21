@@ -172,7 +172,18 @@ Economic thought—systematic reflection on production, distribution, exchange, 
 | Institutions | Matter |
 | Evolution | Economic change |
 | Power | Role |
-| Veblen, Commons | Founders |
+| Veblen, Commons | Founders (Old Institutionalism) |
+
+### New Institutional Economics
+
+| Concept | Content |
+|---------|---------|
+| [[Douglass North]] | Institutions as "rules of the game," transaction costs |
+| [[Why Nations Fail\|Acemoglu & Robinson]] | Inclusive vs. extractive institutions |
+| [[Mancur Olson]] | Collective action, distributional coalitions |
+| [[Violence and Social Orders\|North, Wallis & Weingast]] | Limited vs. open access orders |
+| Ostrom | Commons governance |
+| See | [[Institutional Economics Primer]] for full framework |
 
 ## Modern Economics
 
@@ -216,3 +227,11 @@ Economic thought—systematic reflection on production, distribution, exchange, 
 - [[Industrial Revolution]]
 - [[Trade Networks]]
 - [[Money History]]
+- [[Institutional Economics Primer]]
+- [[Douglass North]]
+- [[Why Nations Fail]]
+- [[Mancur Olson]]
+- [[Violence and Social Orders]]
+- [[Institutions and Progress]]
+- [[Growth Theory]]
+- [[Business Cycle Theory]]

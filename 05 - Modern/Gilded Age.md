@@ -70,7 +70,7 @@ The Gilded Age transformed the United States from an agricultural republic into 
 | Cornelius Vanderbilt | New York Central | Consolidation |
 | Jay Gould | Union Pacific, others | Speculation, manipulation |
 | James J. Hill | Great Northern | Efficiency |
-| E.H. Harriman | Union Pacific | Morgan-backed |
+| [[E.H. Harriman]] | Union Pacific | Morgan-backed |
 
 ### Pennsylvania Railroad: The First Modern Corporation
 
@@ -161,6 +161,7 @@ The railroad's problem was unprecedented: how do you coordinate thousands of wor
 |---------|-------------|
 | Origin | Scottish immigrant, telegrapher |
 | Method | Vertical integration, cost-cutting |
+| Key partner | [[Henry Clay Frick]] (coke monopoly, operations) |
 | Philosophy | "Gospel of Wealth"—give it away |
 | Sale | $480 million to Morgan (1901) |
 
@@ -446,6 +447,7 @@ The Gilded Age is Baumol's natural experiment: remove institutional constraints 
 
 ## Related Notes
 
+- [[Henry Clay Frick]]
 - [[American Business Strategy]]
 - [[American Civil War]]
 - [[Reconstruction]]

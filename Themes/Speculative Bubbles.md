@@ -29,7 +29,7 @@ The pattern across crises—from tulips to crypto. Bubbles recur because human p
 |-------|----------------|
 | Hedge | Income covers interest and principal |
 | Speculative | Income covers interest only (roll principal) |
-| Ponzi | Income covers neither (rely on price appreciation) |
+| [[Ponzi Schemes\|Ponzi]] | Income covers neither (rely on price appreciation) |
 | Transition | Stability breeds risk-taking |
 
 ## Classic Bubbles
@@ -287,3 +287,4 @@ The historical pattern suggests institutions learn from crises—slowly, imperfe
 - [[2008 Financial Crisis Deep Dive]]
 - [[Asian Financial Crisis 1997]]
 - [[Early Modern Stock Markets]]
+- [[Ponzi Schemes]]

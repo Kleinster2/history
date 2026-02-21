@@ -293,4 +293,5 @@ AI and labor is where [[Institutions and Progress|institutional]] choices will d
 - [[Creative Destruction]]
 - [[Industrial Revolution]]
 - [[Gig Economy]]
+- [[Economic Measurement]] — GDP understates AI's benefits more than its costs
 - [[Modern Index]]

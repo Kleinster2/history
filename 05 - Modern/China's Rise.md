@@ -39,7 +39,7 @@ China's economic transformation since 1978 is the most significant economic even
 
 | Achievement | Description |
 |-------------|-------------|
-| Reunification | End of warlordism, civil war |
+| Reunification | End of warlordism, civil war (see [[Whampoa Military Academy]]) |
 | Land reform | Redistributed to peasants |
 | Basic industry | Heavy industry foundation |
 | Literacy | Mass education |
@@ -452,4 +452,5 @@ China's rise is the greatest [[Institutions and Progress|institutional]] experim
 - [[Innovation Economics]]
 - [[Demographic Transition]]
 - [[State Capacity]]
+- [[Whampoa Military Academy]]
 - [[Modern Index]]

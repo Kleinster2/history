@@ -138,7 +138,7 @@ Railroads were the first big business and the catalyst for modern capitalism. Be
 | "Empire Builder" | Developed Northwest |
 | Method | Operations focus |
 
-### E.H. Harriman
+### [[E.H. Harriman]]
 
 | Period | Achievement |
 |--------|-------------|
@@ -146,6 +146,7 @@ Railroads were the first big business and the catalyst for modern capitalism. Be
 | Southern Pacific | Consolidated |
 | Operations | Engineering excellence |
 | Northern Securities | Antitrust target |
+| Legacy | [[Brown Brothers Harriman]] banking dynasty |
 
 ---
 

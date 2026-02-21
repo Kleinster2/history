@@ -403,6 +403,7 @@ After the shared prehistoric origins (tools, fire, trade, agriculture, cities), 
 |------------|------------------|
 | Money is universal | Inca had none |
 | Markets are natural | Inca operated without |
+| Agriculture is required for complexity | [[Poverty Point]] had urban-scale earthworks without farming |
 | One path to complexity | Multiple paths worked |
 | Western model is the model | China, Inca, others differed |
 
@@ -605,6 +606,7 @@ Every modern economic institution has roots extending millions of years.
 - [[Uruk]]
 - [[Sumer]]
 - [[Inca Empire]]
+- [[Poverty Point]]
 - [[Ancient Index]]
 
 ### Thematic Follow-ups
