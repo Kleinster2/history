@@ -226,11 +226,36 @@ Oil reshaped the 20th century more than any other commodity. Cheap petroleum pow
 
 | Conflict | Oil Connection |
 |----------|----------------|
-| WWII Pacific | Japan's oil need |
+| WWII Pacific | Japan seized Dutch East Indies fields |
 | Iran coup (1953) | Nationalization reversed |
 | Gulf War (1990) | Kuwait's oil |
 | Iraq War (2003) | Debated |
 | Libya (2011) | Oil-rich state |
+
+### WWII and the Dutch East Indies
+
+The [[World War II as Convergent Conflicts|Pacific War]] was the most direct oil war of the 20th century. Japan imported 80% of its oil from the United States. When the US imposed a full embargo (August 1941), Japan's strategic reserves gave it roughly 18 months. The target: the Dutch East Indies (modern Indonesia), producing ~65 million barrels/year by 1940.
+
+**Who operated the fields:**
+
+| Company | Share of DEI Output | Parent |
+|---------|-------------------|--------|
+| BPM (Bataafsche Petroleum Maatschappij) | ~75% | [[Royal Dutch Shell]] — Dutch-British, from the 1907 merger of Royal Dutch Petroleum + Shell Transport and Trading |
+| Stanvac (Standard Vacuum Oil) | Significant minority | Joint venture of Standard Oil of NJ (Exxon) + Socony (Mobil), formed 1933 |
+| Caltex | Smaller, growing | Joint venture of Standard Oil of CA (Chevron) + Texaco, entered DEI in 1930s |
+
+The fields Japan invaded were operated by American and Anglo-Dutch companies—the same Standard Oil successors that had been selling Japan its oil from California.
+
+**The scorched earth and its consequences:**
+
+| Phase | What Happened |
+|-------|---------------|
+| Jan-Mar 1942 | Japan invades DEI; Dutch destroy refineries, plug wells, wreck storage |
+| 1942-43 | Japan partially rebuilds—never exceeds ~50% of prewar output |
+| 1944-45 | US submarines sink tankers on Borneo-Japan route; oil can't reach home islands |
+| 1945 | Imperial Navy immobilized; Japan's war machine starved of fuel |
+
+Japan started the war over oil and lost the war because of oil. The fields existed, the oil was real, but the logistics of extraction, refining, and transport across submarine-infested waters proved as important as the resource itself. Control of oil means nothing without control of the supply chain.
 
 ### Petrodollar System
 
@@ -351,6 +376,13 @@ Oil is the ultimate resource-curse laboratory. Countries with identical geology�
 ## Related Notes
 
 - [[Oil Crisis]]
+- [[Exxon]] — largest Sister, Standard Oil of New Jersey
+- [[Mobil]] — marketing innovator, Standard Oil of New York
+- [[Chevron]] — found Saudi oil, Standard Oil of California
+- [[Texaco]] — the national brand, Spindletop independent
+- [[Gulf Oil]] — Mellon-backed, Kuwait concession
+- [[BP]] — Anglo-Persian, state-corporate entanglement
+- [[Royal Dutch Shell]] — the stateless multinational
 - [[Climate and Economy]]
 - [[Gilded Age]]
 - [[Antitrust History]]

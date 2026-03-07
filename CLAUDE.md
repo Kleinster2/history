@@ -39,6 +39,7 @@ From hunter-gatherers to industrial civilization, from local subsistence to glob
 - **YAML frontmatter** provides metadata (type, period, tags)
 - **Tables** present structured information
 - **Sources** listed at end of each note
+- **Full-arc ledes** — For narrative notes (companies, people, places, events), the opening paragraph should walk through all major inflection points — not just introduce the topic. A reader who reads only the first paragraph should know what happened and why it mattered. Model: the BP note's lede (founding → Churchill → Iran coup → North Sea → Deepwater Horizon). This convention does *not* apply to analytical/thematic notes (Economic Persistence, Inequality), where the lede states the argument rather than a story.
 
 ## Creating New Notes
 

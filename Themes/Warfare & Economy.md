@@ -209,6 +209,7 @@ War and economy are inextricably linked. Wars are fought for economic gain—lan
 
 ## Related Notes
 
+- [[World War II as Convergent Conflicts]] — resource competition as war's driver
 - [[Empire Building]]
 - [[State Formation]]
 - [[Taxation]]

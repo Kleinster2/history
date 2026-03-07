@@ -215,6 +215,7 @@ War is the great accelerator of institutional change. Both world wars compressed
 
 ## Related Notes
 
+- [[World War II as Convergent Conflicts]] — the separate wars that merged
 - [[Interwar Economy]]
 - [[Great Depression]]
 - [[Keynesian Revolution]]

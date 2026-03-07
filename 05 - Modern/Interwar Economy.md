@@ -372,6 +372,7 @@ The interwar is the counter-example that proves the institutional thesis. Remove
 ## Related Notes
 
 - [[World Wars Economic Impact]]
+- [[World War II as Convergent Conflicts]] — how interwar failures produced multiple independent wars
 - [[Great Depression]]
 - [[Keynesian Revolution]]
 - [[Postwar Boom]]

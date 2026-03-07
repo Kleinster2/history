@@ -50,6 +50,7 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[Gilded Age]] - Rise of industrial capitalism
 - [[Progressive Era]] - Reform and regulation
 - [[Great Depression]] - System crisis and New Deal
+- [[World War II as Convergent Conflicts]] - The separate wars that became one
 - [[American WWII Economy]] - War mobilization ends Depression
 - [[Postwar Boom]] - The Golden Age of growth
 - [[American Corporate Restructuring]] - The shareholder revolution (1980-2000)
@@ -472,6 +473,7 @@ The transformation of finance from servant to master of the economy.
 - [[Mass Production]]
 - [[Management Revolution]]
 - [[Oil Economy]]
+- [[Exxon]] / [[Mobil]] / [[Chevron]] / [[Texaco]] / [[Gulf Oil]] / [[BP]] / [[Royal Dutch Shell]] — the Seven Sisters
 - [[Digital Revolution]]
 - [[Labor and Unions]]
 - [[Stock Markets]]
