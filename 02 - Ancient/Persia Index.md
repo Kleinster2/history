@@ -127,6 +127,7 @@ The Persian empires created the ancient world's most sophisticated systems of im
 
 - Briant, P. (2002). *From Cyrus to Alexander: A History of the Persian Empire*
 - Kuhrt, A. (2007). *The Persian Empire*
+- Llewellyn-Jones, L. (2022). *The Persians: Age of the Great Kings* (Basic Books / Wildfire). Reconstructs Achaemenid history from Persian sources — Babylonian cuneiform tablets, Elamite administrative records from Persepolis, and other Near Eastern material — rather than the traditional Hellenocentric lens. Llewellyn-Jones is Chair of Ancient History at Cardiff University and member of the British Institute of Persian Studies governing council. Note: Bryn Mawr Classical Review (2023) praised it as "intriguing and engaging" but flagged that excerpts lack precise referencing, weakening the sourcing claim.
 - Wiesehöfer, J. (1996). *Ancient Persia*
 - Potts, D.T. (ed.) (2013). *Oxford Handbook of Ancient Iran*
 
