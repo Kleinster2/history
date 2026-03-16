@@ -170,7 +170,7 @@ Energy is the master constraint. Each transition—biomass to coal, coal to oil,
 | Solar | Cost competitive |
 | Wind | Cost competitive |
 | Batteries | Improving rapidly |
-| Nuclear | Contested |
+| [[Nuclear Power History|Nuclear]] | Contested — AI renaissance reopening the question |
 | Hydrogen | Developing |
 
 ### Economic Challenges
@@ -210,6 +210,7 @@ Energy transitions are the master narrative of economic history. Biomass limited
 - [[Industrial Revolution]]
 - [[Second Industrial Revolution]]
 - [[Electricity and Power Systems]]
+- [[Nuclear Power History]] — the full arc from Atoms for Peace to AI renaissance
 - [[Climate and Economy]]
 - [[Carbon Markets and Climate Finance]]
 - [[Technology History]]

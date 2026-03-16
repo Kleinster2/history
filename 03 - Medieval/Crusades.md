@@ -66,7 +66,7 @@ The Crusades were a series of religious wars launched by Western Christians to r
 
 | Development | Description |
 |-------------|-------------|
-| Italian cities | Venice, Genoa, Pisa profit |
+| Italian cities | Venice, Genoa, [[Republic of Pisa|Pisa]] profit |
 | New routes | Eastern Mediterranean |
 | Goods | Spices, silk, luxury |
 | Technology | Knowledge transfer |
@@ -97,7 +97,7 @@ The Crusades were a series of religious wars launched by Western Christians to r
 |-------|-----------|
 | Templars | Warrior monks, banking |
 | Hospitallers | Medical, military |
-| Teutonic Knights | Later German focus |
+| [[Teutonic Order]] | Later German/Baltic focus |
 
 ### Economic Role
 
@@ -175,4 +175,5 @@ The Crusades were a series of religious wars launched by Western Christians to r
 - [[Trade Networks]]
 - [[Byzantine Empire]]
 - [[Islamic Golden Age]]
+- [[Teutonic Order]] — Baltic crusades and the Ordensstaat
 - [[Medieval Index]]

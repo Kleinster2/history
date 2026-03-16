@@ -290,7 +290,7 @@ Long-distance trade is as old as civilization itself. Networks of exchange moved
 |------|-----------|
 | Venice | Eastern Mediterranean, spices |
 | Genoa | Western Mediterranean, Black Sea |
-| Pisa | Earlier period |
+| [[Republic of Pisa\|Pisa]] | Earlier period |
 | Amalfi | Earlier period |
 
 **See:** [[Venice]], [[Florence]]

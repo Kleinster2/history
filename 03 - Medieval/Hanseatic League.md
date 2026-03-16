@@ -272,14 +272,15 @@ Major trading posts (permanent establishments):
 | Decline | Privileges reduced |
 | End | Closed 1598 |
 
-### Teutonic Order
+### [[Teutonic Order]]
 
 | Relation | Details |
 |----------|---------|
-| Alliance | Mutual benefit |
+| Alliance | Mutual benefit — Order controlled territory; Hanse provided commercial network |
+| Membership | Grand Master was only non-city member of the Hanse |
 | Region | Baltic/Prussia |
-| Trade | Grain, amber |
-| Decline | Order weakened |
+| Trade | Grain, amber, timber, wax, furs |
+| Decline | Order weakened after Grunwald (1410) |
 
 ---
 

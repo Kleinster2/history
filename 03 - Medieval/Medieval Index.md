@@ -44,8 +44,10 @@ From post-Roman fragmentation to commercial revival.
 
 - [[Medieval Europe Economy]] - Manors, towns, guilds
 - [[Venice]] - Mediterranean trade empire
+- [[Republic of Pisa]] - Western Mediterranean naval and commercial power
 - [[Florence]] - Banking revolution
 - [[Hanseatic League]] - Northern trade network
+- [[Teutonic Order]] - Baltic crusade state, amber monopoly, Ordensstaat
 
 ### Mongol Empire (1206-1368)
 

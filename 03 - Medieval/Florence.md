@@ -325,6 +325,7 @@ Recent research using the 1427 Catasto shows remarkable wealth persistence—des
 - [[Medieval Europe Economy]]
 - [[Medieval Financial Innovation]]
 - [[Guild Economics]]
+- [[Republic of Pisa]] — Guelph rival; Florence conquered Pisa in 1406, gaining maritime access
 - [[Venice]]
 - [[Hanseatic League]]
 - [[Wealth Through History]]

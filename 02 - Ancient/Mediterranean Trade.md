@@ -173,7 +173,7 @@ The Mediterranean Sea—the center of ancient world commerce—connected three c
 |------|-----------|
 | Venice | Eastern trade |
 | Genoa | Western, Black Sea |
-| Pisa | Earlier prominence |
+| [[Republic of Pisa\|Pisa]] | Earlier prominence |
 | Amalfi | Early pioneer |
 
 ### Routes

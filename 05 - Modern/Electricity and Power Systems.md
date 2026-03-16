@@ -204,7 +204,7 @@ Electricity enabled mass production and modern life. Unlike steam power, which r
 | Oil | Minor for electricity (peak demand) |
 | Combined cycle | Gas turbines + steam = high efficiency |
 
-### Nuclear
+### [[Nuclear Power History|Nuclear]]
 
 | Era | Status |
 |-----|--------|
@@ -213,7 +213,7 @@ Electricity enabled mass production and modern life. Unlike steam power, which r
 | Three Mile Island (1979) | US construction stopped |
 | Chernobyl (1986) | Global setback |
 | Fukushima (2011) | Further retreat |
-| Revival? | Some new interest (SMRs) |
+| 2024+ | AI renaissance — hyperscaler PPAs reviving demand |
 
 ### Hydro
 
@@ -337,5 +337,6 @@ Electricity shows how [[Institutions and Progress|institutional]] forms emerge t
 - [[Technology Industry]]
 - [[Infrastructure]]
 - [[Natural Monopoly]]
+- [[Nuclear Power History]] — the full arc from Atoms for Peace to AI renaissance
 - [[Creative Destruction]]
 - [[Modern Index]]

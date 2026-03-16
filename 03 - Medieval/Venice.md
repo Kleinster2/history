@@ -318,6 +318,7 @@ Venice was medieval Europe's most successful commercial city-state, dominating M
 - [[Medieval Europe Economy]]
 - [[Medieval Financial Innovation]]
 - [[Guild Economics]]
+- [[Republic of Pisa]] — cooperative rival; 1180 treaty divided Adriatic (Venice) and Tyrrhenian (Pisa) spheres
 - [[Florence]]
 - [[Hanseatic League]]
 - [[Islamic Economy]]

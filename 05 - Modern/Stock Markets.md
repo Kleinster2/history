@@ -151,7 +151,7 @@ Lloyd's proved that risk itself could be a tradeable commodity—the intellectua
 |---------|-------------|
 | Retail investors | First mass participation |
 | Margin buying | 10% down, borrow 90% |
-| Investment trusts | Early mutual funds |
+| [[Scottish Investment Trusts\|Investment trusts]] | Early mutual funds (Scottish innovation, 1868+) |
 | Radio stocks | Technology mania |
 | Peak | Dow up 300% (1924-1929) |
 
@@ -427,4 +427,5 @@ Stock markets are the purest institutional mechanism for channeling ambition int
 - [[Institutions and Progress]]
 - [[Innovation Economics]]
 - [[Property Rights]]
+- [[Scottish Investment Trusts]] — how jute merchants invented pooled investment (1868+)
 - [[Modern Index]]

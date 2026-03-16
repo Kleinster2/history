@@ -134,7 +134,7 @@ The Byzantine Empire was Rome's continuation in the East—surviving the western
 | Development | Date |
 |-------------|------|
 | Venice privileges | 1082 |
-| Genoa, Pisa privileges | 12th century |
+| Genoa, [[Republic of Pisa\|Pisa]] privileges | 12th century |
 | Effect | Italians dominated Byzantine trade |
 | Result | Revenue loss, dependency |
 

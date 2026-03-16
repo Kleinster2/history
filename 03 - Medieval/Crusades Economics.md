@@ -71,7 +71,7 @@ See [[Templars]] for detail.
 |------|---------|
 | Venice | Transport contracts, Eastern trade |
 | Genoa | Shipping, trading privileges |
-| Pisa | Mediterranean expansion |
+| [[Republic of Pisa\|Pisa]] | Mediterranean expansion |
 | Amalfi | Earlier, declined |
 
 ### What They Traded
@@ -207,3 +207,5 @@ The [[Institutions and Progress|institutional]] lesson is that large-scale mobil
 - [[Venice]]
 - [[Mediterranean Trade]]
 - [[Italian Banking]]
+- [[Republic of Pisa]] — Pisan commercial gains from Crusade participation
+- [[Teutonic Order]] — the Baltic crusade as colonization enterprise

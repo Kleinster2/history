@@ -219,6 +219,7 @@ Mercantilism was institutional design for national power—sometimes enabling, s
 - [[British Empire Economy]]
 - [[Atlantic Economy]]
 - [[Dutch Golden Age]]
+- [[Livornina Laws]] — Medici mercantilism: tolerance as trade policy
 - [[Trade Networks]]
 - [[Chartered Company Model]]
 - [[Industrial Revolution]]

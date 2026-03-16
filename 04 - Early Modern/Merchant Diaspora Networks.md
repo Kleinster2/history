@@ -28,7 +28,7 @@ How did dispersed merchant communities enable long-distance trade? Merchant dias
 | Amsterdam | Northern hub, finance |
 | London | English connection |
 | Bordeaux | Wine, Atlantic trade |
-| Livorno | Mediterranean gateway |
+| [[Livornina Laws|Livorno]] | Mediterranean gateway |
 | Caribbean | Sugar, colonial trade |
 | Brazil (1630-54) | Dutch colonial trade |
 
@@ -238,6 +238,7 @@ Merchant diasporas created trust networks that substituted for formal institutio
 ## Related Notes
 
 - [[Jewish Diaspora Economy]]
+- [[Livornina Laws]] — tolerance as institutional design to attract diaspora networks
 - [[Overseas Chinese Networks]]
 - [[Radhanites]]
 - [[Trade Networks]]

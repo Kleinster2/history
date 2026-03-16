@@ -283,6 +283,8 @@ The Rothschild system worked because family trust solved the problem that no int
 ## Related Notes
 
 - [[Ancient Israel]]
+- [[Livornina Laws]] — how Medici tolerance converted diaspora vulnerability into economic advantage
+- [[Merchant Diaspora Networks]]
 - [[Templars]]
 - [[Trade Networks]]
 - [[Venice]]

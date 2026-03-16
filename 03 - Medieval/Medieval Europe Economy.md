@@ -140,7 +140,7 @@ Medieval European economy evolved from post-Roman fragmentation through gradual 
 
 | Route | Goods | Key Players |
 |-------|-------|-------------|
-| Mediterranean | Eastern luxuries | Venice, Genoa, Pisa |
+| Mediterranean | Eastern luxuries | Venice, Genoa, [[Republic of Pisa\|Pisa]] |
 | Champagne Fairs | North-South exchange | Flemish, Italian merchants |
 | Baltic/North Sea | Bulk goods | Hanseatic League |
 | Atlantic | Emerging | Portuguese, others |
@@ -164,7 +164,7 @@ Medieval European economy evolved from post-Roman fragmentation through gradual 
 | Genoa | Western Mediterranean, banking |
 | Florence | Banking, wool finishing |
 | Milan | Armor, manufactures |
-| Pisa | Mediterranean trade (earlier) |
+| [[Republic of Pisa\|Pisa]] | Mediterranean trade (earlier) |
 
 ### Hanseatic League
 
