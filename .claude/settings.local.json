@@ -1,4 +1,17 @@
 {
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python C:/Users/klein/obsidian/history/.claude/hooks/daily-log-reminder.py"
+          }
+        ]
+      }
+    ]
+  },
   "permissions": {
     "allow": [
       "Bash(git init:*)",
@@ -38,7 +51,14 @@
       "Bash(do echo \"$note\")",
       "WebFetch(domain:www.journals.uchicago.edu)",
       "WebFetch(domain:doi.org)",
-      "WebFetch(domain:www.bis.org)"
+      "WebFetch(domain:www.bis.org)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:www.quest-cdecjournal.it)",
+      "WebFetch(domain:grokipedia.com)",
+      "WebFetch(domain:esefarad.com)",
+      "WebFetch(domain:blog.oup.com)",
+      "WebFetch(domain:www.encyclopedia.com)",
+      "Read(//c/Users/klein/AppData/Local/Temp/**)"
     ]
   }
 }

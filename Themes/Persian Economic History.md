@@ -186,11 +186,13 @@ From Achaemenids to Islamic Republic. Iran's economic history spans 2,500 years 
 
 | Phase | Character |
 |-------|-----------|
-| Early | Nationalizations, chaos |
-| War (1980-88) | Iraq war devastation |
+| [[Iranian Revolution\|Revolution]] (1979) | Nationalizations, hostage crisis, oil shock |
+| [[Iran-Iraq War]] (1980–88) | Devastation, IRGC forged, strategic solitude |
 | Reconstruction | 1990s partial recovery |
-| Ahmadinejad | Populism, sanctions |
-| Sanctions era | 2010s, severe |
+| Reform era | Khatami (1997), hope then disappointment |
+| Ahmadinejad | Populism, [[Iran Sanctions\|sanctions]] |
+| [[JCPOA]] | 2015 nuclear deal → sanctions relief → Trump withdrawal |
+| Maximum pressure | 2018+, middle class crushed, [[IRGC]] strengthened |
 
 ### Sanctions Impact
 
@@ -262,3 +264,8 @@ Iran's diaspora represents both loss and potential. Millions of educated Iranian
 - [[Resource Curse]]
 - [[Central Asian Trade]]
 - [[Middle Eastern Business]]
+- [[Iranian Revolution]]
+- [[Iran-Iraq War]]
+- [[IRGC]]
+- [[JCPOA]]
+- [[Iran Sanctions]]

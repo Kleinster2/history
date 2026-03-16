@@ -1,0 +1,25 @@
+# Daily Log
+
+Reverse-chronological log of notes created and updated in the history vault.
+
+---
+
+## 2026-03-15
+
+Source: Ali Vaez interview on *The Ezra Klein Show* (March 14, 2026, 101 min). Vaez is Iran project director at the International Crisis Group, nuclear scientist, involved in JCPOA negotiations, co-author of *How Sanctions Work: Iran and the Impact of Economic Warfare*.
+
+- [[Iranian Revolution]] (`05 - Modern/`) — new note. Shah's prosperous but unfree Iran → Khomeini's consolidation via hostage crisis → hardliner feedback loop (Iranian actions empower opposing hawks, whose responses empower Iranian hardliners) → Khamenei's rise as underdog who militarized politics through IRGC → economic consequences (oil shock, nationalization, brain drain, middle class erosion from ~65% to 5-10% core support by 2020s). Two factors keep regime in place despite unpopularity: no exit ramp for elites, no organized alternative.
+- [[Iran-Iraq War]] (`05 - Modern/`) — new note. Saddam invades 1980 expecting quick win (Putin/Ukraine parallel). 8-year trench war with chemical weapons, Iran fights alone ("strategic solitude"). Forges IRGC, missile program, proxy doctrine. First war in 250 years Iran doesn't lose territory. Paradoxically consolidates revolutionary regime. Post-war reconstruction contracts → IRGC economic empire.
+- [[IRGC]] (`05 - Modern/`) — new note. Parallel army created because revolutionaries distrusted Shah's US-trained military. Name has no "Iran" — safeguards the revolution, not the nation. Khamenei made it his power base after watching Soviet reform-collapse. Economic empire: bonyads, construction, telecoms, oil, sanctions evasion. Soleimani assassination (2020) removed coordinating hand → proxy freelancing → October 7th miscalculation chain.
+- [[JCPOA]] (`05 - Modern/`) — new note. Obama's pivot from "huge pressure" to secret Burns-Sullivan talks in Oman. Deal: 97% stockpile shipped out, half centrifuges dismantled, unprecedented inspections. Breakout time 12+ months. Theory of change: 5% growth → middle class expansion 65%→85% → generational transition. "Good news: nuclear deal. Bad news: only nuclear deal." Trump withdrew May 2018. Breakout collapsed to 6 days by Jan 2025. Kushner-Witkoff negotiations lacked technical competence; Iranians were desperate for deal, came with working papers, willing to give more than Obama got.
+- [[Iran Sanctions]] (`Themes/`) — new note. 45-year escalation: Carter freezes → Clinton ILSA → Obama SWIFT cutoff → Trump maximum pressure. Sanctions paradox: weakened middle class, strengthened IRGC (smuggling networks, government contracts, hard currency control = profit from isolation). Pattern of broken promises (Algiers, hostage reciprocity, Clinton oil contract, JCPOA relief, Biden prisoner deal) reinforced hardliner narrative. Comparative cases: Cuba, North Korea, Iraq, Russia — sanctions rarely achieve regime change in authoritarian states with alternative networks.
+- Cross-reference updates: [[Persian Economic History]], [[Oil Crisis]], [[Middle Eastern Business]], [[BP]], [[Oil Economy]], [[Modern Index]] — all updated with bidirectional links to new Iran notes.
+- [[IRGC]] — expanded: added "Ring of Fire and October 7th" section. Iran's multi-front concept tested April 2023, found not ready. Soleimani's absence left no one to hold Sinwar back → Hamas struck alone → Iran pulled into consequences it didn't authorize. Full miscalculation chain table from ring of fire test through Khamenei's death.
+- [[Iranian Revolution]] — updated hardliner feedback loop table: October 7th entry expanded with ring of fire context and cross-link to IRGC section.
+- [[Iran-Iraq War]] — updated Quds Force row: Soleimani assassination → proxy freelancing → October 7th link.
+- **Geopolitical trim**: Moved current-events material (ring of fire, October 7th miscalculation chain, Kushner-Witkoff negotiations, endgame scenarios) from history vault to geopolitics vault. History notes now focus on historical/economic lens with cross-vault links to geopolitics for the 2023-2026 material.
+
+## 2026-02-23
+
+- [[Scottish Investment Trusts]] (`05 - Modern/`) — new note. How Dundee jute merchants invented the investment trust form (1868+). Covers: Foreign & Colonial Trust (1868, London), Robert Fleming and Scottish American Investment Company (1873, Dundee), Alliance Trust (1888), Baillie Gifford (1908) and Scottish Mortgage (1909). Dundee jute lords (Baxter, Cox, Caird) channeling industrial surplus into American railroads, ranching, farm mortgages. Edinburgh's persistence as financial center (never industrialized → never deindustrialized). Free banking era (1716–1845). Scots law partnership-with-legal-personality as enabler. Scottish Enlightenment connection (Smith, Hume → empirical commerce). Fleming legacy (jute clerk → JPMorgan Chase). Cross-linked from [[Stock Markets]].
+- [[Stock Markets]] — updated: added wikilink to Scottish Investment Trusts in 1920s investment trusts row and Related Notes section.

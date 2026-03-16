@@ -77,9 +77,9 @@ The oil crises of the 1970s ended the postwar boom and reshaped the global econo
 
 | Event | Date | Effect |
 |-------|------|--------|
-| Iranian Revolution | Jan 1979 | Shah falls |
+| [[Iranian Revolution]] | Jan 1979 | Shah falls |
 | Iranian oil stops | Feb 1979 | 5 million bpd gone |
-| Iran-Iraq War | Sept 1980 | More supply disruption |
+| [[Iran-Iraq War]] | Sept 1980 | More supply disruption |
 
 ### The Price Spike
 
@@ -224,7 +224,7 @@ The oil crises of the 1970s ended the postwar boom and reshaped the global econo
 | Response | Country |
 |----------|---------|
 | Strategic Petroleum Reserve | US (1975) |
-| Nuclear expansion | France, Japan |
+| [[Nuclear Power History|Nuclear expansion]] | France (Messmer Plan), Japan |
 | Fuel efficiency standards | US (CAFE 1975) |
 | Conservation campaigns | All |
 | Alternative energy | Early solar, wind |
@@ -358,5 +358,9 @@ The oil crisis revealed that the [[Postwar Boom|postwar boom]] rested on a hidde
 - [[Mass Production]]
 - [[Labor and Unions]]
 - [[Welfare State]]
+- [[Nuclear Power History]] — France's Messmer Plan was a direct response to the 1973 crisis
+- [[Iranian Revolution]] — the trigger for the second oil shock
+- [[Iran-Iraq War]] — compounded energy disruption
+- [[Iran Sanctions]] — oil as the primary sanctioned export
 - [[Institutions and Progress]]
 - [[Modern Index]]

@@ -179,6 +179,11 @@ The Modern period witnessed the most dramatic economic transformation in human h
 | [[Turkish Economic History]] | Kemalist ISI → liberalization → instability | Reform without rule of law |
 | [[Gulf Commerce]] | Pearls → petrodollars → diversification | Resource management |
 | [[Persian Economic History]] | Ancient trade → oil → sanctions | Long-duration patterns |
+| [[Iranian Revolution]] | Shah falls → theocracy → oil shock → isolation | Institutional capture |
+| [[Iran-Iraq War]] | 8-year war → IRGC → proxy doctrine | Strategic solitude |
+| [[IRGC]] | Parallel army → economic-military complex | War institutions persist |
+| [[JCPOA]] | Nuclear diplomacy → maximum pressure → collapse | Engagement vs. coercion |
+| [[Iran Sanctions]] | 45 years of economic warfare | Sanctions paradox |
 
 ### Global Processes
 

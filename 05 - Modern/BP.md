@@ -189,5 +189,7 @@ BP is the case study for **state-corporate entanglement**. When Churchill bought
 - [[Decolonization]] — the nationalization wave
 - [[Imperialism]] — BP as instrument of empire
 - [[Cold War]] — the 1953 coup
+- [[Iranian Revolution]] — the 1953 coup's blowback, 26 years later
+- [[Persian Economic History]] — the long arc from D'Arcy concession through revolution
 - [[Climate and Economy]]
 - [[Modern Index]]

@@ -395,6 +395,9 @@ Oil is the ultimate resource-curse laboratory. Countries with identical geology�
 - [[Resource Curse]]
 - [[Property Rights]]
 - [[Middle Eastern Business]]
+- [[Iranian Revolution]] — triggered the second oil shock
+- [[Iran-Iraq War]] — oil facilities as military targets
+- [[Iran Sanctions]] — oil as the primary sanctioned commodity
 - [[Russian Business]]
 - [[Foundational Firms]]
 - [[Modern Index]]

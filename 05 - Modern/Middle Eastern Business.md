@@ -149,11 +149,12 @@ Middle Eastern business developed at the intersection of bazaar traditions, oil 
 
 | Feature | Character |
 |---------|-----------|
-| Sanctions | Major constraint |
-| Bonyads | Revolutionary foundations |
-| Private sector | Suppressed but exists |
-| Bazaaris | Traditional merchants |
-| IRGC | Military-economic complex |
+| [[Iran Sanctions\|Sanctions]] | Major constraint; 45+ years of escalating economic warfare |
+| Bonyads | Revolutionary foundations seized private assets post-1979 |
+| Private sector | Suppressed — squeezed by both sanctions and IRGC competition |
+| Bazaaris | Traditional merchants, diminished |
+| [[IRGC]] | Military-economic complex controlling construction, telecoms, oil, smuggling |
+| See also | [[Iranian Revolution]], [[JCPOA]] |
 
 ---
 
@@ -292,5 +293,8 @@ Middle Eastern business is bifurcated by oil: in the Gulf, the [[Resource Curse|
 - [[State Capacity]]
 - [[Trade Networks]]
 - [[Entrepreneurship]]
+- [[IRGC]] — Iran's military-economic complex in detail
+- [[Iran Sanctions]] — how economic warfare reshaped Iranian business
+- [[Iranian Revolution]] — origins of the bonyad system
 - [[Institutions and Progress]]
 - [[Modern Index]]
