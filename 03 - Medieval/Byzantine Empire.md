@@ -134,7 +134,7 @@ The Byzantine Empire was Rome's continuation in the East—surviving the western
 | Development | Date |
 |-------------|------|
 | Venice privileges | 1082 |
-| Genoa, [[Republic of Pisa\|Pisa]] privileges | 12th century |
+| [[Republic of Genoa\|Genoa]], [[Republic of Pisa\|Pisa]] privileges | 12th century |
 | Effect | Italians dominated Byzantine trade |
 | Result | Revenue loss, dependency |
 
@@ -319,6 +319,11 @@ The Byzantine Empire was Rome's continuation in the East—surviving the western
 
 - [[Roman Economy]]
 - [[Venice]]
+- [[Republic of Genoa]] — Treaty of Nymphaeum (1261) gave Genoa Black Sea access; Galata colony
+- [[Amalfi]] — early trading quarter in Constantinople; Byzantine dependency
 - [[Islamic Economy]]
 - [[Trade Networks]]
+- [[Levant Trade]] — Italian merchant access through Byzantine territory
+- [[Spice Trade]] — Constantinople as transit point for eastern spices
+- [[Grain Trade]] — Byzantine dependence on Egyptian and Black Sea grain
 - [[Medieval Index]]

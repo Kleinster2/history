@@ -172,15 +172,15 @@ The Mediterranean Sea—the center of ancient world commerce—connected three c
 | City | Specialty |
 |------|-----------|
 | Venice | Eastern trade |
-| Genoa | Western, Black Sea |
+| [[Republic of Genoa\|Genoa]] | Western, Black Sea |
 | [[Republic of Pisa\|Pisa]] | Earlier prominence |
-| Amalfi | Early pioneer |
+| [[Amalfi]] | Early pioneer |
 
 ### Routes
 
 | Connection | Goods |
 |------------|-------|
-| Levant | Spices, silk |
+| [[Levant Trade|Levant]] | [[Spice Trade|Spices]], silk |
 | Egypt | Eastern goods |
 | North Africa | Gold, slaves |
 | Northern Europe | Wool, metals |
@@ -196,8 +196,13 @@ The Mediterranean Sea—the center of ancient world commerce—connected three c
 - [[Roman Economy]]
 - [[Bronze Age Collapse]]
 - [[Trade Networks]]
+- [[Republic of Genoa]] — western Mediterranean and Black Sea trade
+- [[Amalfi]] — earliest Italian maritime republic; pioneer of Islamic trade
 - [[Venetian Trade]]
 - [[Phoenicians]]
 - [[Maritime Trade]]
+- [[Spice Trade]] — the luxury commerce that drove Mediterranean exchange
+- [[Levant Trade]] — the eastern Mediterranean terminus for Asian goods
+- [[Grain Trade]] — the bulk commodity (Egypt, Sicily, Black Sea) that fed Mediterranean cities
 - [[Globalization]]
 - [[Indian Ocean Trade]]

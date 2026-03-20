@@ -285,3 +285,4 @@ The institutional challenge is distinguishing fraud from speculation in real tim
 - [[Baldomera Larra]]
 - [[Bernie Madoff]]
 - [[Allen Stanford]]
+- [[Lebanese Banking Crisis]] — sovereign Ponzi finance: BdL paid above-market rates from new deposit inflows

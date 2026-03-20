@@ -76,7 +76,7 @@ Each failed reciprocity made the next diplomatic opening more fragile:
 | Algiers Accord (1981) | US: non-interference, return frozen assets | Neither fully delivered |
 | Lebanon hostages (1990s) | Iran helped release US hostages | Bush Sr. didn't reciprocate |
 | Clinton era | Iran offered oil contract to US companies | Clinton imposed sanctions instead (ILSA) |
-| Post-9/11 cooperation | Iran provided intelligence, Soleimani prepared Afghanistan for US jets | Bush named Iran in "Axis of Evil" (2002) |
+| Post-9/11 cooperation | Iran provided intelligence, [[Qasem Soleimani\|Soleimani]] prepared Afghanistan for US jets | Bush named Iran in "Axis of Evil" (2002) |
 | JCPOA (2015) | Nuclear restrictions for sanctions relief | Obama didn't fully deliver relief; Trump withdrew entirely |
 | Biden prisoner deal | $6B of Iranian assets unfrozen (South Korea → Doha) | Biden froze access after October 7th, though money was unrelated to proxies |
 
@@ -156,6 +156,10 @@ The broader lesson connects to the [[Institutions and Progress|institutional]] f
 ## Related Notes
 
 - [[Iranian Revolution]] — sanctions began here
+- [[1953 Iranian Coup]] — the sovereignty wound underlying Iran's posture
+- [[White Revolution]] — the modernization sanctions eventually undid
+- [[OPEC]] — Iran as founding member; oil as the primary sanctioned commodity
+- [[Petrodollar System]] — the dollar system weaponized against Iran
 - [[Iran-Iraq War]] — isolation deepened
 - [[IRGC]] — the institution sanctions strengthened
 - [[JCPOA]] — the diplomatic alternative
@@ -163,3 +167,7 @@ The broader lesson connects to the [[Institutions and Progress|institutional]] f
 - [[Persian Economic History]] — the long arc
 - [[Middle Eastern Business]] — bonyads and distorted economy
 - [[Institutions and Progress]] — how isolation shapes institutional development
+- [[Mohammad Mossadegh]] — the original resource sovereignty confrontation
+- [[Shah Mohammad Reza Pahlavi]] — the Shah whose fall triggered the first sanctions
+- [[Ayatollah Khomeini]] — built the autarkic system sanctions targeted
+- [[Qasem Soleimani]] — proxy activities that triggered terrorism-related sanctions

@@ -281,7 +281,7 @@ Alfred Chandler called it the "visible hand"—the moment when managerial coordi
 
 ### Why It Matters
 
-Rockefeller proved that scale itself is a weapon—that the biggest firm can squeeze out all others through efficiency, buying power, and control of distribution. This insight drives every industry consolidation, every platform monopoly. And the antitrust response it provoked (1911 breakup) created the regulatory framework still used against Google and Meta.
+[[John D. Rockefeller]] proved that scale itself is a weapon—that the biggest firm can squeeze out all others through efficiency, buying power, and control of distribution. This insight drives every industry consolidation, every platform monopoly. And the antitrust response it provoked (1911 breakup) created the regulatory framework still used against Google and Meta.
 
 ---
 

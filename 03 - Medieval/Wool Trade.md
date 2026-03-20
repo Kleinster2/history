@@ -224,4 +224,6 @@ The later enclosure pressures reveal unintended consequences. Wool's profitabili
 - [[Medieval Financial Innovation]]
 - [[Champagne Fairs]]
 - [[Enclosure]]
+- [[Woolen Cloth Trade]] — the full continental supply chain from English wool to Florentine finished cloth
+- [[Grain Trade]] — the bulk commodity trade that enabled wool-weaving cities to grow
 - [[Flemish Cloth Industry]]

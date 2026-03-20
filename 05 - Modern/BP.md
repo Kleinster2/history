@@ -9,7 +9,7 @@ tags: [oil, seven-sisters, energy, britain, iran, geopolitics, state-corporate]
 
 # BP
 
-British Petroleum — born as the Anglo-Persian Oil Company — is the most politically entangled of the [[Oil Economy#The Seven Sisters Era (1920s-1970s)|Seven Sisters]]. No other oil company's history so directly shaped the geopolitics of the 20th century: Churchill's decision to convert the Royal Navy from coal to oil (1911-14) made the British government BP's majority shareholder. BP's Iranian concession provoked the 1953 CIA-MI6 coup that overthrew Mossadegh. BP's North Sea discoveries rescued Britain in the 1970s. And BP's Deepwater Horizon disaster (2010) became the largest accidental marine oil spill in history. Through it all, BP has been the company where state interest and corporate interest are most impossible to separate.
+British Petroleum — born as the Anglo-Persian Oil Company — is the most politically entangled of the [[Oil Economy#The Seven Sisters Era (1920s-1970s)|Seven Sisters]]. No other oil company's history so directly shaped the geopolitics of the 20th century: Churchill's decision to convert the Royal Navy from coal to oil (1911-14) made the British government BP's majority shareholder. BP's Iranian concession provoked the 1953 CIA-MI6 coup that overthrew [[Mohammad Mossadegh]]. BP's North Sea discoveries rescued Britain in the 1970s. And BP's Deepwater Horizon disaster (2010) became the largest accidental marine oil spill in history. Through it all, BP has been the company where state interest and corporate interest are most impossible to separate.
 
 ## Overview
 
@@ -67,13 +67,13 @@ This was the moment oil became a strategic commodity. Churchill's decision meant
 
 The profit imbalance was extreme. When [[Chevron|Aramco]] offered Saudi Arabia 50-50 in 1950, Iran demanded the same. Anglo-Iranian refused.
 
-### The 1953 Coup
+### The [[1953 Iranian Coup]]
 
 | Date | Event |
 |------|-------|
-| 1951 | Prime Minister Mohammad Mossadegh nationalizes Anglo-Iranian's operations |
+| 1951 | Prime Minister [[Mohammad Mossadegh]] nationalizes Anglo-Iranian's operations |
 | 1951-53 | Britain organizes global boycott of Iranian oil; Iran's economy suffers |
-| August 1953 | CIA (Operation Ajax) + MI6 (Operation Boot) overthrow Mossadegh; Shah restored |
+| August 1953 | CIA (Operation Ajax) + MI6 (Operation Boot) overthrow Mossadegh; [[Shah Mohammad Reza Pahlavi|Shah]] restored |
 | 1954 | Oil consortium formed — BP gets 40% (down from 100%), other majors share the rest |
 | Legacy | Iranian resentment simmered for 26 years — fueling the 1979 Islamic Revolution |
 
@@ -189,7 +189,12 @@ BP is the case study for **state-corporate entanglement**. When Churchill bought
 - [[Decolonization]] — the nationalization wave
 - [[Imperialism]] — BP as instrument of empire
 - [[Cold War]] — the 1953 coup
+- [[1953 Iranian Coup]] — the full coup story
+- [[OPEC]] — the nationalization wave that ended the Seven Sisters era
 - [[Iranian Revolution]] — the 1953 coup's blowback, 26 years later
+- [[White Revolution]] — the Shah's modernization between coup and revolution
 - [[Persian Economic History]] — the long arc from D'Arcy concession through revolution
 - [[Climate and Economy]]
+- [[Mohammad Mossadegh]] — the PM who nationalized Anglo-Iranian
+- [[Shah Mohammad Reza Pahlavi]] — restored by the coup; ruled for 26 more years
 - [[Modern Index]]

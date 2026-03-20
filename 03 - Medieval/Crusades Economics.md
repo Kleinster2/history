@@ -70,9 +70,9 @@ See [[Templars]] for detail.
 | City | Benefit |
 |------|---------|
 | Venice | Transport contracts, Eastern trade |
-| Genoa | Shipping, trading privileges |
+| [[Republic of Genoa\|Genoa]] | Shipping, trading privileges |
 | [[Republic of Pisa\|Pisa]] | Mediterranean expansion |
-| Amalfi | Earlier, declined |
+| [[Amalfi]] | Earlier, declined |
 
 ### What They Traded
 
@@ -148,7 +148,7 @@ See [[Templars]] for detail.
 | Development | Legacy |
 |-------------|--------|
 | Mediterranean integration | Permanent |
-| Eastern contacts | Spice trade continues |
+| Eastern contacts | [[Spice Trade]] continues |
 | Italian primacy | Until Atlantic shift |
 | Luxury demand | European consumption |
 
@@ -208,4 +208,8 @@ The [[Institutions and Progress|institutional]] lesson is that large-scale mobil
 - [[Mediterranean Trade]]
 - [[Italian Banking]]
 - [[Republic of Pisa]] — Pisan commercial gains from Crusade participation
+- [[Republic of Genoa]] — Genoese commercial gains from Crusade participation
+- [[Amalfi]] — pre-Crusade Italian trade pioneer; Hospitaller connection
 - [[Teutonic Order]] — the Baltic crusade as colonization enterprise
+- [[Levant Trade]] — the trade infrastructure the Crusades created
+- [[Spice Trade]] — the luxury commerce that flowed through Crusader-era ports

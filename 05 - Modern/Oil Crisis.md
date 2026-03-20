@@ -43,7 +43,7 @@ The oil crises of the 1970s ended the postwar boom and reshaped the global econo
 | OPEC embargo | Oct 17 | Oil weapon deployed |
 | Production cuts | Oct-Dec | 5% monthly reductions |
 
-### OPEC's Power
+### [[OPEC]]'s Power
 
 | Factor | Description |
 |--------|-------------|
@@ -182,7 +182,7 @@ The oil crises of the 1970s ended the postwar boom and reshaped the global econo
 | Petrodollar recycling | OPEC surplus lent to LDCs |
 | Winners | Oil exporters (Mexico, Nigeria, Venezuela) |
 
-### The Petrodollar System
+### The [[Petrodollar System]]
 
 | Flow | Description |
 |------|-------------|
@@ -359,6 +359,10 @@ The oil crisis revealed that the [[Postwar Boom|postwar boom]] rested on a hidde
 - [[Labor and Unions]]
 - [[Welfare State]]
 - [[Nuclear Power History]] — France's Messmer Plan was a direct response to the 1973 crisis
+- [[OPEC]] — the cartel that weaponized oil
+- [[Petrodollar System]] — how OPEC surpluses reshaped global finance
+- [[1953 Iranian Coup]] — the sovereignty dispute behind Iranian oil politics
+- [[White Revolution]] — the Shah's oil-fueled modernization before the fall
 - [[Iranian Revolution]] — the trigger for the second oil shock
 - [[Iran-Iraq War]] — compounded energy disruption
 - [[Iran Sanctions]] — oil as the primary sanctioned export

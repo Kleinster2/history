@@ -151,27 +151,27 @@ From Achaemenids to Islamic Republic. Iran's economic history spans 2,500 years 
 | Oil | British dominated |
 | Removal | British/Soviet depose (1941) |
 
-### Mossadegh and Nationalization
+### [[Mohammad Mossadegh|Mossadegh]] and Nationalization
 
 | Event | Significance |
 |-------|--------------|
 | 1951 | Oil nationalization |
 | Crisis | British boycott |
-| 1953 coup | CIA/MI6 restore Shah |
+| [[1953 Iranian Coup\|1953 coup]] | CIA/MI6 restore Shah |
 | Result | Consortium replaces APOC |
 | Legacy | Anti-Western sentiment |
 
-### Mohammad Reza Shah (1941-1979)
+### [[Shah Mohammad Reza Pahlavi|Mohammad Reza Shah]] (1941-1979)
 
 | Phase | Character |
 |-------|-----------|
 | Early | Weak, under foreign influence |
-| 1960s+ | Oil revenue, White Revolution |
-| 1970s | Oil boom, rapid development |
+| 1960s+ | Oil revenue, [[White Revolution]] |
+| 1970s | Oil boom via [[OPEC]] price revolution |
 | Problems | Inequality, repression, inflation |
 | End | 1979 revolution |
 
-### White Revolution (1963)
+### [[White Revolution]] (1963)
 
 | Reform | Effect |
 |--------|--------|
@@ -264,8 +264,16 @@ Iran's diaspora represents both loss and potential. Millions of educated Iranian
 - [[Resource Curse]]
 - [[Central Asian Trade]]
 - [[Middle Eastern Business]]
+- [[1953 Iranian Coup]] — the coup that reshaped sovereignty and fueled revolution
+- [[White Revolution]] — authoritarian modernization and its dislocations
+- [[OPEC]] — Iran as founding member, oil price revolution
+- [[Petrodollar System]] — how oil surpluses reshaped global finance
 - [[Iranian Revolution]]
 - [[Iran-Iraq War]]
 - [[IRGC]]
 - [[JCPOA]]
 - [[Iran Sanctions]]
+- [[Mohammad Mossadegh]] — the nationalization crisis
+- [[Shah Mohammad Reza Pahlavi]] — oil-funded modernization and its failure
+- [[Ayatollah Khomeini]] — revolutionary economics
+- [[Qasem Soleimani]] — proxy network as economic infrastructure

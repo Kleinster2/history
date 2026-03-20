@@ -149,7 +149,7 @@ Medieval Italian marine insurance → spread to London → [[Stock Markets|Lloyd
 | Bardi | Florence | 1300s | Sovereign lending (failed) |
 | Peruzzi | Florence | 1300s | Multi-branch (failed) |
 | [[Florence|Medici]] | Florence | 1397-1494 | Decentralized, diversified |
-| Banco di San Giorgio | Genoa | 1407-1805 | Public bank, state debt |
+| Banco di San Giorgio | [[Republic of Genoa\|Genoa]] | 1407-1805 | Public bank, state debt |
 | Banco di Rialto | Venice | 1587 | Deposit bank, transfer |
 
 ### What Banks Did
@@ -259,6 +259,7 @@ Medieval finance was built on a contradiction: religious prohibition of interest
 - [[Ancient Credit]]
 - [[Florence]]
 - [[Venice]]
+- [[Republic of Genoa]] — Casa di San Giorgio, marine insurance origins, exchange banking
 - [[Jewish Diaspora Economy]]
 - [[Templars]]
 - [[Islamic Economy]]

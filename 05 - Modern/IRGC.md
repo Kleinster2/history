@@ -9,7 +9,7 @@ tags: [iran, military, economy, geopolitics, institutions]
 
 # IRGC
 
-The Islamic Revolutionary Guard Corps was created because the revolutionaries who seized power in 1979 did not trust the Shah's US-trained army — its name contains no reference to "Iran" because it exists to safeguard the *revolution*, not the nation. Forged in the crucible of the [[Iran-Iraq War]]'s eight-year trench warfare, where chemical weapons and human wave attacks produced "hard men with very fixed views," the IRGC evolved from a parallel militia into the dominant institution of the Islamic Republic. Ayatollah Khamenei — who lacked his predecessor's religious credentials — made the IRGC his power base, reversing Khomeini's ban on military involvement in politics and militarizing the system. By the 2020s, the IRGC controlled a vast economic empire through bonyads (revolutionary foundations), construction conglomerates, telecoms, and oil contracts, while its Quds Force — under Qasem Soleimani until his assassination in 2020 — ran proxy networks from Lebanon to Yemen. Maximum pressure sanctions strengthened the IRGC at the expense of Iran's middle class and moderates, concentrating economic power in the one institution best positioned to evade them.
+The Islamic Revolutionary Guard Corps was created because the revolutionaries who seized power in 1979 did not trust the Shah's US-trained army — its name contains no reference to "Iran" because it exists to safeguard the *revolution*, not the nation. Forged in the crucible of the [[Iran-Iraq War]]'s eight-year trench warfare, where chemical weapons and human wave attacks produced "hard men with very fixed views," the IRGC evolved from a parallel militia into the dominant institution of the Islamic Republic. Ayatollah Khamenei — who lacked his predecessor's religious credentials — made the IRGC his power base, reversing Khomeini's ban on military involvement in politics and militarizing the system. By the 2020s, the IRGC controlled a vast economic empire through bonyads (revolutionary foundations), construction conglomerates, telecoms, and oil contracts, while its Quds Force — under [[Qasem Soleimani]] until his assassination in 2020 — ran proxy networks from Lebanon to Yemen. Maximum pressure sanctions strengthened the IRGC at the expense of Iran's middle class and moderates, concentrating economic power in the one institution best positioned to evade them.
 
 ## Overview
 
@@ -49,7 +49,7 @@ The [[Iran-Iraq War]] transformed the IRGC from a militia into a hardened milita
 
 ## Khamenei and the IRGC
 
-When Khamenei became supreme leader in 1989, he lacked Khomeini's religious authority and popular legitimacy. He needed an alternative power base.
+When Khamenei became supreme leader in 1989, he lacked [[Ayatollah Khomeini|Khomeini]]'s religious authority and popular legitimacy. He needed an alternative power base.
 
 | Khomeini's policy | Khamenei's reversal |
 |-------------------|---------------------|
@@ -61,7 +61,7 @@ Khamenei's decision was reinforced by watching the Soviet Union collapse through
 
 ## The Proxy Network
 
-The IRGC's Quds Force, under Soleimani, built a regional network of non-state actors — what Iran called the "axis of resistance":
+The IRGC's Quds Force, under [[Qasem Soleimani|Soleimani]], built a regional network of non-state actors — what Iran called the "axis of resistance":
 
 | Proxy | Location | Function |
 |-------|----------|----------|
@@ -77,11 +77,11 @@ Iran adopted the Palestinian cause not primarily from ideology but as a geopolit
 
 ### Soleimani's Assassination (January 2020)
 
-Trump's killing of Soleimani removed the one person who had personal relationships with proxy leaders and the authority to direct them.
+Trump's killing of [[Qasem Soleimani|Soleimani]] removed the one person who had personal relationships with proxy leaders and the authority to direct them.
 
 ### Soleimani's Assassination and the Proxy Coordination Gap
 
-Without Soleimani, the proxy network lost its coordinating hand. No successor had the personal relationships or authority to direct timing across the "axis of resistance." The consequences — including the chain of miscalculations from October 7th through the 2026 war — belong to the geopolitical present rather than economic history.
+Without [[Qasem Soleimani|Soleimani]], the proxy network lost its coordinating hand. No successor had the personal relationships or authority to direct timing across the "axis of resistance." The consequences — including the chain of miscalculations from October 7th through the 2026 war — belong to the geopolitical present rather than economic history.
 
 ### Cross-vault
 - [Geopolitics: IRGC](obsidian://open?vault=geopolitics&file=Actors%2FIRGC) — ring of fire concept, leadership decapitation, 2026 war role
@@ -135,3 +135,6 @@ The economic lesson is that [[Iran Sanctions|sanctions]] can have precisely the 
 - [[Middle Eastern Business]] — IRGC as economic actor
 - [[Persian Economic History]] — the long arc
 - [[Oil Economy]] — resource the IRGC controls
+- [[Qasem Soleimani]] — Quds Force commander whose assassination exposed the network's dependence on personal authority
+- [[Ayatollah Khomeini]] — created the IRGC; banned it from politics
+- [[Shah Mohammad Reza Pahlavi]] — the ruler whose US-trained army the IRGC was created to replace

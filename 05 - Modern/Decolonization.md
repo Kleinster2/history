@@ -245,3 +245,4 @@ Decolonization revealed the cruelest legacy of [[Imperialism|empire]]: colonial 
 - [[Property Rights]]
 - [[British Empire Economy]]
 - [[Modern Index]]
+- [[Walid Khalidi]] — documented the economic and social infrastructure destroyed by Palestinian displacement in 1948

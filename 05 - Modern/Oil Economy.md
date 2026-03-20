@@ -114,6 +114,7 @@ Oil reshaped the 20th century more than any other commodity. Cheap petroleum pow
 | Motive | Counter price cuts by majors |
 | Initially | Limited power |
 | Growth | 13 members eventually |
+| Full history | [[OPEC]] |
 
 ### Nationalization Wave
 
@@ -227,7 +228,7 @@ Oil reshaped the 20th century more than any other commodity. Cheap petroleum pow
 | Conflict | Oil Connection |
 |----------|----------------|
 | WWII Pacific | Japan seized Dutch East Indies fields |
-| Iran coup (1953) | Nationalization reversed |
+| [[1953 Iranian Coup|Iran coup (1953)]] | Nationalization reversed |
 | Gulf War (1990) | Kuwait's oil |
 | Iraq War (2003) | Debated |
 | Libya (2011) | Oil-rich state |
@@ -257,7 +258,7 @@ The fields Japan invaded were operated by American and Anglo-Dutch companies—t
 
 Japan started the war over oil and lost the war because of oil. The fields existed, the oil was real, but the logistics of extraction, refining, and transport across submarine-infested waters proved as important as the resource itself. Control of oil means nothing without control of the supply chain.
 
-### Petrodollar System
+### [[Petrodollar System]]
 
 | Feature | Description |
 |---------|-------------|
@@ -395,9 +396,15 @@ Oil is the ultimate resource-curse laboratory. Countries with identical geology�
 - [[Resource Curse]]
 - [[Property Rights]]
 - [[Middle Eastern Business]]
+- [[OPEC]] — the cartel that shifted oil from price-takers to price-makers
+- [[Petrodollar System]] — how oil surpluses became financial architecture
+- [[1953 Iranian Coup]] — resource sovereignty vs. international capital
+- [[White Revolution]] — oil-funded authoritarian modernization
 - [[Iranian Revolution]] — triggered the second oil shock
 - [[Iran-Iraq War]] — oil facilities as military targets
 - [[Iran Sanctions]] — oil as the primary sanctioned commodity
 - [[Russian Business]]
 - [[Foundational Firms]]
+- [[Mohammad Mossadegh]] — nationalization crisis as resource sovereignty test case
+- [[Shah Mohammad Reza Pahlavi]] — OPEC price hawk; petro-state modernizer
 - [[Modern Index]]

@@ -69,7 +69,7 @@ Before the corporation, medieval merchants developed sophisticated partnership f
 | Purpose | Eastern trade |
 | Scale | Could fund major expeditions |
 
-### Genoese Societas
+### [[Republic of Genoa|Genoese]] Societas
 
 | Feature | Character |
 |---------|-----------|

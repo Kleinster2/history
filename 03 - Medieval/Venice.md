@@ -53,7 +53,7 @@ Venice was medieval Europe's most successful commercial city-state, dominating M
 
 | Goods | From |
 |-------|------|
-| Spices | India via Levant |
+| Spices | India via [[Levant Trade|Levant]] |
 | Silk | China, Byzantium |
 | Cotton | Egypt, Levant |
 | Dyes | Various East |
@@ -73,7 +73,7 @@ Venice was medieval Europe's most successful commercial city-state, dominating M
 
 | Route | Significance |
 |-------|--------------|
-| Levant | Spice trade terminus |
+| [[Levant Trade|Levant]] | [[Spice Trade|Spice trade]] terminus |
 | Constantinople | Byzantine trade |
 | Alexandria | Egyptian connection |
 | Black Sea | Before Ottoman |
@@ -254,7 +254,7 @@ Venice was medieval Europe's most successful commercial city-state, dominating M
 
 | Competitor | Challenge |
 |------------|-----------|
-| Genoa | Mediterranean rival |
+| [[Republic of Genoa\|Genoa]] | Mediterranean rival |
 | Ottoman Empire | Lost territory |
 | Portugal | Cape route to India |
 | Atlantic powers | New trade routes |
@@ -272,7 +272,7 @@ Venice was medieval Europe's most successful commercial city-state, dominating M
 
 | Change | Effect on Venice |
 |--------|------------------|
-| Cape route (1498) | Spice trade bypassed |
+| Cape route (1498) | [[Spice Trade]] bypassed |
 | American trade | Atlantic powers benefit |
 | New centers | Lisbon, Amsterdam, London |
 | Relative decline | Still wealthy, less dominant |
@@ -319,8 +319,12 @@ Venice was medieval Europe's most successful commercial city-state, dominating M
 - [[Medieval Financial Innovation]]
 - [[Guild Economics]]
 - [[Republic of Pisa]] — cooperative rival; 1180 treaty divided Adriatic (Venice) and Tyrrhenian (Pisa) spheres
+- [[Republic of Genoa]] — Mediterranean rival; four wars culminating in War of Chioggia (1378-81)
 - [[Florence]]
 - [[Hanseatic League]]
 - [[Islamic Economy]]
 - [[Jewish Diaspora Economy]]
+- [[Spice Trade]] — Venice as Europe's spice gateway
+- [[Levant Trade]] — the chokepoint that made Venice rich
+- [[Grain Trade]] — grain supply anxiety drove terraferma expansion
 - [[Great Divergence]]

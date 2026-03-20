@@ -84,7 +84,7 @@ The Order controlled the amber-rich Samland Peninsula (modern Kaliningrad coast)
 | Demand driver | Rosary beads — a religious commodity funding a religious state |
 | Share of exports | **42-58% of Teutonic exports to Flanders** (1390-1430) |
 
-### Grain Trade
+### [[Grain Trade]]
 
 | Aspect | Details |
 |--------|---------|
@@ -187,7 +187,7 @@ The Polish-Lithuanian alliance under King Władysław II Jagiełło and Grand Du
 | 1525 | Grand Master Albert of Brandenburg secularizes the state, converts to Protestantism; becomes Duke of Prussia under Polish suzerainty |
 | 1809 | Napoleon dissolves the Order, confiscates remaining territories |
 
-The 1466 peace was the economic death blow: losing Danzig meant losing the Vistula grain trade. Losing Marienburg meant losing the administrative center. What remained was a rump state with debts exceeding 200,000 gulden and only 55 knights.
+The 1466 peace was the economic death blow: losing Danzig meant losing the Vistula [[Grain Trade|grain trade]]. Losing Marienburg meant losing the administrative center. What remained was a rump state with debts exceeding 200,000 gulden and only 55 knights.
 
 ---
 
@@ -240,4 +240,5 @@ The amber monopoly is a microcosm: a religious order enforcing a death-penalty m
 - [[Hanseatic Economy]] — Baltic trade system the Order fed into
 - [[Hanseatic Business Model]] — comparative institutional analysis
 - [[Trade Networks]] — Baltic routes in broader context
+- [[Grain Trade]] — the Order's volume export business through Danzig
 - [[Medieval Index]]

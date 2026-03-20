@@ -133,9 +133,17 @@ The economic insight is about the relationship between trade, engagement, and in
 ## Related Notes
 
 - [[Iranian Revolution]] — the root cause
+- [[1953 Iranian Coup]] — the sovereignty wound at the root of distrust
+- [[White Revolution]] — the modernization project the revolution destroyed
+- [[OPEC]] — Iran's oil leverage as founding member
+- [[Petrodollar System]] — the dollar architecture weaponized via sanctions
 - [[Iran-Iraq War]] — origin of the nuclear program
 - [[IRGC]] — strengthened by the deal's collapse
 - [[Iran Sanctions]] — the economic warfare alternative
 - [[Oil Economy]] — Iran's oil leverage
 - [[Persian Economic History]] — the long arc
 - [[Nuclear Power History]] — civilian nuclear technology context
+- [[Mohammad Mossadegh]] — the original oil sovereignty crisis that set the pattern
+- [[Shah Mohammad Reza Pahlavi]] — nuclear program he started; revolution that ended it
+- [[Ayatollah Khomeini]] — built the system the JCPOA attempted to engage
+- [[Qasem Soleimani]] — proxy network the deal did not address

@@ -18,7 +18,7 @@ Pisa was the first Italian maritime republic to dominate the western Mediterrane
 | Peak | 11th-12th centuries |
 | Population (peak) | ~25,000-38,000 (13th c. estimates vary) |
 | Government | Commune (consuls, then podesta) |
-| Specialty | Western Mediterranean trade, leather, spice trade |
+| Specialty | Western Mediterranean trade, leather, [[Spice Trade|spice trade]] |
 | End | 1406 (Florentine conquest) |
 | Key port | Porto Pisano (on the coast, ~10 km from the city) |
 
@@ -71,7 +71,7 @@ The sack of Mahdia was Pisa's most significant pre-Crusade campaign and is consi
 |--------|---------|
 | Target | Mahdia, capital of the Zirid dynasty (modern Tunisia) |
 | Cause | Zirid ruler Tamim ibn Muizz's piracy against Italian shipping |
-| Force | ~100 ships (Pisa + Genoa, with Amalfi and Roman contingents) |
+| Force | ~100 ships (Pisa + [[Republic of Genoa|Genoa]], with [[Amalfi]] and Roman contingents) |
 | Leadership | Hugh of Pisa; papal troops under banner of St. Peter |
 | Papal sponsor | Victor III; participants received remission of sins |
 | Backing | Matilda of Tuscany |
@@ -92,13 +92,13 @@ The sack of Mahdia was Pisa's most significant pre-Crusade campaign and is consi
 
 ### Sack of Amalfi (1135, 1137)
 
-Pisa sacked [[#Relations with Other Maritime Republics|Amalfi]] in 1135 and again in 1137, effectively ending Amalfi's era as a major maritime power. This removed Pisa's southern Italian rival and shifted Mediterranean trade dominance northward.
+Pisa sacked [[Amalfi]] in 1135 and again in 1137, effectively ending Amalfi's era as a major maritime power. This removed Pisa's southern Italian rival and shifted Mediterranean trade dominance northward.
 
 ### Battle of Meloria (1284)
 
 The decisive naval battle that ended Pisa as a maritime power. Fought August 5-6, 1284, near the islet of Meloria in the Ligurian Sea, ~10 km off the coast near modern Livorno.
 
-| Aspect | Pisa | Genoa |
+| Aspect | Pisa | [[Republic of Genoa\|Genoa]] |
 |--------|------|-------|
 | Commander | Podesta Albertino Morosini (Venetian) | Admirals Oberto Doria and Benedetto Zaccaria |
 | Fleet size | 72 galleys | ~90 galleys (58 in first line + 8 light galleys + reserve) |
@@ -223,7 +223,7 @@ The post-Meloria crisis exemplified this dysfunction. Count Ugolino della Gherar
 
 | Commodity | Direction | Notes |
 |-----------|-----------|-------|
-| Spices | East → Pisa → Europe | Primary luxury import; foundation of early wealth |
+| [[Spice Trade|Spices]] | East → Pisa → Europe | Primary luxury import; foundation of early wealth |
 | Leather goods | Pisa → Mediterranean | Domestic industry; Pisan leather was widely exported |
 | Grain | Various | Both traded and consumed |
 | Salt | Various | Essential commodity trade |
@@ -242,7 +242,7 @@ The post-Meloria crisis exemplified this dysfunction. Count Ugolino della Gherar
 
 ### Why Pisa Failed to Adapt Economically
 
-A critical insight from the academic literature: market demand shifted from spices to woolen textiles during the 13th century. While competitors -- especially [[Florence]] and Genoa -- adapted to this shift, Pisa remained anchored to its traditional spice trade and leather industries. By the time the shift was evident, Pisa's competitors had captured the textile market, largely excluding Pisa from later entry. This failure of economic adaptation compounded the military and environmental disasters.
+A critical insight from the academic literature: market demand shifted from spices to woolen textiles during the 13th century. While competitors -- especially [[Florence]] and [[Republic of Genoa|Genoa]] -- adapted to this shift, Pisa remained anchored to its traditional spice trade and leather industries. By the time the shift was evident, Pisa's competitors had captured the textile market, largely excluding Pisa from later entry. This failure of economic adaptation compounded the military and environmental disasters.
 
 ### Commercial Network
 
@@ -252,14 +252,14 @@ During its peak, the Republic maintained consular offices and commercial warehou
 
 ## Relations with Other Maritime Republics
 
-### Pisa and Amalfi
+### Pisa and [[Amalfi]]
 
 | Period | Relationship |
 |--------|--------------|
 | 11th century | Cooperation against Saracens (Amalfi contingent joined 1087 Mahdia expedition) |
 | 1135-1137 | Pisa sacked Amalfi twice, ending its era as a maritime power |
 
-### Pisa and Genoa
+### Pisa and [[Republic of Genoa|Genoa]]
 
 | Period | Relationship |
 |--------|--------------|
@@ -323,7 +323,7 @@ The decline was not one blow but a cascading failure across multiple systems:
 | **Territorial loss** (Corsica, Sardinia) | 1284-1326 | Lost strategic bases and resources |
 | **Internal political collapse** | 1284-1290s | Ugolino crisis; Guelph-Ghibelline factional warfare consumed remaining energy |
 | **Port silting** (Porto Pisano) | Gradual, 1000-1500 | Harbor lost connection to sea; malaria in marshlands |
-| **Economic rigidity** | 13th century | Failed to shift from spice/leather to textile trade |
+| **Economic rigidity** | 13th century | Failed to shift from spice/leather to [[Woolen Cloth Trade|textile trade]] |
 | **Black Death** | 1348 | Lost ~80% of population |
 | **Foreign domination** | 1399-1406 | Visconti lordship, then Florentine conquest |
 | **Geographic displacement** | Ongoing | Arno silt pushed coastline away from city |
@@ -366,6 +366,8 @@ The deeper lesson is about infrastructure dependency. Pisa's economy was built o
 
 ## Related Notes
 
+- [[Republic of Genoa]] — western Mediterranean rival; destroyed Pisan fleet at Meloria (1284)
+- [[Amalfi]] — earliest maritime republic; sacked by Pisa (1135-37)
 - [[Venice]] — rival maritime republic; cooperative relationship in different Mediterranean spheres
 - [[Florence]] — Guelph rival; eventual conqueror (1406)
 - [[Crusades Economics]] — Pisan commercial gains from Crusade participation
@@ -381,6 +383,9 @@ The deeper lesson is about infrastructure dependency. Pisa's economy was built o
 - [[Medieval Financial Innovation]] — Constitutum Usus and maritime law
 - [[Comparative Medieval Institutions]] — how Pisa's institutions compared to competitors
 - [[Byzantine Commerce]] — Pisan quarter in Constantinople
+- [[Spice Trade]] — Pisa's early wealth from eastern spice imports
+- [[Levant Trade]] — Pisan trading colonies in Crusader ports
+- [[Woolen Cloth Trade]] — the textile shift Pisa failed to make
 
 ### Cross-vault
 - [Geopolitics: Maritime Chokepoints](obsidian://open?vault=geopolitics&file=Maritime%20Chokepoints) — Pisa's dependence on Tyrrhenian Sea access and island bases as a historical case of maritime infrastructure vulnerability

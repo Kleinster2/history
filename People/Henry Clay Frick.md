@@ -324,6 +324,8 @@ That Frick left his mansion to the public, designed from the start as a museum, 
 
 ## Related Notes
 
+- [[Andrew Carnegie]]
+- [[Gospel of Wealth]]
 - [[Steel Industry]]
 - [[Gilded Age]]
 - [[Labor and Unions]]

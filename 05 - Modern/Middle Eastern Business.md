@@ -18,7 +18,7 @@ Middle Eastern business developed at the intersection of bazaar traditions, oil 
 | Type | Countries | Business Character |
 |------|-----------|-------------------|
 | Gulf oil states | UAE, Saudi, Kuwait, Qatar | State-connected, rentier |
-| Oil poor | Jordan, Lebanon, Morocco | Merchant traditions |
+| Oil poor | Jordan, [[Lebanese Banking Crisis|Lebanon]], Morocco | Merchant traditions |
 | Mixed | Egypt, Algeria, Iraq | State role varies |
 | Sanctions-affected | Iran, Syria | Distorted economies |
 
@@ -211,7 +211,7 @@ Middle Eastern business developed at the intersection of bazaar traditions, oil 
 | Gulf | Family-state fusion |
 | Egypt | Military-business complex |
 | Turkey | Political connections matter |
-| Lebanon | Sectarian balance |
+| [[Lebanese Banking Crisis\|Lebanon]] | Sectarian balance; banking sector 4x GDP collapsed 2019 |
 | Jordan | Monarchy-merchant alliance |
 
 ### Sovereign Wealth Funds
@@ -297,4 +297,5 @@ Middle Eastern business is bifurcated by oil: in the Gulf, the [[Resource Curse|
 - [[Iran Sanctions]] — how economic warfare reshaped Iranian business
 - [[Iranian Revolution]] — origins of the bonyad system
 - [[Institutions and Progress]]
+- [[Lebanese Banking Crisis]] — Lebanon's banking sector rise and collapse
 - [[Modern Index]]

@@ -58,7 +58,7 @@ The medieval trading hub. From the 12th to early 14th century, six annual fairs 
 
 | Product | Source |
 |---------|--------|
-| Wool cloth | Flanders, England |
+| [[Woolen Cloth Trade|Wool cloth]] | Flanders, England |
 | Linen | Northern France |
 | Leather | Various |
 | Metal goods | Germany |
@@ -67,7 +67,7 @@ The medieval trading hub. From the 12th to early 14th century, six annual fairs 
 
 | Product | Source |
 |---------|--------|
-| Spices | Via Italy |
+| [[Spice Trade|Spices]] | Via Italy |
 | Silk | Italian, Eastern |
 | Dyes | Mediterranean |
 | Alum | For textile processing |
@@ -224,4 +224,7 @@ What survived were the techniques: bills of exchange, clearing mechanisms, comme
 - [[Medieval Credit Networks]]
 - [[Venice]]
 - [[Hanseatic League]]
+- [[Woolen Cloth Trade]] — the primary northern commodity traded at the fairs
+- [[Spice Trade]] — the southern luxury goods that met northern cloth
+- [[Levant Trade]] — source of the spices and dyes that flowed through the fairs
 - [[Lex Mercatoria]]

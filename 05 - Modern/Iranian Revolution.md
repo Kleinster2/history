@@ -9,7 +9,7 @@ tags: [iran, revolution, oil, geopolitics, institutional-change]
 
 # Iranian Revolution
 
-A broad coalition — liberals, leftists, feminists, nationalists, Islamists — united by opposition to Shah Mohammad Reza Pahlavi's autocratic rule toppled one of the Middle East's most powerful governments in early 1979. Ayatollah Ruhollah Khomeini, initially seen as a transitional figure who promised equal rights for women and barred clerics from politics, exploited his unchallenged popularity to monopolize power and establish a theocracy. The US embassy hostage crisis (444 days) ruptured relations with America, the loss of ~5 million bpd of oil exports triggered the [[Oil Crisis|second oil shock]], and Saddam Hussein's invasion launched the [[Iran-Iraq War]] that forged the [[IRGC]] into the revolution's permanent enforcer. The regime survived war, sanctions, and reformist challenges by institutionalizing enmity with the West — a posture rooted in the [[BP|1953 coup]] but hardened by decades of mutual betrayal, producing a feedback loop in which Iranian hardline actions consistently empowered hawks in opposing countries, whose responses then empowered Iranian hardliners.
+A broad coalition — liberals, leftists, feminists, nationalists, Islamists — united by opposition to [[Shah Mohammad Reza Pahlavi]]'s autocratic rule toppled one of the Middle East's most powerful governments in early 1979. [[Ayatollah Khomeini|Ayatollah Ruhollah Khomeini]], initially seen as a transitional figure who promised equal rights for women and barred clerics from politics, exploited his unchallenged popularity to monopolize power and establish a theocracy. The US embassy hostage crisis (444 days) ruptured relations with America, the loss of ~5 million bpd of oil exports triggered the [[Oil Crisis|second oil shock]], and Saddam Hussein's invasion launched the [[Iran-Iraq War]] that forged the [[IRGC]] into the revolution's permanent enforcer. The regime survived war, sanctions, and reformist challenges by institutionalizing enmity with the West — a posture rooted in the [[BP|1953 coup]] but hardened by decades of mutual betrayal, producing a feedback loop in which Iranian hardline actions consistently empowered hawks in opposing countries, whose responses then empowered Iranian hardliners.
 
 ## Overview
 
@@ -25,9 +25,9 @@ A broad coalition — liberals, leftists, feminists, nationalists, Islamists —
 
 ## Pre-Revolutionary Iran
 
-Iran under the Shah was economically prosperous with strong foreign relations — good ties with both the United States and the Soviet Union, the strongest military in the Middle East, and a modernizing society. What it lacked was political freedom. Power was concentrated in the Shah and a corrupt political elite, and a widespread (if inaccurate) perception held that the Shah was an American puppet.
+Iran under the Shah was economically prosperous with strong foreign relations — good ties with both the United States and the Soviet Union, the strongest military in the Middle East, and a modernizing society transformed by the [[White Revolution]]'s land reform, literacy campaigns, and [[OPEC]]-funded industrialization. What it lacked was political freedom. Power was concentrated in the Shah and a corrupt political elite, and a widespread (if inaccurate) perception held that the Shah was an American puppet.
 
-This perception had deep roots in the 1953 CIA/MI6 coup that overthrew Prime Minister Mohammad Mossadegh after he nationalized Iranian oil — an event covered in detail in [[BP]] and [[Persian Economic History]]. Iran's nationalism runs deep: one of the only countries in the 18th and 19th centuries to avoid becoming a Western colony, it maintained a fierce sense of independence comparable to China's "Middle Kingdom" self-conception. Every Iranian schoolchild learned about the 1953 coup; most Americans had never heard of it.
+This perception had deep roots in the [[1953 Iranian Coup|1953 CIA/MI6 coup]] that overthrew Prime Minister [[Mohammad Mossadegh]] after he nationalized Iranian oil — an event covered in detail in [[1953 Iranian Coup]], [[BP]], and [[Persian Economic History]]. Iran's nationalism runs deep: one of the only countries in the 18th and 19th centuries to avoid becoming a Western colony, it maintained a fierce sense of independence comparable to China's "Middle Kingdom" self-conception. Every Iranian schoolchild learned about the 1953 coup; most Americans had never heard of it.
 
 ## Khomeini's Consolidation
 
@@ -52,7 +52,7 @@ The revolution established a pattern that the crisis analyst Ali Vaez calls "wha
 | Funding Hamas/Hezbollah (1990s) | Netanyahu empowered, Oslo sabotaged | Palestinian cause maintained as leverage |
 | Rejected engagement with Khatami (1997–2005) | Reformists discredited | Deep state preserved |
 | [[JCPOA]] compliance (2015–18) | Trump withdrew, [[Iran Sanctions\|maximum pressure]] | Hardliners vindicated: "deals don't work" |
-| October 7th (2023) | Israeli escalation directly to Iran | Soleimani's absence left proxies freelancing; Iran pulled into war (see [geopolitics vault](obsidian://open?vault=geopolitics&file=Events%2F2026%20Iran%20conflict%20--%20analyst%20perspectives)) |
+| October 7th (2023) | Israeli escalation directly to Iran | [[Qasem Soleimani\|Soleimani]]'s absence left proxies freelancing; Iran pulled into war (see [geopolitics vault](obsidian://open?vault=geopolitics&file=Events%2F2026%20Iran%20conflict%20--%20analyst%20perspectives)) |
 
 This institutionalized enmity always benefited hawks on all sides more than moderates who tried to change course.
 
@@ -113,6 +113,14 @@ The economic parallel to the French and Russian revolutions is instructive: all 
 - [[Iran Sanctions]] — economic warfare as containment
 - [[Oil Crisis]] — the revolution's global market impact
 - [[Oil Economy]] — the resource at the center
-- [[BP]] — the 1953 coup in detail
+- [[1953 Iranian Coup]] — the coup that poisoned the Shah's legitimacy
+- [[White Revolution]] — authoritarian modernization that created revolutionary conditions
+- [[OPEC]] — the oil revenue that funded the Shah's program and the price shock after his fall
+- [[Petrodollar System]] — the financial architecture the revolution's oil shock amplified
+- [[BP]] — the company whose concession triggered the 1953 coup
 - [[Persian Economic History]] — the long arc
 - [[Middle Eastern Business]] — bonyads, IRGC economic empire
+- [[Shah Mohammad Reza Pahlavi]] — the ruler overthrown
+- [[Ayatollah Khomeini]] — the cleric who monopolized the revolution
+- [[Mohammad Mossadegh]] — the 1953 coup as foundational grievance
+- [[Qasem Soleimani]] — the proxy network architect whose death left the system uncoordinated

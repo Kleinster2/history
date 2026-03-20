@@ -25,7 +25,7 @@ Florence revolutionized European finance, creating the banking system that funde
 
 ## Economic Foundations
 
-### Wool Industry
+### [[Woolen Cloth Trade|Wool Industry]]
 
 | Feature | Description |
 |---------|-------------|
@@ -261,7 +261,7 @@ Recent research using the 1427 Catasto shows remarkable wealth persistence—des
 | England | Raw wool |
 | Spain | Raw wool |
 | Flanders | Rough cloth (to finish) |
-| Levant | Silk, dyes, spices |
+| [[Levant Trade|Levant]] | Silk, dyes, spices |
 
 ---
 
@@ -334,4 +334,6 @@ Recent research using the 1427 Catasto shows remarkable wealth persistence—des
 - [[Human Capital]]
 - [[Economic Persistence]]
 - [[Florin]]
+- [[Woolen Cloth Trade]] — the full supply chain from English wool to Florentine finished cloth
+- [[Levant Trade]] — source of dyes and alum essential for Florentine finishing
 - [[Dominant Currencies]]

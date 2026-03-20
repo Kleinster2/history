@@ -321,6 +321,8 @@ Antitrust is the institutional mechanism that determines whether [[Creative Dest
 
 ## Related Notes
 
+- [[John D. Rockefeller]]
+- [[Ida Tarbell]]
 - [[Creative Destruction]]
 - [[Business Regulation]]
 - [[Progressive Era]]

@@ -140,7 +140,7 @@ Medieval European economy evolved from post-Roman fragmentation through gradual 
 
 | Route | Goods | Key Players |
 |-------|-------|-------------|
-| Mediterranean | Eastern luxuries | Venice, Genoa, [[Republic of Pisa\|Pisa]] |
+| Mediterranean | Eastern luxuries | Venice, [[Republic of Genoa\|Genoa]], [[Republic of Pisa\|Pisa]] |
 | Champagne Fairs | North-South exchange | Flemish, Italian merchants |
 | Baltic/North Sea | Bulk goods | Hanseatic League |
 | Atlantic | Emerging | Portuguese, others |
@@ -149,9 +149,9 @@ Medieval European economy evolved from post-Roman fragmentation through gradual 
 
 | From | Goods |
 |------|-------|
-| East (via Italy) | Spices, silk, luxuries |
-| Flanders | Woolen cloth |
-| Baltic | Grain, timber, fish |
+| East (via Italy) | [[Spice Trade|Spices]], silk, luxuries |
+| Flanders | [[Woolen Cloth Trade|Woolen cloth]] |
+| Baltic | [[Grain Trade|Grain]], timber, fish |
 | England | Wool (raw) |
 | France | Wine |
 | Germany | Metals, manufactures |
@@ -161,7 +161,7 @@ Medieval European economy evolved from post-Roman fragmentation through gradual 
 | City | Specialization |
 |------|----------------|
 | Venice | Eastern trade, glass |
-| Genoa | Western Mediterranean, banking |
+| [[Republic of Genoa\|Genoa]] | Western Mediterranean, banking |
 | Florence | Banking, wool finishing |
 | Milan | Armor, manufactures |
 | [[Republic of Pisa\|Pisa]] | Mediterranean trade (earlier) |
@@ -473,9 +473,15 @@ See: [[Great Divergence]] for full discussion.
 
 ## Related Notes
 
+- [[Republic of Genoa]] — western Mediterranean trade and banking
+- [[Amalfi]] — earliest Italian maritime republic
 - [[Medieval Index]]
 - [[Islamic Economy]]
 - [[Song China Economy]]
 - [[Great Divergence]]
 - [[Roman Economy]]
+- [[Spice Trade]] — the luxury import trade via Italian city-states
+- [[Levant Trade]] — the chokepoint where eastern goods entered European markets
+- [[Woolen Cloth Trade]] — medieval Europe's most important manufactured export
+- [[Grain Trade]] — bulk trade that fed urbanization
 - [[Economic Collapse]]

@@ -149,7 +149,7 @@ Major trading posts (permanent establishments):
 | Metal goods | Germany → East |
 | Wine | South → North |
 
-### The Baltic Grain Trade
+### The Baltic [[Grain Trade]]
 
 | Feature | Description |
 |---------|-------------|
@@ -360,4 +360,6 @@ Major trading posts (permanent establishments):
 - [[Medieval Europe Economy]]
 - [[Venice]]
 - [[Florence]]
+- [[Grain Trade]] — the Baltic bulk commodity that was the Hansa's largest trade by volume
+- [[Woolen Cloth Trade]] — Flemish cloth distributed eastward through Hanseatic routes
 - [[Great Divergence]]

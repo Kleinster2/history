@@ -97,8 +97,8 @@ The ducat dominated routes the florin couldn't reach:
 | Region | Ducat's Role |
 |--------|--------------|
 | Byzantine lands | Replaced debased hyperpyron |
-| Levant | Trade settlement |
-| Egypt | Spice trade |
+| [[Levant Trade|Levant]] | Trade settlement |
+| Egypt | [[Spice Trade]] |
 | India | Reached via Arab traders |
 | Ottoman Empire | Accepted for tribute, trade |
 

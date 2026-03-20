@@ -56,7 +56,7 @@ Medieval merchants created credit systems that enabled trade without moving cash
 | Champagne (12th-13th c.) | Original clearing center |
 | Geneva (14th c.) | Later center |
 | Lyon (15th-16th c.) | French king's finance |
-| Besançon (16th c.) | Genoese-dominated |
+| Besançon (16th c.) | [[Republic of Genoa\|Genoese]]-dominated |
 
 ## Italian Merchant Banks
 
@@ -178,7 +178,7 @@ Medieval merchants created credit systems that enabled trade without moving cash
 |------|----------------|
 | [[Venice]] | Eastern trade, colleganza |
 | [[Florence]] | Banking, cloth |
-| Genoa | Western Mediterranean, finance |
+| [[Republic of Genoa\|Genoa]] | Western Mediterranean, finance |
 | Milan | Manufacturing finance |
 | Siena | Early banking |
 

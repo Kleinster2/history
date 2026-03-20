@@ -91,7 +91,7 @@ The Indian Ocean was the world's first zone of sustained long-distance maritime 
 | Southeast Asia → China | Spices, aromatics | [[Srivijaya]], Malay, Chinese |
 | China → everywhere | Porcelain, silk | Chinese, Arab merchants |
 
-### The Spice Trade
+### The [[Spice Trade]]
 
 | Spice | Origin | Destination | Value |
 |-------|--------|-------------|-------|

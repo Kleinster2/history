@@ -155,17 +155,17 @@ The railroad's problem was unprecedented: how do you coordinate thousands of wor
 
 ## The Captains of Industry
 
-### Andrew Carnegie (Steel)
+### [[Andrew Carnegie]] (Steel)
 
 | Feature | Description |
 |---------|-------------|
 | Origin | Scottish immigrant, telegrapher |
 | Method | Vertical integration, cost-cutting |
 | Key partner | [[Henry Clay Frick]] (coke monopoly, operations) |
-| Philosophy | "Gospel of Wealth"—give it away |
+| Philosophy | [[Gospel of Wealth|"Gospel of Wealth"]]—give it away |
 | Sale | $480 million to Morgan (1901) |
 
-### John D. Rockefeller (Oil)
+### [[John D. Rockefeller]] (Oil)
 
 | Feature | Description |
 |---------|-------------|
@@ -372,7 +372,7 @@ The railroad's problem was unprecedented: how do you coordinate thousands of wor
 |---------|----------|
 | Herbert Spencer | "Survival of the fittest" |
 | William Graham Sumner | Inequality natural, beneficial |
-| Andrew Carnegie | Wealth concentrates with capable |
+| [[Andrew Carnegie]] | Wealth concentrates with capable |
 
 ### The Critics
 
@@ -447,7 +447,11 @@ The Gilded Age is Baumol's natural experiment: remove institutional constraints 
 
 ## Related Notes
 
+- [[Andrew Carnegie]]
+- [[John D. Rockefeller]]
 - [[Henry Clay Frick]]
+- [[Gospel of Wealth]]
+- [[Ida Tarbell]]
 - [[American Business Strategy]]
 - [[American Civil War]]
 - [[Reconstruction]]

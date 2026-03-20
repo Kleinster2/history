@@ -217,4 +217,6 @@ The institutional legacy persisted nonetheless. The practices developed in Hanse
 - [[Trade Networks]]
 - [[Medieval Financial Innovation]]
 - [[Merchant Diaspora Networks]]
+- [[Grain Trade]] — the Hansa's largest trade by volume
+- [[Woolen Cloth Trade]] — Flemish cloth distributed eastward through Hanseatic routes
 - [[Medieval Credit Networks]]

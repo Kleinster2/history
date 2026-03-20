@@ -101,7 +101,7 @@ Medieval Europe ran on debased silver pennies:
 | No gold | Premium metal unavailable |
 | Local currencies | Exchange costs high |
 
-The florin was the first major gold coin in Western Europe since Rome. Genoa minted a gold coin (the genovino) the same year, but Florence's banking network gave the florin wider reach.
+The florin was the first major gold coin in Western Europe since Rome. [[Republic of Genoa|Genoa]] minted a gold coin (the genovino) the same year, but Florence's banking network gave the florin wider reach.
 
 ### Why 1252?
 

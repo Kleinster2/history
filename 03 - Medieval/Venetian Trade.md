@@ -47,7 +47,7 @@ Venice was medieval Europe's greatest trading power—a city of canals that domi
 | Route | Goods |
 |-------|-------|
 | Constantinople | Gateway to Asia |
-| Levant | Spices, silk |
+| [[Levant Trade|Levant]] | [[Spice Trade|Spices]], silk |
 | Black Sea | Grain, slaves |
 | Egypt | Spices, luxury |
 
@@ -177,7 +177,7 @@ Venice was medieval Europe's greatest trading power—a city of canals that domi
 
 | Competitor | Period |
 |------------|--------|
-| Genoa | Medieval |
+| [[Republic of Genoa\|Genoa]] | Medieval |
 | Ottomans | 15th century onward |
 | Portuguese | Atlantic route |
 | Dutch | 17th century |
@@ -215,6 +215,7 @@ Venice demonstrates what happens when a state *is* a business. The Republic's co
 ## Related Notes
 
 - [[Florence]]
+- [[Republic of Genoa]] — principal maritime rival; four wars from 1256 to 1381
 - [[Mediterranean Trade]]
 - [[Medieval Financial Innovation]]
 - [[Medieval Economy]]
@@ -224,4 +225,7 @@ Venice demonstrates what happens when a state *is* a business. The Republic's co
 - [[Property Rights]]
 - [[Institutions and Progress]]
 - [[Globalization]]
+- [[Spice Trade]] — the commodity that made Venetian trade profitable
+- [[Levant Trade]] — the chokepoint Venice dominated
+- [[Grain Trade]] — Venice's existential need for food imports
 - [[Medieval Index]]

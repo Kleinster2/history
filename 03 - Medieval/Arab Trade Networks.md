@@ -87,7 +87,7 @@ The commercial world before European expansion. For centuries before Portuguese 
 | Textiles | India |
 | Aromatics | Arabia, Southeast Asia |
 
-### The Spice Trade
+### The [[Spice Trade]]
 
 | Spice | Origin |
 |-------|--------|
@@ -234,4 +234,6 @@ The spread of Islam along trade routes shows how commerce transmits culture. Mer
 - [[Trade Networks]]
 - [[Merchant Diaspora Networks]]
 - [[Swahili Trade]]
+- [[Spice Trade]] — the commodity that Arab merchants dominated for centuries
+- [[Levant Trade]] — the western terminus where Arab-carried goods reached European buyers
 - [[Silk Road]]

@@ -62,7 +62,7 @@ Why did Eastern Europe intensify unfree labor while the West freed it? Labor ins
 
 ## Poland-Lithuania
 
-### The Grain Export Economy
+### The [[Grain Trade|Grain Export Economy]]
 
 | Development | Effect |
 |-------------|--------|
@@ -231,4 +231,6 @@ Labor institutions diverged based on political economy—where nobles dominated,
 - [[Labor History]]
 - [[Economic Convergence]]
 - [[Slavery Economics]]
+- [[Grain Trade]] — Baltic grain exports incentivized Eastern European labor coercion
+- [[Hanseatic League]] — distributed Baltic grain westward
 - [[Free Labor Emergence]]

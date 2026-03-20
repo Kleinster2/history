@@ -420,3 +420,4 @@ The best we can do:
 - [[Banking History]]
 - [[South Sea Bubble]]
 - [[Asian Financial Crisis 1997]]
+- [[Lebanese Banking Crisis]] — sovereign Ponzi finance and triple crisis (2019-present)

@@ -179,11 +179,14 @@ The Modern period witnessed the most dramatic economic transformation in human h
 | [[Turkish Economic History]] | Kemalist ISI → liberalization → instability | Reform without rule of law |
 | [[Gulf Commerce]] | Pearls → petrodollars → diversification | Resource management |
 | [[Persian Economic History]] | Ancient trade → oil → sanctions | Long-duration patterns |
+| [[1953 Iranian Coup]] | CIA/MI6 overthrow Mossadegh → Shah restored → 26-year fuse | Resource sovereignty vs. international capital |
+| [[White Revolution]] | Shah's top-down modernization → seeds of revolution | Authoritarian development paradox |
 | [[Iranian Revolution]] | Shah falls → theocracy → oil shock → isolation | Institutional capture |
 | [[Iran-Iraq War]] | 8-year war → IRGC → proxy doctrine | Strategic solitude |
 | [[IRGC]] | Parallel army → economic-military complex | War institutions persist |
 | [[JCPOA]] | Nuclear diplomacy → maximum pressure → collapse | Engagement vs. coercion |
 | [[Iran Sanctions]] | 45 years of economic warfare | Sanctions paradox |
+| [[Lebanese Banking Crisis]] | Banking secrecy → Ponzi finance → 2019 collapse | Confessional democracy and economic governance |
 
 ### Global Processes
 
@@ -202,6 +205,7 @@ The Modern period witnessed the most dramatic economic transformation in human h
 - [[Mass Production]] - Ford, Toyota, and the factory revolution
 - [[Management Revolution]] - Taylorism to Agile
 - [[Oil Economy]] - The commodity that shaped the century
+- [[OPEC]] - The cartel that shifted oil rents from companies to states
 - [[Digital Revolution]] - Computing, internet, platforms, AI
 - [[Labor and Unions]] - Rise and decline of organized workers
 - [[Stock Markets]] - From Amsterdam to algorithmic trading
@@ -239,6 +243,7 @@ How information costs fell and economies transformed.
 - [[Financial Crisis Theory]] - Minsky, Kindleberger, why crises recur
 - [[Private Equity and Hedge Funds]] - Alternative investment and financial engineering
 - [[Bretton Woods]] - Postwar international monetary system
+- [[Petrodollar System]] - Post-1973 oil-dollar financial architecture
 
 #### Financialization Era
 
@@ -362,7 +367,7 @@ The transformation of finance from servant to master of the economy.
 | World War II (1939-1945) | Destruction and reconstruction |
 | Bretton Woods (1944) | Postwar order |
 | Decolonization (1947-1970s) | End of empires |
-| [[Oil Crisis]] (1973, 1979) | End of golden age |
+| [[OPEC]] / [[Oil Crisis]] (1973, 1979) | End of golden age |
 | [[Neoliberalism]] (1980s) | Market revolution |
 | Fall of USSR (1991) | Capitalism triumphant? |
 | [[Asian Tigers]] | East Asian miracles |

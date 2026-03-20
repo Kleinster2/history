@@ -77,7 +77,7 @@ This experience of *strategic solitude* — facing the world almost entirely alo
 | [[IRGC]] as fighting force | Parallel army distrusted regular military | Became dominant political-economic institution |
 | Ballistic missile program | Desperate attempt to match Iraqi firepower | Foundation of deterrence doctrine through 2026 |
 | Proxy warfare concept | Strategic solitude → project power through non-state actors | Hezbollah, Hamas, Houthis, Iraqi militias |
-| Quds Force model | Expeditionary operations | Soleimani's regional network (see [[IRGC]]) |
+| Quds Force model | Expeditionary operations | [[Qasem Soleimani\|Soleimani]]'s regional network (see [[IRGC]]) |
 
 ### Political
 
@@ -105,9 +105,9 @@ The war intersected with American domestic politics through the Iran-Contra affa
 
 ## Endgame
 
-Iran's acceptance of the ceasefire in 1988 was, in Khomeini's words, like "drinking poison." The war ended at the status quo ante — no territory changed hands. But Iran's narrative framed survival itself as victory: the first war in 250 years where Iran didn't lose territory, fought against a world that wanted it to lose.
+Iran's acceptance of the ceasefire in 1988 was, in [[Ayatollah Khomeini|Khomeini]]'s words, like "drinking poison." The war ended at the status quo ante — no territory changed hands. But Iran's narrative framed survival itself as victory: the first war in 250 years where Iran didn't lose territory, fought against a world that wanted it to lose.
 
-Khomeini died in 1989, one year after the war ended. The IRGC he had created and the strategic doctrine the war had forged would outlive him by decades.
+[[Ayatollah Khomeini|Khomeini]] died in 1989, one year after the war ended. The IRGC he had created and the strategic doctrine the war had forged would outlive him by decades.
 
 ## The Deeper Point
 
@@ -133,3 +133,6 @@ The economic lesson is about how wars shape institutions. The IRGC emerged from 
 - [[Oil Economy]] — the resource that funded both sides
 - [[Persian Economic History]] — the long arc
 - [[Middle Eastern Business]] — IRGC's post-war economic empire
+- [[Ayatollah Khomeini]] — prolonged the war six years beyond territorial recovery
+- [[Qasem Soleimani]] — forged in this war; later built the proxy network it inspired
+- [[Shah Mohammad Reza Pahlavi]] — his fall created the chaos Saddam exploited

@@ -29,7 +29,7 @@ The Progressive Era was America's response to the Gilded Age's excesses. Between
 |-------|------------|
 | Middle class professionals | Order, efficiency, expertise |
 | Social workers | Aid the poor |
-| Muckraking journalists | Expose corruption |
+| Muckraking journalists | Expose corruption ([[Ida Tarbell]], Lincoln Steffens) |
 | Women's groups | Temperance, suffrage, reform |
 | Some business leaders | Stability, predictability |
 
@@ -418,6 +418,10 @@ The Progressive Era was America's first institutional recalibration—the recogn
 ## Related Notes
 
 - [[Gilded Age]]
+- [[John D. Rockefeller]]
+- [[Andrew Carnegie]]
+- [[Ida Tarbell]]
+- [[Gospel of Wealth]]
 - [[Great Depression]]
 - [[Industrial Revolution]]
 - [[Institutions and Progress]]

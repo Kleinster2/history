@@ -45,6 +45,8 @@ From post-Roman fragmentation to commercial revival.
 - [[Medieval Europe Economy]] - Manors, towns, guilds
 - [[Venice]] - Mediterranean trade empire
 - [[Republic of Pisa]] - Western Mediterranean naval and commercial power
+- [[Republic of Genoa]] - Western Mediterranean rival to Pisa and Venice; financial innovation
+- [[Amalfi]] - First Italian maritime republic; pioneer of Mediterranean trade
 - [[Florence]] - Banking revolution
 - [[Hanseatic League]] - Northern trade network
 - [[Teutonic Order]] - Baltic crusade state, amber monopoly, Ordensstaat
@@ -145,7 +147,8 @@ Gold trade and Indian Ocean commerce.
 
 | Route/Center | Notes |
 |--------------|-------|
-| Wool trade | [[Wool Trade]] |
+| Levant trade | [[Levant Trade]] |
+| Wool trade | [[Wool Trade]], [[Woolen Cloth Trade]] |
 | Italian banking | [[Italian Banking]] |
 | Central Asian hub | [[Samarkand]] |
 | Arab networks | [[Arab Trade Networks]] |

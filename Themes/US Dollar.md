@@ -193,7 +193,7 @@ Foreign dollar holdings exceeded US gold reserves by late 1960s.
 | US military | Security umbrella |
 | Inertia | Costly to switch |
 
-### The Petrodollar
+### The [[Petrodollar System|Petrodollar]]
 
 | Deal | Detail |
 |------|--------|
@@ -313,3 +313,4 @@ History suggests the question isn't whether the dollar will be replaced, but whe
 - [[Nixon Shock]]
 - [[Petrodollar System]]
 - [[2008 Financial Crisis Deep Dive]]
+- [[Lebanese Banking Crisis]] — dollarization without dollar earnings

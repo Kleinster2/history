@@ -289,9 +289,9 @@ Long-distance trade is as old as civilization itself. Networks of exchange moved
 | City | Specialty |
 |------|-----------|
 | Venice | Eastern Mediterranean, spices |
-| Genoa | Western Mediterranean, Black Sea |
+| [[Republic of Genoa\|Genoa]] | Western Mediterranean, Black Sea |
 | [[Republic of Pisa\|Pisa]] | Earlier period |
-| Amalfi | Earlier period |
+| [[Amalfi]] | Earlier period |
 
 **See:** [[Venice]], [[Florence]]
 
@@ -467,11 +467,17 @@ Janet Abu-Lughod's thesis: Before European dominance, an interconnected system l
 - [[Mongol Empire]]
 - [[Islamic Economy]]
 - [[Venice]]
+- [[Republic of Genoa]] — western Mediterranean and Black Sea colonial network
+- [[Amalfi]] — earliest Italian maritime trade pioneer
 - [[Phoenicians]]
 - [[Columbian Exchange]]
 - [[Atlantic Slave Trade]]
 - [[Globalization]]
 - [[Ancient Credit]]
+- [[Spice Trade]] — the highest-value pre-modern long-distance trade
+- [[Levant Trade]] — chokepoint where Asian goods entered Europe
+- [[Woolen Cloth Trade]] — medieval Europe's major manufactured export
+- [[Grain Trade]] — the bulk commodity that enabled urbanization
 - [[Great Divergence]]
 - [[Economic Collapse]]
 - [[Institutions and Progress]]

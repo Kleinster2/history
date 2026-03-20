@@ -195,14 +195,22 @@ See [[Hugo Grotius]] for the full intellectual history.
 
 ## Trade Dominance
 
-### The "Moedernegotie" (Mother Trade)
+### The *Moedernegotie* (Mother Trade)
 
-| Trade | Description |
-|-------|-------------|
-| Baltic grain | Fed Amsterdam, re-exported |
-| Timber | Northern Europe → shipbuilding |
-| Scale | 75% of Baltic trade |
-| Significance | Foundation of Dutch commerce |
+Before spices, before the VOC, before the stock exchange — there was grain. The Dutch called the [[Grain Trade|Baltic grain trade]] the *moedernegotie* ("mother trade") because everything else grew from it.
+
+| Feature | Details |
+|---------|---------|
+| Commodity | Baltic rye and wheat, shipped from Danzig through the Danish Sound |
+| Strategy | Buy cheap in bulk, store in Amsterdam warehouses, resell when prices rose |
+| Scale | Dutch merchants carried ~75% of Baltic trade by the late 16th century |
+| Warehouse system | Amsterdam's grain storage gave it market-making power — the city could buffer price shocks and set terms |
+| Financial innovation | Stored grain became collateral for loans; the Amsterdam Exchange eventually traded grain futures |
+| The *fluyt* | Purpose-built bulk carrier (from 1595) — maximum cargo, minimum crew — gave Dutch shippers a structural cost advantage over [[Hanseatic League|Hanseatic]] competitors |
+
+The grain trade generated a virtuous cycle: cheap Baltic grain fed Dutch cities → urban labor freed from agriculture → workers available for manufacturing, shipping, services → export revenue funded more grain imports → cities grew further. By 1650, Amsterdam's population reached ~200,000 — sustained almost entirely on imported food.
+
+Critically, the *moedernegotie* generated the capital, shipping capacity, and commercial infrastructure that later supported the VOC's spice monopoly. The boring commodity funded the glamorous one. The same warehousing and futures-trading techniques developed for grain were applied to spices, textiles, and colonial goods. The Dutch Golden Age was built on a foundation of Baltic rye.
 
 ### Entrepôt Economy
 
@@ -436,6 +444,7 @@ See [[Hugo Grotius]] for the full intellectual history.
 ## Related Notes
 
 - [[Bank of Amsterdam]]
+- [[Grain Trade]] — the *moedernegotie* that funded everything else
 - [[East India Companies]]
 - [[Hugo Grotius]]
 - [[Industrial Revolution]]

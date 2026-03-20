@@ -66,7 +66,7 @@ The Crusades were a series of religious wars launched by Western Christians to r
 
 | Development | Description |
 |-------------|-------------|
-| Italian cities | Venice, Genoa, [[Republic of Pisa|Pisa]] profit |
+| Italian cities | Venice, [[Republic of Genoa\|Genoa]], [[Republic of Pisa\|Pisa]] profit |
 | New routes | Eastern Mediterranean |
 | Goods | Spices, silk, luxury |
 | Technology | Knowledge transfer |
