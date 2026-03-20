@@ -26,29 +26,29 @@ The archaeological record reveals sophisticated urbanization supporting commerci
 ## The Pearl Economy Transition (1200 BCE - 1930 CE)
 
 ### Resource Substitution
-As Bronze Age long-distance trade networks collapsed around 1200 BCE, [[Bahrain]]'s economy adapted by exploiting local marine resources while maintaining commercial intermediation patterns. Pearl diving evolved from supplementary local export to the dominant economic activity, eventually providing up to 80% of world pearl supplies by the 19th century.
+As Bronze Age long-distance trade networks collapsed around 1200 BCE, [[Bahrain]]'s economy adapted by exploiting local marine resources while maintaining commercial intermediation patterns. The [[Pearl Economy]] evolved from supplementary local export to the dominant economic activity, eventually providing up to 80% of world pearl supplies by the 19th century.
 
 The transition demonstrates economic continuity through resource substitution: the same geographic advantages (natural harbors, strategic Gulf position) and commercial skills (quality assurance, international marketing) that supported Bronze Age copper trade enabled pearl economy dominance. Bahraini merchants maintained trading relationships across the Indian Ocean, from European markets to Indian processing centers.
 
 ### Technological Innovation
-Pearl diving technology evolved to support increased production demands, including seasonal diving cycles, underwater breathing techniques, and pearl grading systems that commanded premium pricing. Bahraini pearls became synonymous with quality in global luxury markets, demonstrating continuation of the Dilmun branding strategy across millennia.
+[[Pearl Economy]] technology evolved to support increased production demands, including seasonal diving cycles, underwater breathing techniques, and pearl grading systems that commanded premium pricing. Bahraini pearls became synonymous with quality in global luxury markets, demonstrating continuation of the Dilmun branding strategy across millennia.
 
 The economic organization developed sophisticated features: hereditary diving rights, seasonal labor migration patterns, credit systems for financing diving expeditions, and international marketing networks. These institutional arrangements paralleled Bronze Age Dilmun trade organization while adapting to different resource characteristics.
 
 ### Commercial Networks
-Pearl economy period maintained [[Bahrain]]'s intermediation function through extensive trading connections: European merchants established Bahrain offices, Indian financiers provided working capital, and Persian Gulf shipping networks centered on Bahraini ports. The commercial infrastructure developed during this period (harbor facilities, merchant quarters, credit institutions) provided foundations for subsequent economic transitions.
+The [[Pearl Economy]] maintained [[Bahrain]]'s intermediation function through extensive trading connections: European merchants established Bahrain offices, Indian financiers provided working capital, and Persian Gulf shipping networks centered on Bahraini ports. The commercial infrastructure developed during this period (harbor facilities, merchant quarters, credit institutions) provided foundations for subsequent economic transitions.
 
 ## The Oil Transition (1932-1970s)
 
 ### Resource Discovery and Early Development
 Oil discovery in 1932 at Jebel Dukhan represented the first commercial oil find in the [[Persian Gulf]], predating [[Saudi Arabia]]'s discoveries by several years. This timing advantage provided [[Bahrain]] with early experience in petroleum industry development and established the kingdom as a regional oil pioneer.
 
-The transition from pearl economy to oil economy required institutional adaptation: from seasonal diving cycles to year-round extraction, from locally controlled production to international company partnerships, from luxury goods marketing to commodity export relationships. However, the underlying pattern of resource extraction for international markets continued the historical commercial model.
+The transition from the [[Pearl Economy]] to oil economy required institutional adaptation: from seasonal diving cycles to year-round extraction, from locally controlled production to international company partnerships, from luxury goods marketing to commodity export relationships. However, the underlying pattern of resource extraction for international markets continued the historical commercial model.
 
 ### Refining and Value Addition
 [[Bahrain]] quickly moved beyond simple oil extraction to value-added refining operations, establishing the first Gulf oil refinery in 1936 with 10,000 barrel/day capacity. This strategy of downstream development echoed [[Dilmun]]'s approach of processing raw materials (Omani copper) before export to maximize value capture.
 
-The refining strategy proved prescient as [[Bahrain]]'s oil reserves remained limited compared to regional neighbors. By processing both domestic crude and imported [[Saudi Arabia]]n oil, the kingdom maintained energy sector revenues even as domestic production declined. This adaptation demonstrated continued commercial sophistication in maximizing returns from available resources.
+The refining strategy proved prescient as [[Bahrain]]'s oil reserves remained limited compared to regional neighbors. By processing both domestic crude and imported [[Saudi Arabia]]n oil, the kingdom maintained energy sector revenues even as domestic production declined. This adaptation demonstrated continued commercial sophistication in maximizing returns from available resources, echoing the [[Pearl Economy]]'s quality premium strategies.
 
 ## The Banking and Financial Services Pivot (1970s-present)
 
@@ -109,6 +109,7 @@ The historical record suggests that successful small states focus on developing 
 - [[Commercial Intermediation]] — Value creation through trade facilitation
 - [[Institutional Persistence]] — How commercial practices survive transitions
 - [[Gulf Economic Development]] — Regional patterns of resource adaptation
+- [[Pearl Economy]] — The 4,000-year pearl trade that preceded oil
 
 ### Cross-vault
 - [Investing: Bahrain](obsidian://open?vault=investing&file=Actors%2FBahrain) — Contemporary economic structure and investment themes

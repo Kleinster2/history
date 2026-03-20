@@ -27,6 +27,7 @@ SORT file.name ASC
 - [[Trade Networks]] — Silk Road, trans-Saharan, overland routes
 - [[Indian Ocean Trade]] — Maritime exchange across monsoon seas
 - [[Maritime Trade]] — Ship-borne commerce
+- [[Pearl Economy]] — 5,000-year Gulf pearl trade and its collapse
 - [[Global Supply Chains]] — Modern production networks
 - [[Trade Blocs]] — Regional agreements
 - [[Silver Trade]] — Global money flows

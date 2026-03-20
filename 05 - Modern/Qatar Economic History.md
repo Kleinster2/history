@@ -24,7 +24,7 @@ Qatar's economic arc demonstrates both the resource curse and its escape: pearl 
 
 Archaeological evidence at Al Khor and other sites shows human habitation for over 9,000 years, with early inhabitants engaging in fishing and basic trade. The Dilmun trading network (modern Bahrain) connected Qatar's coast to Mesopotamian and Indus Valley commerce from the 3rd millennium BCE.
 
-Pearl diving emerged as the peninsula's dominant economic activity by the Islamic conquest (636 CE). The industry followed seasonal rhythms: diving season (June-September), boat construction and repair (winter), with entire male populations participating in the hazardous work. Pearls were Qatar's primary export to India, Persia, and eventually Europe.
+The [[Pearl Economy]] emerged as the peninsula's dominant economic activity by the Islamic conquest (636 CE). The industry followed seasonal rhythms: diving season (June-September), boat construction and repair (winter), with entire male populations participating in the hazardous work. Pearls were Qatar's primary export to India, Persia, and eventually Europe.
 
 ### Ottoman Period (1871-1916)
 
@@ -37,7 +37,7 @@ Pearl diving emerged as the peninsula's dominant economic activity by the Islami
 
 The Ottoman Empire extended nominal control over Qatar in 1871, appointing Sheikh Mohammed bin Thani as kaymakam (local administrator). In practice, Ottoman presence was minimal—no garrison, limited tax collection, and the Al Thani family managed day-to-day governance.
 
-The pearl economy reached its peak during this period. Qatar's pearling fleet numbered ~800 dhows employing ~13,000 divers and crew—nearly the entire male population. Pearls generated 95% of export revenue, financing imports of rice, textiles, dates, and fresh water from Basra.
+The [[Pearl Economy]] reached its peak during this period. Qatar's pearling fleet numbered ~800 dhows employing ~13,000 divers and crew—nearly the entire male population. Pearls generated 95% of export revenue, financing imports of rice, textiles, dates, and fresh water from Basra.
 
 ## British Protectorate Era (1916-1971)
 
@@ -51,7 +51,7 @@ The pearl economy reached its peak during this period. Qatar's pearling fleet nu
 
 The 1916 Anglo-Qatari Treaty established British protection over foreign affairs while preserving internal autonomy under Sheikh Abdullah bin Jassim Al Thani. The treaty's Article 7 controversially allowed British nationals to compete in the pearl trade—Abdullah signed under protest.
 
-**The Japanese Innovation**: In 1893, Mikimoto Kōkichi successfully cultivated the first spherical cultured pearl. By the early 1900s, Japanese producers could create quality pearls at scale. The technique—implanting an irritant to stimulate pearl secretion—broke the Gulf's 4,000-year monopoly on natural pearl production.
+**The Japanese Innovation**: In 1893, Mikimoto Kōkichi successfully cultivated the first spherical cultured pearl. By the early 1900s, Japanese producers could create quality pearls at scale. The technique—implanting an irritant to stimulate pearl secretion—broke the Gulf's 4,000-year [[Pearl Economy]] monopoly on natural pearl production.
 
 Market devastation was swift and total. Gulf pearls, which required diving through 8,000 oysters to yield 5-15 natural pearls, could not compete with Japanese cultured pearls produced at predictable quality and quantity. Prices collapsed by 95% between 1925-1935.
 
@@ -64,9 +64,9 @@ Market devastation was swift and total. Gulf pearls, which required diving throu
 | Export revenue | £150,000+ | <£10,000 |
 | Population | ~20,000 | ~16,000 (emigration) |
 
-The pearl industry's collapse triggered Qatar's worst economic crisis. Unemployment reached 80%. Dhows rotted on beaches. Families emigrated to Kuwait, Bahrain, and India. The Al Thani rulers faced fiscal crisis—customs revenue disappeared, and maintaining tribal alliances became impossible without pearl wealth redistribution.
+The [[Pearl Economy]]'s collapse triggered Qatar's worst economic crisis. Unemployment reached 80%. Dhows rotted on beaches. Families emigrated to Kuwait, Bahrain, and India. The Al Thani rulers faced fiscal crisis—customs revenue disappeared, and maintaining tribal alliances became impossible without pearl wealth redistribution.
 
-**Oil Discovery Timing**: Petroleum Development Qatar (subsidiary of Anglo-Persian Oil Company) began drilling in 1938. High-quality crude was discovered at Dukhan in late 1939—just as the pearl economy completed its collapse. The timing was providential: oil provided alternative employment and state revenue exactly when traditional livelihoods had vanished.
+**Oil Discovery Timing**: Petroleum Development Qatar (subsidiary of Anglo-Persian Oil Company) began drilling in 1938. High-quality crude was discovered at Dukhan in late 1939—just as the [[Pearl Economy]] completed its collapse. The timing was providential: oil provided alternative employment and state revenue exactly when traditional livelihoods had vanished.
 
 ## The Oil Era (1949-1971)
 
@@ -188,7 +188,7 @@ Qatar's economic history illustrates both sides of the resource curse. The pearl
 
 But Qatar's current challenge—maintaining wealth and influence as hydrocarbons face transition—mirrors the pearl industry's vulnerability. The 2026 conflict's disruption of LNG exports reveals the same pattern: economic models based on geological advantage face existential threats from technological change or geopolitical conflict.
 
-The difference is institutional memory. Qatar's leaders remember the pearl collapse and have built financial buffers (QIA) and diplomatic relationships (mediation role) to hedge against energy transition. Whether these prove sufficient remains the key economic question of the next decades.
+The difference is institutional memory. Qatar's leaders remember the [[Pearl Economy]] collapse and have built financial buffers (QIA) and diplomatic relationships (mediation role) to hedge against energy transition. Whether these prove sufficient remains the key economic question of the next decades.
 
 ## Cross-vault Links
 
@@ -197,6 +197,7 @@ The difference is institutional memory. Qatar's leaders remember the pearl colla
 
 ## Related Notes
 
+- [[Pearl Economy]] — The 4,000-year industry that collapsed in the 1930s
 - [[Gulf Commerce]]
 - [[Oil Economy]] 
 - [[OPEC]]

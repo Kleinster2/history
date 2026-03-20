@@ -72,7 +72,7 @@ The commercial world before European expansion. For centuries before Portuguese 
 |---------|--------|
 | Horses | Arabia (prized in India) |
 | Dates | Gulf region |
-| Pearls | Persian Gulf |
+| Pearls | Persian Gulf ([[Pearl Economy]]) |
 | Metals | Various |
 | African goods | Ivory, gold, slaves |
 
@@ -235,5 +235,6 @@ The spread of Islam along trade routes shows how commerce transmits culture. Mer
 - [[Merchant Diaspora Networks]]
 - [[Swahili Trade]]
 - [[Spice Trade]] — the commodity that Arab merchants dominated for centuries
+- [[Pearl Economy]] — Gulf pearls carried by Arab merchants to global markets
 - [[Levant Trade]] — the western terminus where Arab-carried goods reached European buyers
 - [[Silk Road]]
