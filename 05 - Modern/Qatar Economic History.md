@@ -90,7 +90,7 @@ The oil-for-development model followed other Gulf states but with key difference
 
 ### Nation Building Under Sheikh Khalifa
 
-Qatar declared independence on September 3, 1971, after Britain's announced Gulf withdrawal. Sheikh Khalifa bin Hamad Al Thani (r. 1972-1995) focused on economic diversification and what would become Qatar's defining advantage: natural gas development.
+Qatar declared independence on September 3, 1971, after Britain's announced Gulf withdrawal. Sheikh Khalifa bin Hamad Al Thani (r. 1972-1995) focused on economic diversification and what would become Qatar's defining advantage: [[Natural Gas|natural gas]] development.
 
 ### North Field Discovery and Early Development
 

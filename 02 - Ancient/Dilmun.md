@@ -27,7 +27,7 @@ Archaeological evidence from Bahrain excavations reveals standardized weights an
 
 **Copper from [[Oman]]**: Dilmun merchants held near-monopoly control over copper trade from Magan (modern Oman) to Mesopotamian cities. Copper represented the Bronze Age equivalent of strategic materials, essential for tools, weapons, and decorative items. Texts from [[Ur]] indicate Dilmun copper commanded premium prices due to quality and reliable supply.
 
-**Pearls**: Natural pearl diving around Bahrain's reefs provided locally sourced luxury goods commanding high prices in [[Mesopotamian]] markets. These pearls, mentioned in Sumerian poetry as gifts fit for gods, established patterns of Gulf pearl dominance that persisted into the 20th century CE.
+**Pearls**: Natural pearl diving around Bahrain's reefs provided locally sourced luxury goods commanding high prices in [[Mesopotamian]] markets. These pearls, mentioned in Sumerian poetry as gifts fit for gods, established patterns of Gulf pearl dominance that persisted into the 20th century CE through the [[Pearl Economy]].
 
 **Precious Stones and Timber**: Materials sourced from [[Indus Valley]] trading partners—including rare stones, aromatic woods, and exotic animals—passed through Dilmun warehouses before distribution to [[Mesopotamian]] cities. The markup on these luxury goods supported Dilmun's sophisticated urban infrastructure.
 
@@ -69,7 +69,7 @@ The rise of [[Assyrian Empire]] land-based trade routes and development of alter
 ### Economic Legacy
 Dilmun's commercial innovations—standardized weights and measures, credit instruments, quality branding, entrepôt operations—established patterns that persisted throughout subsequent Gulf commercial history. The emphasis on intermediation between distant markets, facilitated by strategic geographic positioning, became a recurring theme in Gulf economic development.
 
-Modern [[Bahrain]]'s role as a financial services hub connecting global markets echoes Dilmun's ancient function as commercial intermediary between major civilizations. The continuity spans over 4,000 years, from Bronze Age copper trade to contemporary Islamic banking.
+Modern [[Bahrain]]'s role as a financial services hub connecting global markets echoes Dilmun's ancient function as commercial intermediary between major civilizations. The continuity spans over 4,000 years, from Bronze Age copper trade through the [[Pearl Economy]] to contemporary Islamic banking.
 
 ## Related Concepts
 - [[Bronze Age Trade Networks]] — Broader context of ancient commerce
@@ -77,6 +77,7 @@ Modern [[Bahrain]]'s role as a financial services hub connecting global markets 
 - [[Indus Valley Economy]] — Secondary trading partner
 - [[Ancient Commercial Organization]] — Trade intermediation methods
 - [[Gulf Commercial Heritage]] — Long-term patterns
+- [[Pearl Economy]] — Gulf's millennia-spanning pearl trade
 
 ## Modern Connections
 The archaeological sites of Dilmun civilization remain visible on modern [[Bahrain]], particularly the burial mounds and temple complexes that UNESCO has recognized as World Heritage sites. These ruins provide tangible links between contemporary Bahraini commercial leadership and 4,000+ years of trading heritage.
