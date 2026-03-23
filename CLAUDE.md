@@ -41,6 +41,10 @@ From hunter-gatherers to industrial civilization, from local subsistence to glob
 - **Sources** listed at end of each note
 - **Full-arc ledes** — For narrative notes (companies, people, places, events), the opening paragraph should walk through all major inflection points — not just introduce the topic. A reader who reads only the first paragraph should know what happened and why it mattered. Model: the BP note's lede (founding → Churchill → Iran coup → North Sea → Deepwater Horizon). This convention does *not* apply to analytical/thematic notes (Economic Persistence, Inequality), where the lede states the argument rather than a story.
 
+## Changelog
+
+After creating or updating any note, log the change in `Changelog.md` — a single running log, newest first. One line per note changed: `[[Note Name]]` + what was added/changed + source if applicable.
+
 ## Creating New Notes
 
 1. **Check if note exists first** — Use Glob to search for the filename before creating
@@ -74,3 +78,7 @@ Two other vaults track the present and future that this vault's history leads to
 - [Geopolitics: Note Name](obsidian://open?vault=geopolitics&file=Folder%2FNote%20Name) — current relevance
 ```
 Place under `### Cross-vault` at end of Related Notes. URL-encode paths: spaces → `%20`, slashes → `%2F`.
+
+**Additional vaults:**
+- **Brazil vault** (`C:\Users\klein\obsidian\brazil\`) — Brazilian institutional and economic development. Historical context on colonialism, Estado Novo, military dictatorship, democratization, Plano Real, etc. feeds directly into understanding modern Brazil.
+- **Technologies vault** (`C:\Users\klein\obsidian\technologies\`) — Technology arcs (Bell Labs, transistor, Silicon Valley, AI). When writing about technological revolutions, industrialization, or innovation cycles, check for and cross-link to relevant technology notes.
