@@ -294,7 +294,7 @@ The [[British Empire Economy]] at its height:
 
 ### The Suez Moment
 
-Suez (1956) crystallized decline:
+The [[Suez Crisis]] (1956) crystallized decline:
 
 | Event | Meaning |
 |-------|---------|

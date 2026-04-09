@@ -220,6 +220,8 @@ By 1900, most major economies were on gold—with sterling at the center.
 
 ### Suez (1956): The Moment of Truth
 
+See [[Suez Crisis]] for the full account.
+
 | Event | Significance |
 |-------|--------------|
 | Crisis | Britain invaded Egypt |
@@ -309,3 +311,4 @@ Finally, sterling demonstrates that decline can be managed. Britain remained pro
 - [[Central Banking]]
 - [[From Florin to Dollar]]
 - [[Bretton Woods System]]
+- [[Suez Crisis]]

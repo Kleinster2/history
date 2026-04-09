@@ -204,6 +204,8 @@ Shipping costs determine what can be traded—and therefore the shape of the glo
 | Kiel | 1895 | North Sea to Baltic |
 | Significance | Shortened key routes dramatically |
 
+The canals are also political assets—and the [[Suez Crisis]] of 1956 was the demonstration. When Nasser closed the canal (November 1956 – April 1957, and again 1967-1975), Greek shipowners and oil majors concluded that canal reliability was conditional and responded by building very large crude carriers (VLCCs) economical enough to round the Cape of Good Hope. Engineering routed around politics: within a decade the supertanker had made Suez optional for the oil trade.
+
 ---
 
 ## Containerization Revolution

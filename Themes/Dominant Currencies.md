@@ -302,7 +302,7 @@ Throughout history, one currency has typically dominated international trade—a
 | Great Depression | 1931 | Forced off gold |
 | WWII costs | 1939-45 | Exhausted reserves |
 | Bretton Woods | 1944 | Dollar officially supreme |
-| Suez Crisis | 1956 | Sterling crisis, final proof |
+| [[Suez Crisis]] | 1956 | Sterling crisis, final proof |
 
 ### The Long Lag
 

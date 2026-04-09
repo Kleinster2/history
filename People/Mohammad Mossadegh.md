@@ -143,7 +143,7 @@ Mossadegh's nationalization was the first major test of whether a developing cou
 | [[Iranian Revolution]] (1979) | Khomeini built his movement on the narrative of Western betrayal that began with 1953 |
 | [[IRGC]] | The revolution's security apparatus was built to prevent another 1953 |
 | OPEC (1960) | Nationalization movements across the developing world drew on Iran's experience |
-| Resource nationalism | From Nasser's Suez Canal (1956) to Chávez's PDVSA — the pattern of seizing foreign-controlled assets |
+| Resource nationalism | From Nasser's [[Suez Crisis|Suez Canal nationalization]] (1956) to Chávez's PDVSA — the pattern of seizing foreign-controlled assets |
 
 ### What If?
 

@@ -334,9 +334,12 @@ The British Empire became the largest in history—at its peak ruling a quarter 
 | Event | Date |
 |-------|------|
 | India/Pakistan | 1947 |
+| [[Suez Crisis]] | 1956 |
 | African colonies | 1957-1968 |
 | Caribbean | 1960s-1980s |
 | Hong Kong | 1997 |
+
+The [[Suez Crisis]] was the accounting fiasco that exposed the imperial balance sheet: the military operation succeeded while the financial scaffolding collapsed. Eisenhower refused to let the [[IMF]] backstop the pound until Britain withdrew, and the run on sterling forced ceasefire within a week. It is the moment the lag between British economic decline and currency decline closed.
 
 ### Legacy
 
@@ -381,6 +384,7 @@ The British Empire became the largest in history—at its peak ruling a quarter 
 - [[Great Divergence]]
 - [[Imperialism]]
 - [[Decolonization]]
+- [[Suez Crisis]]
 - [[Slavery Economics]]
 - [[Institutions and Progress]]
 - [[Property Rights]]

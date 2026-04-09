@@ -84,8 +84,11 @@ Decolonization—the process by which colonial territories gained independence�
 |---------|--------|
 | Israel/Palestine | 1948 |
 | Egypt | 1952 revolution |
+| [[Suez Crisis]] | 1956 |
 | Algeria | 1962 |
 | Others | 1960s-70s |
+
+The [[Suez Crisis]] was the turning point for the region and for European imperial ambition generally. Nasser's successful nationalization of the Suez Canal Company—coupled with Eisenhower's refusal to back Anglo-French military intervention—signaled that the age of European gunboat diplomacy was over, and that resource nationalization could succeed if the United States tolerated it.
 
 ### Sub-Saharan Africa
 
@@ -244,5 +247,6 @@ Decolonization revealed the cruelest legacy of [[Imperialism|empire]]: colonial 
 - [[Institutions and Progress]]
 - [[Property Rights]]
 - [[British Empire Economy]]
+- [[Suez Crisis]]
 - [[Modern Index]]
 - [[Walid Khalidi]] — documented the economic and social infrastructure destroyed by Palestinian displacement in 1948

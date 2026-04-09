@@ -163,7 +163,7 @@ But Britain peaked earlier than most realize:
 | 1925 | Return to gold at prewar rate (mistake) |
 | 1931 | Forced off gold; sterling floats |
 | 1944 | Bretton Woods; dollar officially supreme |
-| 1956 | Suez Crisis; sterling crisis; humiliation |
+| 1956 | [[Suez Crisis]]; sterling crisis; humiliation |
 
 The lag between economic decline and currency decline was 70-80 years. Britain lost economic supremacy around 1870; sterling lost currency supremacy around 1944-56.
 

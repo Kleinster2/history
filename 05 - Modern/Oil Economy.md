@@ -399,6 +399,7 @@ Oil is the ultimate resource-curse laboratory. Countries with identical geology�
 - [[OPEC]] — the cartel that shifted oil from price-takers to price-makers
 - [[Petrodollar System]] — how oil surpluses became financial architecture
 - [[1953 Iranian Coup]] — resource sovereignty vs. international capital
+- [[Suez Crisis]] — canal as oil chokepoint; closures (1956-57, 1967-75) triggered the supertanker era
 - [[White Revolution]] — oil-funded authoritarian modernization
 - [[Iranian Revolution]] — triggered the second oil shock
 - [[Iran-Iraq War]] — oil facilities as military targets
