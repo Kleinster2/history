@@ -114,24 +114,35 @@ China's economic transformation since 1978 is the most significant economic even
 
 ---
 
-## Tiananmen and After (1989-1992)
+## [[Tiananmen Square|Tiananmen]] and After (1989-1992)
 
 ### The Crisis
 
-| Event | Significance |
-|-------|--------------|
-| 1989 protests | Democracy demands |
-| June 4 crackdown | Repression |
-| Western sanctions | Temporary isolation |
-| Reform paused | Conservative resurgence |
+The 1989 protests were not simply demands for liberal rights against a monolithic state. They were social democratic protests *about* the reform process itself — a demand that rapid marketization required democratic participation to be given an acceptable direction. The economy was growing at ~11%/year, inflation had reached 20% by 1988, and a dual-track price system created endemic corruption as resources were siphoned from stable-price to liberalized sectors. When comprehensive price liberalization was proposed in summer 1988, bank runs followed. The protests drew not just students but urban workers, civil servants, and intellectuals — all groups on the losing end of the inflationary redistribution.
 
-### Deng's Southern Tour (1992)
+| Factor | Detail |
+|--------|--------|
+| GDP growth | ~11%/year, classic overheating |
+| Inflation (1988) | ~20% official, heading higher |
+| Trigger | Summer 1988 price liberalization proposals → bank runs |
+| Scope | Nationwide urban protests, not just Beijing |
+| Crackdown | June 3-4, 1989; hundreds killed, tens of thousands arrested |
+| Aftermath | Conservative austerity, international sudden stop (World Bank, FDI) |
+
+### Deng's Southern Tour (January-February 1992)
+
+After two years of conservative retrenchment, Deng traveled by train to southern growth centers — Shenzhen, Zhuhai, Shanghai — and declared: "Development, comrades, is the hard truth." Reform would not only continue but accelerate. The [[Chinese New Left]]'s reading ([[Wang Hui]]): neoliberalism came to China not despite [[Tiananmen Square|Tiananmen]] but *because* of it.
 
 | Message | Effect |
 |---------|--------|
-| Reform must continue | Silenced conservatives |
-| "Development is the hard truth" | Economic priority |
-| More opening | Accelerated liberalization |
+| Reform doubles down | Special economic zones expanded, not retreated |
+| Foreign investment surges | FDI rose dramatically in early 1990s |
+| Political question settled | Party monopoly no longer negotiable |
+| Implicit bargain | Growth continues; repression available if needed |
+
+### The Clinton Delink (1994)
+
+The US initially conditioned Most Favored Nation trade status on human rights (Biden, Pelosi coalition). Beijing refused to comply. By spring 1994, Clinton delinked trade from human rights — American business interests and China's refusal to be bullied prevailed. This set the course toward WTO accession.
 
 ---
 
@@ -438,6 +449,7 @@ China's rise is the greatest [[Institutions and Progress|institutional]] experim
 
 ## Related Notes
 
+- [[Tiananmen Square]]
 - [[Asian Tigers]]
 - [[Globalization]]
 - [[Neoliberalism]]

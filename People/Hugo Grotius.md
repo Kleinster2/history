@@ -121,3 +121,4 @@ Grotius is the starting point of Wengrow's forthcoming book on the Indian Ocean 
 - [[Institutions and Progress]]
 - [[Great Divergence]]
 - [[Early Modern Index]]
+- [[Nomos and International Order]] -- Schmitt's framework historicizes the Grotian tradition, arguing Mare Liberum served the thalassocratic model

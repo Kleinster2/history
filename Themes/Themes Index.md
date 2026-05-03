@@ -424,6 +424,21 @@ These schools provide the theoretical foundations that the vault's historical no
   - Timber crisis, high wages, oil shocks
   - Why constraints sometimes drive change (and sometimes don't)
 
+### Politics, Power & Strategy
+
+- [[Military Organization & State Development]] - Tilly thesis: war made states
+  - Military-institutional feedback loops across periods
+  - Technology and state transformation
+
+- [[US Hemisphere Defense Strategy]] - Two centuries of Western Hemisphere doctrine
+  - Monroe Doctrine to Quarter Sphere to Cold War to revival
+  - How capability shaped ambition across eras
+
+- [[Nomos and International Order]] - Schmitt's framework for spatial ordering and law
+  - Land appropriation as foundation of property and political authority
+  - Jus publicum Europaeum: bracketing of war, European vs. colonial space
+  - Land vs. sea civilizations, Grossraum as successor nomos
+
 ### Modern Transformations
 
 - [[Inequality]] - The arc of inequality through history

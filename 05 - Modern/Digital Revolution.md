@@ -300,6 +300,32 @@ The decisive factor: California's refusal to enforce non-compete clauses meant t
 | 2005-present | Productivity slowdown resumed |
 | Debate | Mismeasurement? Or real disappointment? |
 
+#### The 5-7 year lag pattern (Brynjolfsson-Hitt thesis)
+
+[[Erik Brynjolfsson]] and Lorin Hitt's structural argument across multiple papers (1996, 2003, 2020 with Daniel Rock and Chad Syverson): general-purpose technologies (GPTs) — steam, electricity, the integrated circuit, and now machine learning — produce *negative* measured productivity for the first 5-10 years of diffusion before producing the productivity surge that justified the investment. The reason is not that the technology is failing; it is that the complementary intangible investments needed to make the technology productive (process redesign, organizational restructuring, worker retraining, software customization, business-model reinvention) are themselves productivity-depressing in the build-out phase, while the technology's own contribution shows up in current accounts as cost rather than as output.
+
+The empirical anchor: US electrification took roughly 40 years (1880s dynamo to 1920s factory floor reorganization) before measured productivity reflected the technology's promise. The microcomputer took roughly 20 years (1975 introduction to mid-1990s acceleration). Each transition followed the same J-curve: cost up first, capabilities accumulate invisibly in intangible capital, then output catches up and the curve inflects.
+
+#### The intangibles thesis
+
+The Brynjolfsson-Rock-Syverson 2020 paper formalizes the mechanism. National-accounts measurement systematically under-counts intangible investment (process change, organizational redesign, software customization). Firms that adopt a transformative technology look temporarily *less* productive because their intangible investment is expensed as current cost rather than capitalized as future output capacity. The longer the gestation period, the more severe the measurement distortion — and machine learning has a long gestation period because the complementary changes (new business processes, new firm structures, new occupational categories) take a decade or more to settle.
+
+The corollary: the AI productivity paradox emerging in 2023-2026 is not a refutation of the Brynjolfsson framework but the predicted opening phase. If the pattern holds, the inflection arrives in the early 2030s — roughly a decade after the 2022-2023 LLM-deployment kickoff.
+
+#### Historical precedents — idea-execution inversion
+
+A companion structural pattern across general-purpose-technology transitions: the relative cost of "having an idea" versus "executing on it" inverts. Pre-transition, ideas are cheap and execution is hard; post-transition (or during the late stages of build-out), execution becomes radically cheaper relative to ideation, and the binding constraint shifts to identifying which ideas are worth executing.
+
+Historical worked examples:
+
+- **Printing press (1440s onward).** Pre-Gutenberg, the rate-limiter on intellectual work was the manuscript copyist economy — a single book copy could absorb a year of skilled labor. Post-Gutenberg, the rate-limiter became the writer (originating the text) and the publisher (deciding what to print). The execution layer (typesetting, printing, distribution) collapsed in cost; the value chain inverted toward originators.
+
+- **Electrification (1880s-1920s).** Pre-electrification, the rate-limiter on factory output was the placement of work-stations relative to the central steam engine and the line-shaft transmission system. Post-electrification (factory-floor reorganization around individual electric motors), the rate-limiter became process design — what should each station do, in what sequence. The execution layer (machining, transmission of power) became flexible; the value chain inverted toward industrial engineers.
+
+- **Microcomputer (1975-1995).** Pre-PC, the rate-limiter on small-business computing was access to mainframe time and the programmers needed to write batch jobs. Post-PC + spreadsheet, the rate-limiter became defining the model the spreadsheet should compute. The execution layer (calculation, storage, retrieval) collapsed; the value chain inverted toward analysts and decision-makers.
+
+The 2026 framing of the AI "idea-execution inversion" sits in this lineage. If the pattern holds, the binding constraint of the 2030s is taste and judgment about what to build, not engineering capacity to build it.
+
 ### Labor Market Effects
 
 | Effect | Description |

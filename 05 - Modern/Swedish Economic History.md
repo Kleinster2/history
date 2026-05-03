@@ -224,14 +224,57 @@ From peripheral iron exporter to high-tech welfare state. Sweden's transformatio
 | H&M | Fashion | Fast fashion pioneer |
 | Electrolux | Appliances | Consolidator |
 
-### The Wallenberg Empire
+### The Sphere System (*sfärer*)
 
-| Feature | Description |
-|---------|-------------|
-| Investor AB | Holding company |
-| Control | Ericsson, ABB, SEB, Atlas Copco |
-| Style | Long-term, active ownership |
-| Significance | Patient capital model |
+Swedish banking legislation in the late 19th and early 20th centuries increasingly restricted banks from holding direct equity stakes in industrial companies — regulators feared that bank failures would cascade into industrial collapses if the two were intertwined. The solution: banks transferred their industrial portfolios to dedicated holding companies controlled by the banking families. These became permanent capital vehicles — not temporary fund structures but generational investment platforms.
+
+#### Origins
+
+| Year | Event | Significance |
+|------|-------|-------------|
+| 1856 | Andre Oscar Wallenberg founds Stockholms Enskilda Banken (SEB) | First Swedish commercial bank; the Wallenberg dynasty begins |
+| 1916 | Wallenberg family creates Investor AB | SEB's industrial holdings transferred to a separate holdco to comply with banking regulations |
+| 1917 | Banking crisis + new banking legislation | Tighter restrictions on bank equity ownership accelerate the separation |
+| 1944 | Industrivärden created | Svenska Handelsbanken transfers industrial holdings to a separate holdco; Lundberg sphere forms |
+| 1936 | Kinnevik founded | Stenbeck family; mining and forestry, later pivoting to telecom |
+
+The regulatory logic was straightforward: banks should lend, not own. But the effect was to create a class of permanent, family-controlled investment vehicles with no fund life, no forced exits, and no redemption pressure — precisely the features that make them powerful capital allocators across generational time horizons.
+
+#### The Three Spheres
+
+| Sphere | Family | Holding vehicle | Origin | Controlled companies |
+|--------|--------|----------------|--------|---------------------|
+| Wallenberg | Wallenberg (now 5th-6th generation) | Investor AB (1916) | SEB banking family | Ericsson, ABB (ASEA), Atlas Copco, AstraZeneca, SEB, Saab, Husqvarna, Electrolux |
+| Lundberg | Lundberg | Industrivärden (1944) + Lundbergföretagen | Handelsbanken connection | Volvo, Sandvik, Essity, Handelsbanken, Skanska, Holmen |
+| Stenbeck | Stenbeck | Kinnevik (1936) | Mining/forestry family | Tele2, Millicom (later growth-stage tech) |
+
+#### Control Mechanism: Dual-Class Shares
+
+Swedish corporate law permits A-shares carrying 10 votes versus B-shares carrying 1 vote. The sphere families hold concentrated A-share positions, giving them board control over companies where they may hold only 5-15% of total equity. This is not a loophole — it is a deliberate feature of Swedish corporate governance, defended against EU harmonization efforts in the 2000s.
+
+The effect: the Wallenberg sphere alone controls companies worth roughly $500B+ in combined market capitalization, making it one of the most concentrated exercises of private economic power in any democracy.
+
+#### Cross-Shareholdings
+
+The spheres interlock. Both Investor AB and Industrivärden hold significant stakes in Ericsson, Volvo, and Handelsbanken. Sandvik, Skanska, and Volvo historically held interlocking stakes. This web makes hostile takeovers of Swedish blue chips nearly impossible and ensures coordinated board representation across the industrial base. The Stockholm saying: "What the Wallenbergs don't own, they control."
+
+#### The Wallenberg Maxim
+
+*Esse non videri* — "to be, not to be seen." The family philosophy emphasizes quiet control, long-term stewardship, and avoiding public confrontation. The Wallenberg Foundations (funded by Investor AB dividends) are Sweden's largest private research funders, giving the sphere social legitimacy beyond pure wealth concentration.
+
+#### Why the Spheres Persisted
+
+Unlike Japanese zaibatsu (dissolved by SCAP after 1945) or Korean chaebols (under ongoing reform pressure), the Swedish spheres have never faced a serious dissolution effort:
+
+| Factor | Mechanism |
+|--------|-----------|
+| Performance | Investor AB trades at a 6% premium to NAV — hard to argue the system destroys value |
+| Foundation structure | Wallenberg Foundations' charitable/research mission provides social legitimacy |
+| National champion narrative | Small country (10.5M people) producing an outsized number of global industrial leaders |
+| EU exception | Sweden successfully defended dual-class structures against one-share-one-vote harmonization |
+| Labor cooperation | Saltsjöbaden-era consensus culture extended to corporate governance; spheres seen as stabilizing |
+
+The sphere system is the institutional link between Sweden's late industrialization (the engineering giants were built with patient Wallenberg capital) and its contemporary innovation economy (EQT, the country's largest PE firm, was a 1994 Wallenberg spin-out).
 
 ## Contemporary Challenges
 
@@ -289,3 +332,11 @@ Sweden proves that there's more than one path to prosperity, and that late indus
 - [[Welfare State]]
 - [[Industrial Revolution]]
 - [[Innovation Economics]]
+- [[Korean Chaebol]] — parallel family-controlled industrial model (state-directed vs. bank-regulatory origin)
+- [[Hong Kong Hongs]] — another family-capitalism model (colonial-origin trading conglomerates)
+
+### Cross-vault
+- [Investing: Swedish spheres](obsidian://open?vault=investing&file=Concepts%2FSwedish%20spheres) — contemporary governance analysis: Wallenberg/Lundberg/Stenbeck spheres, dual-class A/B shares, cross-shareholdings, NAV discount dynamics
+- [Investing: Investor AB](obsidian://open?vault=investing&file=Actors%2FInvestor%20AB) — Wallenberg holding vehicle; only major holdco at +6% NAV premium
+- [Investing: EQT](obsidian://open?vault=investing&file=Actors%2FEQT) — Wallenberg spin-out, now independent listed PE ($250B AUM)
+- [Investing: Proprietary capital model](obsidian://open?vault=investing&file=Concepts%2FProprietary%20capital%20model) — Swedish spheres as a subtype of proprietary capital

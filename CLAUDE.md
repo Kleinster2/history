@@ -1,12 +1,12 @@
 # History Vault
 
-A history vault viewed through the lens of **economic progress**—how humanity went from subsistence to modernity.
+A history vault viewed through the lens of **economic progress**—how humanity went from subsistence to modernity—with military and institutional development as a secondary thread where it shaped states, borders, and technological transitions.
 
 ## The Throughline
 
 This vault explores one central question: **How did we get here?**
 
-From hunter-gatherers to industrial civilization, from local subsistence to global markets, from muscle power to machines—this is the story of material progress. Technology, wealth, trade, institutions, innovation: all facets of one transformation.
+From hunter-gatherers to industrial civilization, from local subsistence to global markets, from muscle power to machines—this is the story of material progress. Technology, wealth, trade, institutions, innovation: all facets of one transformation. Military organization and warfare enter the picture when they drove state formation, institutional development, or technological change—not as battlefield narratives for their own sake.
 
 ## What the Notes Cover
 
@@ -19,6 +19,8 @@ From hunter-gatherers to industrial civilization, from local subsistence to glob
 | Florence, Venice | Who captured the gains? |
 | Economic Collapse | What makes progress reverse? |
 | Economic Persistence | What survives across all systems? |
+| Roman Legions | How did military needs build institutions? |
+| Gunpowder Revolution | How did military technology reshape states? |
 
 ## Structure
 
@@ -58,7 +60,9 @@ After creating or updating any note, log the change in `Changelog.md` — a sing
 
 Every note, whether about Cistercian monks or Chinese emperors, asks: what does this tell us about economic progress? How did people produce, trade, accumulate, innovate? What enabled growth, and what held it back?
 
-This isn't economic history as a subdiscipline. It's history with economics as the throughline—the material story of how the world changed.
+The primary lens is economics. The secondary lens is military-institutional: how warfare drove state formation, bureaucratic development, taxation systems, and technological transitions. Military content earns its place when it connects to these structural outcomes—not through campaign narratives or tactical detail alone. For contemporary military analysis (doctrine, active conflicts, defense industry, strategic competition), the geopolitics vault is the home.
+
+This isn't economic history as a subdiscipline. It's history with economics as the throughline—the material story of how the world changed—with military organization as one of the forces that shaped it.
 
 ## Cross-Vault Awareness
 

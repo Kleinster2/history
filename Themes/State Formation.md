@@ -214,6 +214,7 @@ States—centralized political organizations with monopolies on legitimate viole
 - [[Taxation]]
 - [[Bureaucracy]]
 - [[Warfare & Economy]]
+- [[Military Organization & State Development]] — the Tilly thesis: how military needs built institutions
 - [[Urbanization]]
 - [[The Dawn of Everything]]
 - [[David Wengrow]]

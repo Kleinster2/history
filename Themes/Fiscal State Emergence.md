@@ -83,7 +83,7 @@ When did the modern fiscal state emerge? The fiscal state was an institutional a
 | 1698 | New East India Company loan |
 | 1711 | South Sea Company (debt conversion) |
 | 1720 | Crash, but debt system survives |
-| 1751 | Consols (consolidated perpetual debt) |
+| 1751 | [[British Consols\|Consols]] (consolidated perpetual debt) |
 
 ### Bank of England
 

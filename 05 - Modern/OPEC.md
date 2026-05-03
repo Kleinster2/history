@@ -231,6 +231,26 @@ The fundamental asymmetry: OPEC+ bears the cost of restraint while US producers 
 | Congo | 2018 | ~0.3 | Newest member |
 | Equatorial Guinea | 2017 | ~0.1 | Small producer |
 
+## Fragmentation (1992-2026)
+
+OPEC's institutional architecture has weakened in the 2019-2026 window through four formal exits in seven years — the densest cluster of departures in the cartel's history. The pattern is consistent enough across cases to be a structural rather than incidental phenomenon: OPEC's quota system is calibrated to support price by restraining the highest-capacity producers, and those producers eventually conclude that the cartel premium is smaller than the volume foregone. Indonesia and Ecuador both suspended-and-resumed before final exit; Qatar left for LNG focus amid the Saudi-led blockade; Angola left because its quota was below its actual production; the UAE — the largest defection in OPEC history — left because its capacity was years ahead of any quota OPEC+ would assign.
+
+| Member | Joined | Left | Capacity arc at exit | Stated reason |
+|--------|--------|------|----------------------|---------------|
+| Ecuador | 1973 | Suspended Dec 1992; rejoined Oct 2007; withdrew Jan 1, 2020 | Stagnant ~0.5 mb/d | Membership fees too high; quotas restrictive |
+| Indonesia | 1962 | Suspended Jan 2009; rejoined Jan 2016; suspended Nov 2016 | Declining (became net importer) | Couldn't meet quota; later quota too restrictive |
+| Qatar | 1961 | Jan 1, 2019 | Stable ~0.6 mb/d crude | LNG focus; GCC blockade rift with Saudi (June 2017+) |
+| Angola | 2007 | Jan 1, 2024 | Declining ~1.1 mb/d | Quota dispute (1.46 → 1.11 mb/d cut at Nov 2023 meeting) |
+| UAE | 1967 (Abu Dhabi) | May 1, 2026 | **Rising — peak of capacity arc (~4.8 mb/d → 5 mb/d 2027)** | "Pure policy change," capacity flexibility |
+
+The UAE case (announced April 28, 2026, effective May 1) is structurally distinct because it is the first major exporter to leave at the peak of its capacity arc rather than the trough. ADNOC's $150 billion 2023-2027 capex program had moved UAE capacity to ~4.8 mb/d against quota-constrained production of ~3.5 mb/d; the Baker Institute estimated unconstrained operation could generate "upward of $50 billion in additional annual revenues." Energy Minister Suhail Al Mazrouei framed it as a "pure policy change" allowing flexibility, denying any political dispute with Saudi Arabia, and citing the [[Strait of Hormuz]] closure as the reason the timing wouldn't shock the market.
+
+The political surround was harder to detach from the announcement. The Saudi-UAE Yemen coalition had fractured in December 2025 over Saudi airstrikes on what Riyadh said were Iranian weapons shipments to UAE-backed Southern Transitional Council separatists. Five days before the OPEC announcement, US Treasury Secretary Scott Bessent publicly defended a $20 billion currency swap line for the UAE before a Senate appropriations subcommittee. UAE diplomatic adviser Anwar Gargash, separately on April 28, called the GCC's wartime cohesion "the weakest historically." The OPEC exit reads as the institutional crystallization of a Gulf realignment toward bilateral US anchoring rather than continued multilateral GCC alignment.
+
+For the long arc, the UAE case validates the cartel-fragmentation framing rather than introducing it. Indonesia, Ecuador, and Angola left because they couldn't gain by staying. The UAE is the first major member to leave because it expects to gain by leaving — a different signal entirely. That distinction matters because cartel discipline rarely fails uniformly; it fails first at the highest-capacity members. Once the pattern becomes "high-capacity producers exit," the cartel's structural weakness compounds: each exit lowers the cost of the next exit, the remaining members bear more of the discipline burden, and the institutional architecture moves from coordination at quota-supported price levels toward informal restraint at lower price levels.
+
+The realistic post-fragmentation equilibrium is a Saudi-led informal price floor enforced by spare-capacity threat, not a quota system. That is structurally weaker than OPEC at peak power but is not the absence of coordination. See [Investing: OPEC fragmentation](obsidian://open?vault=investing&file=Concepts%2FOPEC%20fragmentation) (concept note) and [Investing: 2026 UAE OPEC exit](obsidian://open?vault=investing&file=Events%2F2026%20UAE%20OPEC%20exit) (event note) for the live-decision framework and the cartel-collective-action-problem microfoundations.
+
 ## The Deeper Point
 
 OPEC's history illuminates the economics of commodity cartels and the politics of resource sovereignty. The organization succeeded in shifting oil rents from Western companies to producer governments — the largest peaceful wealth transfer in modern history. But its members' divergent interests (population size, fiscal needs, geopolitical alignment) have always limited its ability to function as a true cartel. Saudi Arabia's dominance means OPEC is less a cartel of equals than a Saudi-led coordination mechanism with veto power over price.
@@ -266,4 +286,7 @@ The deeper lesson connects to this vault's [[Institutions and Progress|instituti
 ### Cross-vault
 - [Geopolitics: Energy Markets](obsidian://open?vault=geopolitics&file=Topics%2FEnergy%20Markets) — current OPEC+ dynamics, production politics
 - [Investing: Energy](obsidian://open?vault=investing&file=Sectors%2FEnergy) — oil price outlook, IOC vs. NOC investment thesis
+- [Investing: 2026 UAE OPEC exit](obsidian://open?vault=investing&file=Events%2F2026%20UAE%20OPEC%20exit) — most recent fragmentation case; full event note with market mechanics
+- [Investing: OPEC fragmentation](obsidian://open?vault=investing&file=Concepts%2FOPEC%20fragmentation) — concept note for the cartel-exit pattern
+- [Investing: OPEC](obsidian://open?vault=investing&file=Actors%2FOPEC) — current member roster and live OPEC+ dynamics
 - [[Modern Index]]

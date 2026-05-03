@@ -438,3 +438,4 @@ World War II transformed the United States from a Depression-wracked economy int
 - [[World Wars Economic Impact]]
 - [[Progressive Era]]
 - [[Modern Index]]
+- [[Defense Industrial Base Consolidation]] — how the dual-use capacity built here was dismantled after 1989

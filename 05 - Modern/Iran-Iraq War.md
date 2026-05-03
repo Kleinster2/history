@@ -99,6 +99,22 @@ This experience of *strategic solitude* — facing the world almost entirely alo
 | Economic isolation | War deepened Iran's disconnection from global markets |
 | IRGC economic empire | Post-war reconstruction contracts went to IRGC → [[Middle Eastern Business\|bonyads and military-industrial complex]] |
 
+### Infrastructure
+
+The war's most enduring physical legacy may be one built not by the belligerents but by a neighbor protecting itself from the crossfire.
+
+| Innovation | Origin | Long-term consequence |
+|------------|--------|-----------------------|
+| [[East-West Pipeline]] (Petroline) | [[Saudi Arabia]] built a 1,200 km crude pipeline from [[Abqaiq]] to [[Yanbu]] on the Red Sea to bypass the [[Strait of Hormuz]] | Became the cornerstone of global oil supply resilience 45 years later |
+
+Construction began in 1980 as navigation in the Persian Gulf came under threat. The initial 48-inch pipeline was commissioned in 1981 with ~1.85 mb/d capacity, at a cost of $495 million. A December 1980 newsletter — the Mideast Report — heralded the project as providing an alternative to the "strategic yet vulnerable Strait of Hormuz, which could eventually come under Iranian guns." An Iraqi crude spur was added to carry Iraqi exports west, but was decommissioned after Saddam's invasion of [[Kuwait]] in 1990.
+
+The pipeline was expanded repeatedly: a parallel 56-inch line in 1987 (boosting capacity to 3.2 mb/d), a pump upgrade in 1992 (~5 mb/d), and — after the 2019 [[Abqaiq]] drone/missile attacks revealed ongoing vulnerability — a permanent expansion to 7 mb/d completed by 2024. The route traverses deserts from near sea level at Abqaiq, crosses the Hijaz mountains at elevations exceeding 1,000 meters, and descends to [[Yanbu]] on the Red Sea coast.
+
+In March 2026, when the US-Israeli war on [[Iran]] closed the [[Strait of Hormuz]], the pipeline activated as designed — rerouting Saudi crude exports to the Red Sea within days. [[Yanbu]] exports surged from <800K bbl/day to over 4 mb/d, partially offsetting the ~20 mb/d that normally transits Hormuz. [[Jim Krane]] ([[Rice University]]) called it "a strategic masterstroke" (Bloomberg, March 22, 2026).
+
+The economic lesson: strategic infrastructure built for a contingency that may never arrive is not a waste — it is insurance. The pipeline sat largely underutilized for 45 years, a cost center on [[Saudi Aramco]]'s books. The moment the scenario it was designed for materialized, it became one of the most consequential pieces of energy infrastructure on earth. This pattern — expensive, dormant contingency infrastructure proving its value in crisis — recurs throughout economic history, from granaries in [[Ancient Egypt]] to the US [[Strategic Petroleum Reserve]].
+
 ## The Iran-Contra Dimension
 
 The war intersected with American domestic politics through the Iran-Contra affair: the Reagan administration secretly sold weapons to Iran (via Israel) and used the proceeds to fund Nicaraguan rebels. This episode — in which the US simultaneously backed Iraq publicly and armed Iran covertly — illustrates the tangled, contradictory nature of great power involvement in the conflict.
@@ -136,3 +152,10 @@ The economic lesson is about how wars shape institutions. The IRGC emerged from 
 - [[Ayatollah Khomeini]] — prolonged the war six years beyond territorial recovery
 - [[Qasem Soleimani]] — forged in this war; later built the proxy network it inspired
 - [[Shah Mohammad Reza Pahlavi]] — his fall created the chaos Saddam exploited
+- [[East-West Pipeline]] — strategic infrastructure built during this war
+- [[Strait of Hormuz]] — the chokepoint the pipeline was designed to bypass
+- [[Saudi Arabia]] — built the pipeline as insurance; activated it in 2026
+
+### Cross-vault
+- [Investing: East-West Pipeline](obsidian://open?vault=investing&file=Infrastructure%2FEast-West%20Pipeline) — current crisis data, throughput figures, expert assessments
+- [Geopolitics: 2026 Iran conflict](obsidian://open?vault=geopolitics&file=Events%2F2026%20Iran%20conflict) — the war that activated the pipeline 45 years later

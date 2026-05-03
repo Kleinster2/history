@@ -57,7 +57,7 @@ The Netherlands invented modern finance—but England industrialized. Why did Du
 |-------------|-------------------|
 | Bank of Amsterdam | [[Bank of England]] (1694) |
 | VOC | East India Company restructuring |
-| National debt | Funded debt, consols |
+| National debt | Funded debt, [[British Consols|consols]] |
 | Stock exchange | London exchange growth |
 
 ### Interest Rate Convergence
@@ -174,7 +174,7 @@ The Netherlands invented modern finance—but England industrialized. Why did Du
 | Pattern | Scale |
 |---------|-------|
 | Investment in Britain | Major flows |
-| Government debt | Held English consols |
+| Government debt | Held English [[British Consols|consols]] |
 | Commercial investment | British enterprises |
 | Effect | Dutch finance, English industry |
 

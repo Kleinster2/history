@@ -296,6 +296,7 @@ The overseas Chinese "bamboo network" is the purest demonstration that [[Entrepr
 ## Related Notes
 
 - [[Chinese Business]]
+- [[Tiananmen Square]] — diaspora FDI collapsed after crackdown, surged after 1992 Southern Tour
 - [[ASEAN Economy]]
 - [[Asian Tigers]]
 - [[Trade Networks]]
@@ -305,6 +306,7 @@ The overseas Chinese "bamboo network" is the purest demonstration that [[Entrepr
 - [[Institutions and Progress]]
 - [[Business Firm]]
 - [[Foundational Firms]]
+- [[Hong Kong Hongs]] — British-origin trading houses; Li Ka-shing's acquisition of Hutchison Whampoa (1979) was the pivotal displacement moment
 - [[Property Rights]]
 - [[State Capacity]]
 - [[Modern Index]]

@@ -174,7 +174,7 @@ From Amsterdam Beurs to London Exchange—stock markets required institutional i
 
 | Type | Examples |
 |------|----------|
-| Government debt | Consols (consolidated annuities) |
+| Government debt | [[British Consols|Consols]] (consolidated annuities) |
 | Bank shares | Bank of England |
 | Insurance | Marine, fire companies |
 | Utilities | Canal companies, later railways |

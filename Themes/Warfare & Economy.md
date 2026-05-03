@@ -210,8 +210,10 @@ War and economy are inextricably linked. Wars are fought for economic gain—lan
 ## Related Notes
 
 - [[World War II as Convergent Conflicts]] — resource competition as war's driver
+- [[Military Organization & State Development]] — the institutional side of the war-state loop
 - [[Empire Building]]
 - [[State Formation]]
 - [[Taxation]]
 - [[Trade Networks]]
 - [[Industrial Revolution]]
+- [[Defense Industrial Base Consolidation]] — post-Cold War loss of dual-use surge capacity

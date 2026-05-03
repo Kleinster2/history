@@ -206,6 +206,7 @@ Communism—the ideology advocating collective ownership of the means of product
 ## Related Notes
 
 - [[Capitalism]]
+- [[Tiananmen Square]] — the CCP's survival through economic crisis and the settlement of party monopoly
 - [[Cold War]]
 - [[Industrial Revolution]]
 - [[Labor History]]

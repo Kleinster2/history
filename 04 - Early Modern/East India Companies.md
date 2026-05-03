@@ -383,4 +383,5 @@ The East India Companies were the most powerful corporations in history—charte
 - [[Imperialism]]
 - [[Institutions and Progress]]
 - [[Property Rights]]
+- [[Hong Kong Hongs]] — the trading houses that succeeded the EIC in the China trade after the Opium Wars
 - [[Early Modern Index]]

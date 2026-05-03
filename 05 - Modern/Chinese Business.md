@@ -294,6 +294,7 @@ China created a new organizational form: party-state capitalism. Neither purely 
 ## Related Notes
 
 - [[China's Rise]]
+- [[Tiananmen Square]] — crackdown and Southern Tour set the stage for SOE restructuring and private sector emergence
 - [[Asian Tigers]]
 - [[Corporate Evolution]]
 - [[Digital Revolution]]

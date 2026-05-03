@@ -310,11 +310,13 @@ The chaebol system is Baumol's thesis in its most concentrated form: the Korean 
 ## Related Notes
 
 - [[Asian Tigers]]
-- [[Japanese Economic Miracle]]
+- [[Japanese Economic Miracle]] — zaibatsu/keiretsu as the model Park Chung-hee adapted
+- [[Hong Kong Hongs]] — British-origin Asian conglomerates; family control via trusts (vs. chaebol pyramids)
 - [[Varieties of Capitalism]]
 - [[Corporate Evolution]]
 - [[Foundational Firms]]
 - [[Development Economics]]
+- [[Developmental State]]
 - [[Institutions and Progress]]
 - [[German Business Model]]
 - [[Mass Production]]
@@ -326,3 +328,9 @@ The chaebol system is Baumol's thesis in its most concentrated form: the Korean 
 - [[Steel Industry]]
 - [[Technology Industry]]
 - [[Modern Index]]
+
+### Cross-vault
+- [Investing: Chaebol](obsidian://open?vault=investing&file=Concepts%2FChaebol) — contemporary governance analysis: pyramid control mechanics, Korea discount, Value-Up reforms, Lee Jae Myung's KOSPI 5,000 pledge
+- [Investing: Samsung](obsidian://open?vault=investing&file=Actors%2FSamsung) — Samsung Electronics: foundry, memory, competitive dynamics
+- [Investing: SK Group](obsidian://open?vault=investing&file=Actors%2FSK%20Group) — SK Hynix HBM dominance, memory shortage thesis
+- [Investing: Proprietary capital model](obsidian://open?vault=investing&file=Concepts%2FProprietary%20capital%20model) — chaebols as control-pyramid subtype of proprietary capital

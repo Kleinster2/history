@@ -86,7 +86,7 @@ How did paying for war transform fiscal systems? War finance drove fiscal innova
 |------------|------|--------------|
 | Bank of England | 1694 | Government banker |
 | Funded debt | 1690s | Long-term, funded by taxes |
-| Consols | 1751 | Perpetual, consolidated |
+| [[British Consols\|Consols]] | 1751 | Perpetual, consolidated |
 | Sinking fund | 1717 | Debt reduction mechanism |
 
 ### How It Worked

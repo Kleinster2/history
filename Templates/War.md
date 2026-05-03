@@ -24,6 +24,15 @@ tags: [war, conflict]
 ### Side B
 
 
+## Military Organization & Force Structure
+
+
+## Tactics & Doctrine
+
+
+## Technology & Weapons
+
+
 ## Major Battles & Campaigns
 
 
@@ -39,8 +48,14 @@ tags: [war, conflict]
 ## Aftermath & Consequences
 
 
+## Institutional Legacy
+
+
 ## Sources & Further Reading
 -
 
 ## Related Notes
 -
+
+### Cross-vault
+
