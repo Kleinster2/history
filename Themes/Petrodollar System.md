@@ -186,6 +186,7 @@ The deepest irony is distributional. The system that sustained dollar dominance 
 - [[Latin American Development]] — debt crisis as petrodollar consequence
 - [[Iranian Revolution]] — the second oil shock that amplified petrodollar flows
 - [[Iran Sanctions]] — using the dollar system as a weapon
+- [[Suez Crisis]] — the 1956 inversion: the US used dollar leverage to dismantle British Middle East primacy; the petrodollar architecture of 1974 then used US military protection to anchor Arab oil revenues in dollars under the same nexus
 - [[Neoliberalism]] — the policy framework that emerged from the crisis
 - [[Institutions and Progress]] — monetary architecture as institutional infrastructure
 - [[Dominant Currencies]] — the petrodollar in the long arc of reserve currency succession
@@ -193,4 +194,5 @@ The deepest irony is distributional. The system that sustained dollar dominance 
 
 ### Cross-vault
 - [Geopolitics: Dollar Weaponization](obsidian://open?vault=geopolitics&file=Topics%2FDollar%20Weaponization) — sanctions, SWIFT, de-dollarization dynamics
-- [Investing: Macro](obsidian://open?vault=investing&file=Themes%2FMacro) — dollar regime and capital flow implications
+- [Investing: Petrodollar](obsidian://open?vault=investing&file=Concepts%2FPetrodollar) — contemporary state, IMF COFER reserve-share data, Hormuz 2026 coercion test, "1970s/80s vs today" comparison
+- [Investing: Dollar reserve status erosion](obsidian://open?vault=investing&file=Concepts%2FDollar%20reserve%20status%20erosion) — current measures (IMF COFER 57% / Bloomberg ~41%), methodology disambiguation, foreign holder composition

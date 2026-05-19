@@ -207,6 +207,7 @@ The human cost was a 26-year experiment in authoritarian modernization that ende
 - [[Oil Economy]] — the resource at the center
 - [[OPEC]] — the collective solution to what Mossadegh attempted alone
 - [[Iranian Revolution]] — the blowback, 26 years later
+- [[Suez Crisis]] — the parallel 1956 Anglo-imperial overreach in the Middle East; the US allied with covert action in 1953 but used dollar leverage to dismantle British primacy three years later
 - [[White Revolution]] — the Shah's authoritarian modernization after the coup
 - [[Persian Economic History]] — the long arc of foreign control over Iranian resources
 - [[Iran-Iraq War]] — consequence of the revolution the coup seeded

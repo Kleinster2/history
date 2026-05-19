@@ -157,6 +157,7 @@ The broader lesson connects to the [[Institutions and Progress|institutional]] f
 
 - [[Iranian Revolution]] — sanctions began here
 - [[1953 Iranian Coup]] — the sovereignty wound underlying Iran's posture
+- [[Suez Crisis]] — the 1956 prototype for US financial-coercion sanctions via IMF gatekeeping and currency support; the template every subsequent dollar-weaponization episode (including against Iran) refines
 - [[White Revolution]] — the modernization sanctions eventually undid
 - [[OPEC]] — Iran as founding member; oil as the primary sanctioned commodity
 - [[Petrodollar System]] — the dollar system weaponized against Iran

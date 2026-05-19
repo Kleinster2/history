@@ -166,3 +166,4 @@ The Bank also shows how financial innovation compounds. Early success built repu
 - [[Glorious Revolution]]
 - [[British Empire Economy]]
 - [[National Debt]]
+- [[Suez Crisis]] — the 1956 sterling crisis when US-discretionary IMF gatekeeping forced British withdrawal in days, exposing the post-Bretton Woods limits of sterling's reserve-currency role

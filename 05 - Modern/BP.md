@@ -190,6 +190,7 @@ BP is the case study for **state-corporate entanglement**. When Churchill bought
 - [[Imperialism]] — BP as instrument of empire
 - [[Cold War]] — the 1953 coup
 - [[1953 Iranian Coup]] — the full coup story
+- [[Suez Crisis]] — the 1956 inflection that ended the British era of Middle East oil primacy that Anglo-Iranian had anchored
 - [[OPEC]] — the nationalization wave that ended the Seven Sisters era
 - [[Iranian Revolution]] — the 1953 coup's blowback, 26 years later
 - [[White Revolution]] — the Shah's modernization between coup and revolution

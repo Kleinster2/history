@@ -222,6 +222,7 @@ Imperialism was the global application of [[Institutions and Progress|extractive
 - [[Colonial India]]
 - [[Atlantic Slave Trade]]
 - [[Decolonization]]
+- [[Suez Crisis]] — the 1956 inflection that accelerated decolonization once empire's financial logic failed
 - [[Development Economics]]
 - [[Modern Africa]]
 - [[Industrial Revolution]]
