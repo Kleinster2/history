@@ -9,6 +9,7 @@ Running log of vault changes, newest first.
 
 ---
 
+- 2026-05-25: [[AGENTS]] — added Codex/OpenClaw entrypoint that points agents to [[CLAUDE.md]] as the source of truth and mirrors the key `Figures/`/`Thinkers/` placement and thinker-note quality gates.
 - 2026-05-25: [[CLAUDE.md]] — added `Thinkers/` quality gate after the [[Graham Allison]] miss: thinker notes must include core thesis, mechanisms, cases/evidence, implications, critiques/limits, and vault use; graph placement alone is insufficient.
 - 2026-05-25: [[Graham Allison]] and [[Thucydides Trap]] — added the explicit "escape mechanisms" Allison points to: strategic clarity, accommodation without capitulation, deterrence plus reassurance, crisis management, alliance discipline, shared projects, and historical imagination. Framed the trap as structural pressure rather than fate, with [[Cold War]], US-Britain, and Athens-Sparta contrasts.
 - 2026-05-25: [[Graham Allison]] — new thinker note for the modern political-science popularizer of the [[Thucydides Trap]] frame; added `Graham Ellison` alias for the common misspelling; linked from [[Thinkers MOC]], [[Thucydides]], and [[Thucydides Trap]].
