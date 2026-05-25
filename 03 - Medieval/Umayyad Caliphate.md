@@ -120,6 +120,8 @@ The Umayyad Caliphate (661-750 CE)—the second Islamic caliphate—oversaw Isla
 
 ### Non-Arabs (Mawali)
 
+*Mawali* were non-Arab converts attached as clients to Arab tribes. Their unequal status exposed a contradiction in the Umayyad order: conversion made them Muslim, but not socially or fiscally equal to Arab Muslims.
+
 | Status | Character |
 |--------|-----------|
 | Converts | Second-class Muslims |

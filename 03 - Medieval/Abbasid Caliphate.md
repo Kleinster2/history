@@ -176,6 +176,18 @@ The Abbasid Caliphate (750-1258 CE)—the third Islamic caliphate—presided ove
 | History | Major works |
 | Theology | Schools developed |
 
+### Persianate Synthesis
+
+The Abbasids turned the Islamic empire from a primarily Arab conquest state into a more cosmopolitan imperial system. The revolution that overthrew the Umayyads drew support from non-Arab Muslims in the eastern provinces; the new capital at Baghdad sat close to former Sasanian lands; and Persian administrators, courtly habits, literary models, and scholarly networks became central to government and culture. That is why the Arab conquest of Persia had an unusual second phase: the conquered society did not disappear into Islam so much as help define what high Islamic civilization became.
+
+| Inheritance | Abbasid Effect |
+|-------------|----------------|
+| Sasanian bureaucracy | Viziers, chancery habits, provincial administration |
+| Persian elites | Administrative and cultural prominence |
+| Eastern provinces | Political base for anti-Umayyad mobilization |
+| Persian literary culture | Courtly models and later New Persian florescence |
+| [[Persian Economic History]] continuity | Conquest followed by synthesis rather than simple replacement |
+
 ## Decline and Fall
 
 ### Fragmentation
@@ -213,6 +225,7 @@ The Abbasid Caliphate (750-1258 CE)—the third Islamic caliphate—presided ove
 
 ## Related Notes
 
+- [[Persian Economic History]]
 - [[Islamic Golden Age]]
 - [[Trade Networks]]
 - [[Silk Road]]
