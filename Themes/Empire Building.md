@@ -187,5 +187,6 @@ Empires are large political units that rule diverse peoples through a combinatio
 
 - [[Colonialism]]
 - [[Trade Networks]]
+- [[Thucydides Trap]]
 - [[Economic Extraction]]
 - [[Ancient Index]]

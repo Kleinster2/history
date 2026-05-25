@@ -478,6 +478,7 @@ Janet Abu-Lughod's thesis: Before European dominance, an interconnected system l
 - [[Levant Trade]] — chokepoint where Asian goods entered Europe
 - [[Woolen Cloth Trade]] — medieval Europe's major manufactured export
 - [[Grain Trade]] — the bulk commodity that enabled urbanization
+- [[Thucydides Trap]] — trade expansion as a source of rising-power pressure
 - [[Great Divergence]]
 - [[Economic Collapse]]
 - [[Institutions and Progress]]

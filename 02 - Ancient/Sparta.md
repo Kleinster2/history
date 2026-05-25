@@ -350,5 +350,6 @@ Sparta represents the anti-commercial extreme of Greek economic organization. Wh
 - [[Greece Index]]
 - [[Greek Economy]]
 - [[Athens]] - Economic opposite
+- [[Thucydides Trap]] - fear of Athens' rise as a structural war cause
 - [[Slavery Economics|Greek Slavery]]
 - [[Origins of Economy]]

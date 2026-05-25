@@ -434,6 +434,10 @@ These schools provide the theoretical foundations that the vault's historical no
   - Monroe Doctrine to Quarter Sphere to Cold War to revival
   - How capability shaped ambition across eras
 
+- [[Thucydides Trap]] - Rising-power vs. established-power conflict risk
+  - Athens-Sparta origin, US-China application
+  - Why material power shifts generate fear, status anxiety, and escalation
+
 - [[Nomos and International Order]] - Schmitt's framework for spatial ordering and law
   - Land appropriation as foundation of property and political authority
   - Jus publicum Europaeum: bracketing of war, European vs. colonial space

@@ -262,6 +262,7 @@ The constant: the United States has never accepted a peer competitor's strategic
 - [[Latin American Development]]
 - [[Military Organization & State Development]]
 - [[Nomos and International Order]] -- Schmitt's Grossraum theory uses the Monroe Doctrine as its foundational model
+- [[Thucydides Trap]] -- incumbent-power fear of peer intrusion into a strategic sphere
 
 ### Cross-vault
 - [Geopolitics: Monroe Doctrine](obsidian://open?vault=geopolitics&file=Concepts%2FMonroe%20Doctrine) -- contemporary application and 2026 revival

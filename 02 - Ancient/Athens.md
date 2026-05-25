@@ -494,5 +494,6 @@ Athens became the ancient world's most commercially sophisticated city—a parad
 - [[Greek Economy]]
 - [[Greek Coinage]]
 - [[Sparta]] - Economic opposite
+- [[Thucydides Trap]] - power-transition frame for Athens-Sparta rivalry
 - [[Piraeus]]
 - [[Delian League]]

@@ -131,7 +131,7 @@ Ancient Greece was not a unified country but hundreds of independent city-states
 |-------|--------------|
 | Philosophy | Socrates, Plato, Aristotle |
 | Drama | Tragedy, comedy |
-| History | Herodotus, Thucydides |
+| History | Herodotus, [[Thucydides]] |
 | Science | Geometry, astronomy |
 | Art | Sculpture, architecture |
 
@@ -146,5 +146,7 @@ Ancient Greece was not a unified country but hundreds of independent city-states
 - [[Greece Index]]
 - [[Greek Economy]]
 - [[Athens]]
+- [[Thucydides]]
+- [[Thucydides Trap]]
 - [[Democracy]]
 - [[Ancient Index]]

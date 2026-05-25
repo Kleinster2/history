@@ -634,6 +634,7 @@ The ancient Greeks created the Mediterranean's most commercialized economy—and
 - [[Greece Index]]
 - [[Athens]]
 - [[Greek Coinage]]
+- [[Thucydides Trap]]
 - [[Greek Economic Thought]]
 - [[Roman Economy]]
 - [[Mediterranean Trade]]

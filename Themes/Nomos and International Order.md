@@ -185,6 +185,7 @@ Schmitt's framework, though developed by a jurist for political-legal purposes, 
 
 - [[Hugo Grotius]] -- founded international law framework that Schmitt historicized
 - [[US Hemisphere Defense Strategy]] -- the Monroe Doctrine arc Schmitt used as his Grossraum model
+- [[Thucydides Trap]] -- power-transition pressure inside a changing spatial order
 - [[Military Organization & State Development]] -- war-state feedback loop that the jus publicum Europaeum regulated
 - [[Fiscal State Emergence]] -- the fiscal-military state as product of the spatial order
 - [[War Finance Innovations]] -- financial innovations enabled by the bracketing of war

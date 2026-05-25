@@ -411,6 +411,7 @@ The US initially conditioned Most Favored Nation trade status on human rights (B
 | Taiwan | Potential conflict |
 | Decoupling | Supply chain shifts |
 | Ideology | System competition |
+| [[Thucydides Trap]] | Rising-power vs. incumbent-power escalation risk |
 
 ---
 
@@ -465,4 +466,5 @@ China's rise is the greatest [[Institutions and Progress|institutional]] experim
 - [[Demographic Transition]]
 - [[State Capacity]]
 - [[Whampoa Military Academy]]
+- [[Thucydides Trap]]
 - [[Modern Index]]

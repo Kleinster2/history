@@ -186,5 +186,6 @@ The Delian League began as a defensive alliance against Persia and became the At
 
 - [[Athens]]
 - [[Greek Economy]]
+- [[Thucydides Trap]]
 - [[Democracy]]
 - [[Ancient Index]]

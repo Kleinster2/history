@@ -225,6 +225,7 @@ The Cold War was the 20th century's great natural experiment in institutional ec
 - [[Development Economics]]
 - [[Asian Tigers]]
 - [[China's Rise]]
+- [[Thucydides Trap]] — power-transition rivalry managed without direct superpower war
 - [[Tiananmen Square]] — 1989 as simultaneous crisis across communist systems, resolved differently in China vs. Eastern Europe
 - [[Suez Crisis]] — the 1956 crisis that consolidated US-Soviet bipolarity by demonstrating Britain could no longer act independently of US financial discipline
 - [[Decolonization]]

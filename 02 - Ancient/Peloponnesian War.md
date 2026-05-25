@@ -27,7 +27,7 @@ The Peloponnesian War (431-404 BCE) was ancient Greece's great civil conflict—
 | Factor | Description |
 |--------|-------------|
 | Athenian empire | Growing power |
-| Spartan fear | Thucydides' analysis |
+| Spartan fear | Thucydides' analysis; source of the [[Thucydides Trap]] |
 | Trade rivalry | Corinth vs. Athens |
 | Ideological | Democracy vs. oligarchy |
 
@@ -154,6 +154,8 @@ The Peloponnesian War (431-404 BCE) was ancient Greece's great civil conflict—
 
 - [[Athens]]
 - [[Sparta]]
+- [[Thucydides]]
 - [[Ancient Greece]]
 - [[Delian League]]
 - [[Greek Economy]]
+- [[Thucydides Trap]]

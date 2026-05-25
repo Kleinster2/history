@@ -290,8 +290,11 @@ Hatshepsut was one of ancient Egypt's most successful pharaohs and the most powe
 ## Related Notes
 
 - [[Egypt Index]]
+- [[Ancient Egypt]]
 - [[New Kingdom]]
+- [[New Kingdom Egypt]]
 - [[Valley of the Kings]]
 - [[Karnak]]
 - [[Punt]]
 - [[Thutmose III]]
+- [[Trade Networks]]

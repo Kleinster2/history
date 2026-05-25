@@ -216,6 +216,7 @@ War is the great accelerator of institutional change. Both world wars compressed
 ## Related Notes
 
 - [[World War II as Convergent Conflicts]] — the separate wars that merged
+- [[Thucydides Trap]] — Britain-Germany rivalry as a modern power-transition case
 - [[Interwar Economy]]
 - [[Great Depression]]
 - [[Keynesian Revolution]]

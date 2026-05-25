@@ -32,16 +32,21 @@ From hunter-gatherers to industrial civilization, from local subsistence to glob
 
 ### Cross-Cutting Themes
 - **Themes/** — Notes spanning multiple periods (Great Divergence, Wealth Through History, Economic Persistence)
+- **Figures/** — People included primarily for what they did in history: rulers, financiers, industrialists, reformers, soldiers, named fossil individuals, and other historical actors.
+- **Thinkers/** — People included primarily for the ideas, frameworks, or historical interpretations they contributed: historians, philosophers, economists, theorists, and interpretive writers. Use this for historian notes such as Thucydides, Braudel, or Pomeranz.
 
 ## Conventions
 
 - **Wikilinks** connect related notes: `[[Steam Engine]]`
 - **Link on first mention + Related Notes** — Link a term inline when it first appears, then include in Related Notes section at the end. Don't repeat links for subsequent mentions. If a term appears in a table, prefer linking there over prose.
+- **Table-safe wikilinks** — In Markdown table cells, do not use raw alias wikilinks like `[[Note|alias]]`; the `|` splits the table into extra columns. Prefer `[[Note]]` inside tables. If an alias is necessary, escape the pipe: `[[Note\|alias]]`. Before finishing table-heavy edits, run `rg -n "\|.*\[\[[^\]\\]+\|" .` and fix any unescaped table-cell alias pipes.
 - **Link to relevant period** — When a civilization spans multiple periods (e.g., Egypt), link to the specific period note (e.g., `[[New Kingdom Egypt]]`) rather than the general index.
 - **YAML frontmatter** provides metadata (type, period, tags)
 - **Tables** present structured information
 - **Sources** listed at end of each note
 - **Full-arc ledes** — For narrative notes (companies, people, places, events), the opening paragraph should walk through all major inflection points — not just introduce the topic. A reader who reads only the first paragraph should know what happened and why it mattered. Model: the BP note's lede (founding → Churchill → Iran coup → North Sea → Deepwater Horizon). This convention does *not* apply to analytical/thematic notes (Economic Persistence, Inequality), where the lede states the argument rather than a story.
+- **Human-note placement** — Do not create new notes in `People/`. Use `Figures/` for people whose importance is mainly action inside history; use `Thinkers/` for people whose importance is mainly interpretive infrastructure. If someone could fit both, place the note by why the vault uses them.
+- **Thinker-note quality gate** — A `Thinkers/` note is not done if it is only a source card or graph pointer. It should include: core thesis, mechanisms, cases/evidence, implications, critiques/limits, and vault use. If a thinker is attached to a named framework, explicitly state both what the framework predicts and what mechanisms change the outcome.
 
 ## Changelog
 

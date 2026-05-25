@@ -84,7 +84,8 @@ These analytical notes explain *how* economic change works, spanning all periods
 - [[Themes/Themes Index|Themes]] — Notes spanning multiple periods
 - [[Timeline MOC]] — Chronological overview
 - [[Civilizations MOC]] — Major civilizations
-- [[People MOC]] — Notable figures
+- [[Figures MOC]] — Historical actors
+- [[Thinkers MOC]] — Historians, theorists, and interpretive frameworks
 
 ---
 

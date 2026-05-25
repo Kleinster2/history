@@ -301,5 +301,7 @@ Cleopatra VII Philopator was the last active ruler of Ptolemaic Egypt and one of
 - [[Ptolemaic Egypt]]
 - [[Alexandria]]
 - [[Roman Republic]]
+- [[Roman Economy]]
 - [[Julius Caesar]]
 - [[Augustus]]
+- [[Ancient Index]]

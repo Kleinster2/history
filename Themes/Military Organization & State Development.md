@@ -116,6 +116,7 @@ Content that is primarily about **contemporary doctrine, active conflicts, defen
 - [[Fiscal State Emergence]] — when states became permanent tax collectors
 - [[Bureaucracy]] — administrative systems military logistics helped create
 - [[Technology History]] — broader arc of innovation
+- [[Thucydides Trap]] — great-power transition as a military-institutional stress test
 
 ### Cross-vault
 - [Geopolitics: Military Power](obsidian://open?vault=geopolitics&file=Concepts%2FMilitary%20Power) — contemporary military capability analysis
