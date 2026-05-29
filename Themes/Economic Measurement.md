@@ -372,6 +372,19 @@ This creates an asymmetry for the [[AI and Labor]] debate: GDP captures labor di
 | Debates | Reliability, interpretation |
 | Value | Only source for long-run comparisons |
 
+### Measuring growth surges
+
+Large growth episodes can look different depending on the measurement lens. A pure growth-rate table makes postwar Japan look like the canonical miracle; an absolute-output table makes China dominate because it started later in a much larger world economy; a share-of-world-growth table normalizes by the size of the global economy; a population-weighted measure asks how many people moved how fast for how long.
+
+| Lens | What it captures | China comparison |
+|------|------------------|------------------|
+| Annual per-capita growth | Speed of income catch-up | China 1978-2022: roughly 8.1% per year, faster and longer than most postwar catch-up cases |
+| Population-weighted growth | Human scale of the surge | Tooze/Milanovic frame China as roughly 20x the postwar Japanese boom and more than 290x the US 1865-1914 takeoff |
+| Absolute GDP increment | Added output in constant international dollars | Maddison/OWID: China +$25.3T from 1978-2022 vs Japan +$3.5T from 1953-1991 and US +$738B from 1865-1914 |
+| Share of world growth | Contribution relative to the global economy | China accounts for roughly one-quarter of the 1980-early-2020s world GDP increment in Tooze's reconstruction |
+
+This is why [[China's Rise]] is not just another case in [[Growth Theory]]. It is also a measurement problem: the same historical event has to be read as a rate story, a population story, an output-level story, and a global-share story.
+
 ---
 
 ## Policy Implications
@@ -408,6 +421,8 @@ Economic measurement is not neutral observation—it's a choice about what count
 - Stiglitz, J., Sen, A., & Fitoussi, J. (2009). *Mismeasuring Our Lives*
 - Maddison, A. (2007). *Contours of the World Economy*
 - Nordhaus, W. (1996). "Do Real-Output and Real-Wage Measures Capture Reality?"
+- Bolt and van Zanden (2024). Maddison Project Database 2023
+- Tooze, A. (2026). "Chartbook 450: Modern growth surges"
 
 ---
 
@@ -417,6 +432,9 @@ Economic measurement is not neutral observation—it's a choice about what count
 - [[Economic Thought]]
 - [[Services Economy]]
 - [[Growth Theory]]
+- [[China's Rise]]
+- [[Japanese Economic Miracle]]
+- [[Gilded Age]]
 - [[Inequality]]
 - [[Material Living Standards Through History]]
 - [[Development Economics]]

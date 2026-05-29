@@ -42,6 +42,16 @@ Why do some countries grow rich while others stay poor? This question drove the 
 | China (1980-2020) | Reform era | 9.0% |
 | Sub-Saharan Africa (1960-2000) | Stagnation | 0.5% |
 
+### Rate x population x duration
+
+Growth theory usually begins with the compounding rate, but world-historical scale also depends on population and duration. This is why [[China's Rise]] is structurally different from smaller catch-up miracles. Per-capita growth of roughly 8% for more than four decades would be extraordinary anywhere; applied to more than a billion people, it becomes a global-output event.
+
+| Episode | Scale read |
+|---------|------------|
+| US 1865-1914 | Lower per-capita growth but large share of a smaller world-economy increment |
+| Japan 1953-1991 | Very fast catch-up, but across roughly 100 million people |
+| China 1978-2022 | High growth, long duration, and billion-person scale; Maddison/OWID GDP increment about $25.3T in 2011 international dollars |
+
 ---
 
 ## Classical Growth Theory

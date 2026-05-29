@@ -31,6 +31,19 @@ China's economic transformation since 1978 is the most significant economic even
 | Industrialize | 30 years | 150 years |
 | Urbanize | 40 years | 200 years |
 
+### Scale in world-historical comparison
+
+Adam Tooze's Chartbook #450 sharpens the opening claim here: China was not merely another catch-up miracle at larger scale. On Maddison-style GDP reconstruction and Branko Milanovic's population-weighted framing, the surge combined unusually high per-capita growth, a huge population base, and an unusually long run.
+
+| Comparison lens | China read |
+|-----------------|------------|
+| Population-weighted growth | 1978-2022: 8.1% annual per-capita growth across an average population of roughly 1.23 billion. Tooze/Milanovic scale this at roughly 20x postwar Japan's boom and more than 290x the US 1865-1914 takeoff. |
+| Absolute GDP increment | 1978-2022 GDP rose by about $25.3 trillion in 2011 international dollars. Comparable Maddison/OWID increments: Japan 1953-1991 +$3.5 trillion; US 1865-1914 +$738 billion. |
+| Share of world growth | Tooze's reconstruction puts China at roughly one-quarter of the global GDP increment from 1980 to the early 2020s; the US 1865-WWI case was closer to 30%, but off a much smaller world economy. |
+| Energy footprint | Coal use marks the material base: pre-1750 biological energy, Western fossil industrialization after 1750, then China's 2000s coal surge, which Tooze frames as about four times the US peak. |
+
+The implication is a useful correction to both triumphalist and dismissive readings. China's current rebalancing problem comes after the largest industrial-demand shock in recorded economic history; slowing from that base is not just a cyclical disappointment but the end of an exceptional growth regime.
+
 ---
 
 ## Before Reform: Mao's Economy (1949-1976)
@@ -445,6 +458,9 @@ China's rise is the greatest [[Institutions and Progress|institutional]] experim
 - Kroeber, A. (2016). *China's Economy*
 - Lardy, N. (2014). *Markets over Mao*
 - Pettis, M. (2013). *The Great Rebalancing*
+- Tooze, A. (2026). "Chartbook 450: Modern growth surges"
+- Milanovic, B. (2026). *The Great Global Transformation*
+- Bolt and van Zanden (2024). Maddison Project Database 2023, via Our World in Data
 
 ---
 
@@ -452,9 +468,14 @@ China's rise is the greatest [[Institutions and Progress|institutional]] experim
 
 - [[Tiananmen Square]]
 - [[Asian Tigers]]
+- [[Japanese Economic Miracle]]
+- [[Gilded Age]]
 - [[Globalization]]
 - [[Neoliberalism]]
 - [[Great Divergence]]
+- [[Economic Convergence]]
+- [[Economic Measurement]]
+- [[Growth Theory]]
 - [[Song Dynasty]]
 - [[Qing China Economy]]
 - [[Soviet Economy]]
