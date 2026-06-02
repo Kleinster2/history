@@ -349,3 +349,4 @@ Growth theory confronts a puzzle: small differences in growth rates, sustained o
 - [[Development Economics]]
 - [[Economic Thought]]
 - [[Industrial Revolution]]
+- [[Technology Fencing]] — innovation rents persist only while the advantage resists imitation

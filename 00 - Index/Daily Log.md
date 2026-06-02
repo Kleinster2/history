@@ -4,6 +4,11 @@ Reverse-chronological log of notes created and updated in the history vault.
 
 ---
 
+## 2026-06-02
+
+- [[Technology Fencing]] (`Themes/`) — created. The long-arc of keeping vs losing a technological lead (silk, Greek fire, Murano glass, porcelain, British textile machinery / [[Samuel Slater]]); the replicability rule that decides whether fencing holds; the Lewis-Prebisch-Singer / producer-vs-user-surplus distribution tie-in. Back-linked from [[Trade Theory]] and [[Growth Theory]].
+- Cross-vault: extracted from the investing vault's `Technological surplus capture` concept per the lens test — history owns the durable long-arc, investing keeps the live 2026 debate. Paired technologies note `Technology Appropriability` created the same pass.
+
 ## 2026-05-28
 
 - [[China's Rise]] (`05 - Modern/`) — expanded the overview with Adam Tooze's Chartbook 450 / Branko Milanovic / Maddison comparison of modern growth surges. Added the key scale checks: China 1978-2022 at roughly 8.1% annual per-capita growth across an average population of about 1.23B; Maddison/OWID GDP increment of about $25.3T in 2011 international dollars, versus Japan 1953-1991 +$3.5T and US 1865-1914 +$738B; and Tooze's reconstruction that China accounted for roughly one-quarter of world GDP growth from 1980 to the early 2020s. The note now distinguishes "fast growth" from "world-historical scale."
