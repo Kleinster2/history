@@ -4,6 +4,11 @@ Reverse-chronological log of notes created and updated in the history vault.
 
 ---
 
+## 2026-06-14
+
+- [[Standardization]] (`Themes/`) — created. Standard-setting as an engine of economic progress and a recurring arena of power: interoperability/network effects, division of labor (interchangeable parts, the shipping container), and transaction-cost reduction ([[Douglass North]]). Standards-wars cases (railway gauge / Gauge Act 1846, the International Telegraph Union of 1865, metric / Metre Convention 1875, time zones 1883-84, AC/DC War of the Currents, ISO container) and the path-dependence lesson (David's QWERTY 1985, Arthur, Puffert). Back-linked from [[Railroad Revolution]] and [[Globalization]].
+- Cross-vault: prompted by the geopolitics `Technical Standards` note's request for historical precedent — history owns the long-arc of standardization; geopolitics owns the modern statecraft (China Standards 2035, the ITU contest, AI-agent protocols). Cross-linked to geopolitics `Technical Standards` and technologies `MCP`.
+
 ## 2026-06-02
 
 - [[Technology Fencing]] (`Themes/`) — created. The long-arc of keeping vs losing a technological lead (silk, Greek fire, Murano glass, porcelain, British textile machinery / [[Samuel Slater]]); the replicability rule that decides whether fencing holds; the Lewis-Prebisch-Singer / producer-vs-user-surplus distribution tie-in. Back-linked from [[Trade Theory]] and [[Growth Theory]].

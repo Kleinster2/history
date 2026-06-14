@@ -399,6 +399,7 @@ Railroads are where modern [[Institutions and Progress|institutional]] capitalis
 ## Related Notes
 
 - [[Industrial Revolution]]
+- [[Standardization]] — the gauge wars as a canonical standards-war and path-dependence case
 - [[Second Industrial Revolution]]
 - [[Corporate Evolution]]
 - [[Investment Banking]]
