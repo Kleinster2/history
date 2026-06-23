@@ -347,3 +347,4 @@ Central banks are [[Institutions and Progress|institutional]] responses to a fun
 - [[Gold Standard]]
 - [[Monetary Policy]]
 - [[Institutions and Progress]]
+- [[Alan Greenspan]] — Fed chair 1987–2006; the "Greenspan put," the Great Moderation, and the deregulatory road to 2008
