@@ -258,6 +258,7 @@ Creative destruction is the operational test of [[Institutions and Progress|inst
 
 ## Related Notes
 
+- [[Jeffrey Ding]] — the diffusion-side foil: power flows to the best diffuser of a general-purpose technology, not the leading-sector pioneer
 - [[Innovation Economics]]
 - [[Entrepreneurship]]
 - [[Institutions and Progress]]
