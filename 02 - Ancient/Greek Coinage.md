@@ -121,6 +121,27 @@ The invention of coinage in Lydia (~600 BCE) and its rapid adoption across the G
 
 Coins penetrated deeply into [[Greek Economy|Greek daily life]]. Even laborers and slaves handled money. This is fundamentally different from ancient Near Eastern economies where silver was weighed and used mainly by elites and institutions. Greek coinage democratized exchange.
 
+### Weights and Standards
+
+Greek money was weighed silver before it was coined: every denomination began as a unit of mass, and a coin was just a state-stamped guarantee of that weight. The Attic standard Athens spread across its empire ran as follows.
+
+| Unit | Equivalents | Silver weight |
+|------|-------------|---------------|
+| Talent | 60 minae / 6,000 drachmae / 36,000 obols | ~25.86 kg |
+| Mina | 100 drachmae | ~431 g |
+| Drachma | 6 obols | ~4.31 g |
+| Obol | 1/6 drachma | ~0.72 g |
+
+Because the unit was a weight, rival cities coined to different standards, and a "talent" was never one fixed quantity:
+
+| Standard | Drachma | Talent | Where used |
+|----------|---------|--------|------------|
+| Attic-Euboic | ~4.3 g | ~25.86 kg | Athens and its empire; the "owl" tetradrachm |
+| Aeginetan | ~6.1 g | ~36.6 kg | Aegina, much of the Peloponnese and central Greece; about 40% heavier |
+| Babylonian | — | ~30.2 kg (7/6 Euboic) | Achaemenid silver-tribute assessment |
+
+This is why an ancient money figure means little until its standard is named. [[Herodotus]] assessed the Persian Empire's silver tribute in Babylonian talents but its gold in Euboic, then totalled the whole at 14,560 Euboic talents a year (3.95), on the order of 375 tonnes of silver-equivalent: the stored surplus that made Persian subsidy diplomacy possible. The two sides of the [[Peloponnesian War]] reckoned differently as well, Athens on the Attic standard and the Peloponnesian world largely on the heavier Aeginetan, while Sparta shunned coinage altogether and leaned on Persian gold to pay its fleets.
+
 ---
 
 ## Coins and Power
@@ -182,4 +203,6 @@ Coinage didn't just make trade easier—it made *market society* possible. When 
 - [[Mediterranean Trade]]
 - [[Hellenistic Period]]
 - [[Phoenicians]]
+- [[Peloponnesian War]]
+- [[Herodotus]]
 - [[Ancient Index]]

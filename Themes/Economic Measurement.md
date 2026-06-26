@@ -385,6 +385,19 @@ Large growth episodes can look different depending on the measurement lens. A pu
 
 This is why [[China's Rise]] is not just another case in [[Growth Theory]]. It is also a measurement problem: the same historical event has to be read as a rate story, a population story, an output-level story, and a global-share story.
 
+### Ancient figures and the standards problem
+
+Pre-modern economies left no national accounts, so their scale is reconstructed from fiscal records, tribute lists, and the weight of coined metal — sources that carry their own traps. The deepest is that the unit itself was not fixed: Greek money was weighed silver, and a "talent" meant ~25.86 kg on the Attic standard but ~36.6 kg on the Aeginetan and ~30.2 kg as the Babylonian tribute talent (see [[Greek Coinage]]). A sum in "talents" is meaningless until its standard is named, and ancient authors often leave it unnamed.
+
+| Trap | Example |
+|------|---------|
+| Unit not fixed | "Talent" ranges ~25-37 kg by standard; rival states reckoned differently |
+| Standard mixing | [[Herodotus]] gives Persian silver tribute in Babylonian talents but gold in Euboic, then totals in Euboic |
+| Totals that do not reconcile | His district figures do not sum cleanly to his stated 14,560-talent grand total (3.95) |
+| Source incentive | Tribute lists, war-cost claims, and treasure inventories all had political uses |
+
+The working rule is the one modern GDP comparison also needs: a number is only as good as the unit, method, and source behind it. Herodotus's ~14,560-talent Persian tribute (~375 tonnes of silver-equivalent a year) is best read as an order-of-magnitude claim, perhaps ±10%, not a ledger entry — yet even at that precision it explains how Persia could buy the outcome of the [[Peloponnesian War]] and dictate the [[King's Peace]] without fielding a decisive army.
+
 ---
 
 ## Policy Implications
@@ -439,3 +452,5 @@ Economic measurement is not neutral observation—it's a choice about what count
 - [[Material Living Standards Through History]]
 - [[Development Economics]]
 - [[Wealth Through History]]
+- [[Greek Coinage]]
+- [[Peloponnesian War]]

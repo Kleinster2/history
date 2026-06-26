@@ -353,3 +353,5 @@ Sparta represents the anti-commercial extreme of Greek economic organization. Wh
 - [[Thucydides Trap]] - fear of Athens' rise as a structural war cause
 - [[Slavery Economics|Greek Slavery]]
 - [[Origins of Economy]]
+- [[Corinthian War]] - Persian-funded coalition that checked Spartan hegemony
+- [[King's Peace]] - Spartan hegemony legitimized under Persian arbitration
